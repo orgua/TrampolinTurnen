@@ -12,11 +12,14 @@ repos:
       - id: check-yaml
       - id: end-of-file-fixer
       - id: trailing-whitespace
+      - id: check-executables-have-shebangs
+      - id: detect-private-key
       - id: mixed-line-ending
       - id: check-added-large-files
       - id: check-case-conflict
       - id: check-docstring-first
       - id: check-merge-conflict
+      - id: check-symlinks
       - id: check-toml
       - id: fix-byte-order-marker
 
@@ -24,15 +27,18 @@ repos:
     rev: v2.4.0
     hooks:
       - id: add-trailing-comma
+
   - repo: https://github.com/pycqa/isort
     rev: 5.12.0
     hooks:
       - id: isort
         args: ["--profile", "black", "--filter-files", "--force-single-line"]
+
   - repo: https://github.com/psf/black
-    rev: 22.12.0
+    rev: 23.1.0
     hooks:
       - id: black
+
   - repo: https://github.com/pre-commit/pygrep-hooks
     rev: v1.10.0
     hooks:
@@ -43,8 +49,21 @@ repos:
       - id: rst-directive-colons
       - id: rst-inline-touching-normal
       - id: text-unicode-replacement-char
+
   - repo: https://github.com/asottile/pyupgrade
     rev: v3.3.1
     hooks:
       - id: pyupgrade
         args: [--py310-plus]
+
+#  - repo: https://github.com/Lucas-C/pre-commit-hooks-markup
+#    rev: v1.0.1
+#    hooks:
+#    - id: rst-linter
+
+  - repo: https://github.com/rstcheck/rstcheck
+    rev: v6.1.2
+    hooks:
+      - id: rstcheck
+        additional_dependencies: ["rstcheck[sphinx,toml]"]
+        args: ["--report-level=WARNING"]  # otherwise there is too much chatter
