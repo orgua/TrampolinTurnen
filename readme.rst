@@ -1,17 +1,17 @@
 Einführung ins TrampolinTurnen
 ==============================
 
-.. image:: https://github.com/orgua/TrampolinTurnen-Basis/actions/workflows/pages/pages-build-deployment/badge.svg
-    :target: https://github.com/orgua/TrampolinTurnen-Basis/actions/workflows/pages/pages-build-deployment
+.. image:: https://github.com/orgua/TrampolinTurnen/actions/workflows/pages/pages-build-deployment/badge.svg
+    :target: https://github.com/orgua/TrampolinTurnen/actions/workflows/pages/pages-build-deployment
     :name: pages-deployment
 
 Links:
 
-- `Inhalt als Webseite 📱 <https://orgua.github.io/TrampolinTurnen-Basis/>`_
+- `Inhalt als Webseite 📱 <https://orgua.github.io/TrampolinTurnen/>`_
 
-- `Inhalt als PDF 📄 <https://github.com/orgua/TrampolinTurnen-Basis/releases>`_
+- `Inhalt als PDF 📄 <https://github.com/orgua/TrampolinTurnen/releases>`_
 
-- `Inhalt als reStructuredText 💻 <https://github.com/orgua/TrampolinTurnen-Basis/tree/main/docs/content>`_
+- `Inhalt als reStructuredText 💻 <https://github.com/orgua/TrampolinTurnen/tree/main/docs/content>`_
 
 Latest Changes:
 
