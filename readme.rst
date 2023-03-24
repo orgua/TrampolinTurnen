@@ -17,9 +17,9 @@ Latest Changes:
 
 - 0.8.0
 
- - Fehlerbilder der Grundsprünge erweitert
- - Phasendarstellungen hinzugefügt
- - Trampolinaufbauten hinzugefügt
+  - Fehlerbilder der Grundsprünge erweitert
+  - Phasendarstellungen hinzugefügt
+  - Trampolinaufbauten hinzugefügt
 
 - 0.7.5
 
