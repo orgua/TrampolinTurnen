@@ -39,7 +39,6 @@ Folgende Übungsfolge eignet sich zur ersten Gewöhnung an das Trampolin. Als Or
 - Variation: Schattenlauf (2 Personen in auf anderer Seite oder diagonal auf dem gleichen Gerät)
 - **"Nähmaschine springend"** - statt laufend nun leicht springend über das Tuch bewegen (viele Sprünge, wenig Distanz)
 
-.. _Abstoppen:
 
 Abstoppen
 ----------

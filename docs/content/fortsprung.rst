@@ -181,5 +181,5 @@ Wer die Herausforderung mag und
     -1      Salto rw.   .           Schraubs.   .           Doppels. S.
     -1.25   Salto in R. .           .           .           .
     -1.75   .           .           .           .           .
-    -2      Doppel rw.              Voll ein oä .           .
+    -2      Doppel rw.  .           Voll ein oä .           .
     ======= =========== =========== =========== =========== ===========
