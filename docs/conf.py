@@ -9,7 +9,7 @@
 
 project = "Trampolinturnen"
 project_full = "Einführung ins Trampolinturnen"
-copyright = "2022, Ingmar Splitt"
+project_copyright = "2022, Ingmar Splitt"
 author = "Ingmar Splitt"
 release = "0.8.1"
 builder = "html latexpdf"
