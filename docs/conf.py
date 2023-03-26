@@ -40,12 +40,12 @@ html_theme_options = {
     "show_scrolltop": True,
     "show_prev_next": True,
     "extra_header_links": {
-        "PDF-Version": "https://github.com/orgua/TrampolinTurnen-Basis/releases",
-        "Quelldateien": "https://github.com/orgua/TrampolinTurnen-Basis/tree/main/docs/content",
+        "PDF-Version": "https://github.com/orgua/TrampolinTurnen/releases",
+        "Quelldateien": "https://github.com/orgua/TrampolinTurnen/tree/main/docs/content",
     },
 }
 # TODO: https://sphinxawesome.xyz/how-to/options/
-html_baseurl = "https://orgua.github.io/TrampolinTurnen-Basis/"
+html_baseurl = "https://orgua.github.io/TrampolinTurnen/"
 html_extra_path = ["robots.txt"]
 html_static_path = ["_static"]
 
