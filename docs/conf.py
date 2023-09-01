@@ -9,7 +9,7 @@
 
 project = "Trampolinturnen"
 project_full = "Einführung ins Trampolinturnen"
-project_copyright = "2022, Ingmar Splitt"
+project_copyright = "2022-2023, Ingmar Splitt"
 author = "Ingmar Splitt"
 release = "0.8.2"
 builder = "html latexpdf"
@@ -20,12 +20,15 @@ builder = "html latexpdf"
 extensions = [
     "sphinxawesome_theme",
     "sphinx_sitemap",
+    "myst_parser",
 ]
 
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 language = "de"
+
+myst_enable_extensions = ["colon_fence"]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output

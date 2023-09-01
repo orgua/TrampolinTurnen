@@ -107,3 +107,13 @@ Wie kann ich beitragen?
 Schreibfehler gefunden? Bessere Methodik zu bieten? Hilfe und Anmerkungen sind willkommen. Die Quellen befinden sich unter ``docs/content`` in Form von reStructuredText-Dateien.
 
 - `Writing reStructuredText <https://www.writethedocs.org/guide/writing/reStructuredText/>`_
+
+TODO
+-------------
+
+- switch to markdown / myst-parser
+- add auto-releaser on tag
+- Einsatz von Klammern reduzieren -> Nebensätze
+- add videos
+
+    - basics techniques

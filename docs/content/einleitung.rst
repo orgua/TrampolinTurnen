@@ -41,14 +41,14 @@ Gerätekunde
 
 Im Laufe der Zeit sind viele unterschiedliche Trampolintypen entwickelt worden. Die heute 4.26 m langen und 2.13 m breiten **Tücher** bestehen aus elastischen Nylonbändern, die miteinander verknüpft sind. Inklusive Rahmen ist das aufgebaute Gerät 5.20 m x 3.05 m groß und 1.15 m hoch.
 
-Ältere Tücher bestehen aus Bändern, die 12 oder sogar 45 mm breit sind. Geräte neuerer Generation haben Tücher aus 4mm- und 6mm-Bändern. Zunächst wurden beide Breiten in Kombination je für Längs- und Querrichtung verwendet, doch gibt es inzwischen auch reine 4mm-Tücher. Die Versionen unterscheiden sich vor allem hinsichtlich ihrer Wurfkraft, die immer weiter verbessert wurde.
+Ältere Tücher bestehen aus Bändern, die 12 oder sogar 45 mm breit sind. Geräte neuerer Generation haben Tücher aus 4mm- und 6mm-Bändern. Zunächst wurden beide Breiten in Kombination je für Längs- und Querrichtung verwendet, doch gibt es inzwischen auch reine 4mm-Tücher. Die Versionen unterscheiden sich vor allem hinsichtlich ihrer resultierenden Wurfkraft, die immer weiter verbessert wurde.
 
-Ergänzend ist die **Rahmenhöhe** des Trampolins stetig vergrößert worden, um eine größere Ausdehnung der Tücher nach unten zu erlauben. Das Tuch selbst ist an 118 Stahlfedern am Rahmen befestigt. Über den Federn ist zum Schutz der Aktiven eine **Schaumstoffabdeckung** angebracht. Fehlt diese, so sollte darauf verzichtet werden, das Gerät zu benutzen.
+Ergänzend ist die **Rahmenhöhe** des Trampolins stetig vergrößert worden, um eine größere Ausdehnung der Tücher nach unten zu erlauben. Das Tuch selbst ist an 118 Stahlfedern am Rahmen befestigt. Über den Federn ist zum Schutz der aktiven Springer eine **Schaumstoffabdeckung** angebracht. Fehlt diese, so sollte darauf verzichtet werden, das Gerät zu benutzen.
 
 Weitere Unterschiede bestehen in der Art der benutzten Ständer. Ältere Geräte besitzen oft nur einfache Rollständer. Beim Aufbau des Trampolins muss dieses daher kurz angehoben werden. Neuere Modelle sind in mit **Heberollständern** ausgestattet, die ein Absenken des Trampolins erlauben.
 
-Eine **bebilderte Aufbauanleitung** ist im Internet unter `<www.eurotramp.com>`_ zu finden.
+Eine **bebilderte Aufbauanleitung** ist im Internet bei `Eurotramp <www.eurotramp.com>`_ zu finden.
 
 .. figure:: ../media/trampolin.png
 
-   Übersicht Trampolin im aufgebauten Zustand, Quelle: https://www.eurotramp.com/en/products/ultimate
+   Trampolin im aufgebauten Zustand, Quelle: https://www.eurotramp.com/en/products/ultimate

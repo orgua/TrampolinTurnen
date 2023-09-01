@@ -6,7 +6,7 @@
 Einführung ins Trampolinturnen
 ================================
 
-Ein Leitfaden für Trainer, Kursleiter, Lehrer und Gruppenhelfer. Es wird daran gearbeitet die Basisscheine I und II, sowie Teile vom Trainer C abzudecken.
+Ein Leitfaden für Trainer, Kursleiter, Lehrer und Gruppenhelfer. Es wird daran gearbeitet die Basisscheine I und II, sowie Teile von der Trainer C Ausbildung abzudecken. Die Inhalte werden sowohl als PDF-Broschüre, als auch als Webseite veröffentlicht. Siehe `<https://orgua.github.io/TrampolinTurnen/>`_ für mehr Details.
 
 .. toctree::
    :maxdepth: 2
