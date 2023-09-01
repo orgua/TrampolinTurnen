@@ -9,7 +9,7 @@
 
 project = "Trampolinturnen"
 project_full = "Einführung ins Trampolinturnen"
-project_copyright = "2022-2023, Ingmar Splitt"
+copyright = "2022-2023, Ingmar Splitt"
 author = "Ingmar Splitt"
 release = "0.8.2"
 builder = "html latexpdf"
@@ -35,7 +35,7 @@ myst_enable_extensions = ["colon_fence"]
 
 html_title = project_full
 html_collapsible_definitions = True
-html_copy_source = False
+html_copy_source = True
 
 html_permalinks_icon = "<span>#</span>"
 html_theme = "sphinxawesome_theme"
