@@ -180,6 +180,7 @@ Der Rückensprung bereitet Anfängern erfahrungsgemäß oft erst einmal Probleme
     Sprung in den Rücken & in den Stand in Phasendarstellung
 
 .. _TechnikSalto:
+
 .. rubric:: Technik - Saltorotation rückwärts
 
 Auch wenn man hier von einem Salto spricht, wird diese Technik bereits für Sitz- und Rückensprung benötigt. Das Aufbauen der Saltorotation beginnt nach dem Absprung mit einer **Vorspannung des Körpers**. Dabei wird die **Hüfte gekippt**! Gelegentlich hört man das **falsche** *"Hüfte vorschieben"*, welches den Körper in die Bananenform bringt. Als Analogie zum Kippen der Hüfte kann man sich vorstellen, dass man eine Gürtelschnalle (bzw. den Bauchnabel) in den Bauch einziehen möchte. Der Oberschenkel bewegt sich dabei leicht nach vorne und es entsteht eine Vorspannung (C-Minus). Nach Aufbau der Spannung erfolgt der Wechsel **von C-Minus ins C-Plus**, d.h. ein Kick mit den Beinen und sofortiges **Abstoppen in leichter Schiffchenposition** (Po-Muskel arbeitet). Mit gewisser Intensität ist diese Bewegung ausreichend für den gestreckten Rückwärtssalto. Im Folgenden wird diese Technik abgekürzt mit **"Vorspannung und Kick"** beschrieben.
