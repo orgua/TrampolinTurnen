@@ -19,11 +19,13 @@ jobs:
         with:
           fetch-depth: 0 # otherwise, you will fail to push refs to dest repo
 
+      - name: Install dependencies 🔧
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: install
+
       - name: Run Pre-Commit Tests 🧪
         uses: pre-commit/action@v3.0.0
-
-      - name: Install dependencies 🔧
-        run: pip3 install "sphinx<7.0" sphinxawesome-theme sphinx-sitemap myst-parser
 
       - name: Build and Commit 🧱
         uses: sphinx-notes/pages@v2
