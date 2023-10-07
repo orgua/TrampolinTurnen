@@ -12,6 +12,9 @@ permissions:
 
 jobs:
   build-pages:
+    permissions:
+      pages: write
+      id-token: write
     uses: ./.github/workflows/sphinx_to_pages.yml
   build-pdf:
     uses: ./.github/workflows/sphinx_to_pdf.yml
@@ -20,9 +23,6 @@ jobs:
     needs:
       - build-pages
       - build-pdf
-    permissions:
-      pages: write
-      id-token: write
     steps:
 
       - name: Download Artifact PDF
