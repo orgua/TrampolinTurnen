@@ -34,7 +34,7 @@ jobs:
       - name: Build and Commit 🧱
         uses: sphinx-notes/pages@v3
         with:
-          sphinx_version: "<7"
+          sphinx_version: "6.2.1"
           checkout: false
 
       - name: Push changes 📌
