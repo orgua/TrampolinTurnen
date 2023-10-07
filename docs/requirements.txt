@@ -1,0 +1,5 @@
+sphinx<7
+sphinxawesome-theme<5
+sphinx-sitemap
+myst-parser
+rstdoc
