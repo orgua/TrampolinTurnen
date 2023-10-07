@@ -5,10 +5,11 @@ In den ersten Trainingsstunden sollten Aktive zuerst mit einigen Übungen an die
 
 Zu den wichtigsten **Effekten auf dem Trampolin** zählen:
 
-- Sprünge werden durch die Tuchwölbung in Richtung des Kreuzes geleitet
+- Sprünge werden durch die Tuchwölbung zur Mitte, in Richtung des Kreuzes, geleitet
 - Überkorrekturen können sich potenzieren; daher sollte man vorsichtig korrigieren oder abstoppen. Erfahrene Trainer können demonstrieren was passiert nachdem man vom Randbereich des Tuchs zurück aufs Kreuz springt
-- Ungleichgewichte wie z.B. Vorlage (oder falls jemand mit gesenktem Kopf aufs Tuch schaut) wirken sich auf die Sprungrichtung aus
-- Kräfte werden mit gewisser Höhe schwerer kontrollierbar, daher im Tuch immer gestreckte Knie und sicherer breiter Stand (Schulterweite)
+- Ungleichgewichte wie z.B. Vorlage (etwa mit gesenktem Kopf aufs Tuch schauen) wirken sich auf die Sprungrichtung aus
+- Kräfte werden mit gewisser Höhe schwerer kontrollierbar, daher im Tuch immer weitgehend gestreckte Knie und sicherer breiter Stand (Schulterweite)
+- die Federkonstante des Trampolintuchs und das Gewicht des Aktiven geben einen Rhythmus vor, welcher bei der Orientierung helfen können
 
 
 .. tip::
@@ -57,8 +58,8 @@ Wie bereits erwähnt, sollte dem methodischen Erlernen des Abstoppens aus Sicher
 .. rubric:: Methodische Übungsreihe
 
 - **Kniehebelauf** in Vorwärtsbewegung; nur die Beine bewegen sich, der Oberkörper bleibt statisch auf einer Höhe
-- Variation: **beidbeiniges Federn** in Vorwärtsbewegung
-- Variation: Reiten auf einem Esel, Pferd oder ähnlichem
+- Variation 1: **beidbeiniges Federn** in Vorwärtsbewegung
+- Variation 2: Reiten auf einem Esel, Pferd oder ähnlichem
 - **„Buckelpiste fahren“** - auf dem Kreuz niedrigstehend beidbeinig federn und mit den Füßen links/rechts oder vor/zück wechseln, Oberkörper bleibt auf Position
 - in der Mitte des Tuches hochspringen und **auf Klatschsignal oder Zuruf stoppen** (Signal am höchsten Punkt der Teilnehmenden geben)
 - Variation: bewusst nach vorne springen und dann stoppen
@@ -78,7 +79,7 @@ Die nun folgenden Übungen erarbeiten das dosierte Wippen auf dem Trampolin. Das
 - Überqueren des Geräts von Stirnseite zu Stirnseite mit einer vorgegeben Anzahl von Sprüngen, die Arme bleiben jeweils unten
 - Variation: möglichst niedrig springen
 - Variation in der Anzahl der Sprünge (erst 3, dann 4...)
-- **Stoppwettkampf**: von der Stirnseite in 3 Sprüngen bis zur vorderen roten Linie springen und mit den Zehen noch vor der Linie stoppen. Wer am dichtesten rankommt gewinnt
+- **Stoppwettkampf-Spiel**: von der Stirnseite in 3 Sprüngen bis zur vorderen roten Linie springen und mit den Zehen noch vor der Linie stoppen. Wer am dichtesten rankommt gewinnt
 
 Beim Springen im Strom darauf achten, dass nicht auf den Rahmen oder die Sicherheitsmatten gesprungen wird. Grundsätzlich sollten die Aktiven vor den Weichböden auf dem Trampolin stoppen.
 
@@ -118,6 +119,7 @@ Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen 
 - die Arme werden über die Vorderseite gestreckt nach oben neben den Kopf geführt - eine kraftvolle beschleunigende Bewegung die aber noch vor dem Bewegungsmaximum (Anschlag) abgebremst wird
 
   - alternativ ist ein Armzug über die Seite möglich - gerade bei fehlender Kontrolle über die Mittelkörperspannung kann diese Bewegung leichter sein
+  - in Vereinen sieht man oft eine reduzierte Bewegung mit Ähnlichkeit zum Brustschwimmen bei der die Arme im gebeugten Zustand dicht vorm Körper nach Oben geführt werden
   - die Intensität des Armschwungs ermöglicht einen Wechsel zwischen Höhe gewinnen und halten
 
 - die gestreckten Arme bleiben oben für einen kurzen Moment gestellt, bzw. können sie noch etwas weiter aufgezogen werden - zeitlich etwa bis zum höchsten Punkt des Sprungs
@@ -129,9 +131,8 @@ Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen 
 
 - Landung in Rücklage: Hohlkreuz? Armschwung nach oben zu stark? Alternativ Arme über Seite ziehen, bzw. Sprunghöhe reduzieren
 - Wandern und Armrudern: Armeinsatz üben, bzw. Höhe reduzieren
-- Beine arbeiten mit oder sind krumm: erklären, dass Beine nicht zum Höhengewinn oder zum Halten des Gleichgewichts benutzt werden. Durchgängig (annähernd) gestreckte Knie während des Strecksprungs!
+- Beine arbeiten mit oder Knie sind krumm: erklären, dass Beine nicht zum Höhengewinn oder zum Halten des Gleichgewichts benutzt werden. Durchgängig (annähernd) gestreckte Knie während des Strecksprungs!
 - Arme hinter dem Körper: Bewegung erneut erklären oder Arme erstmal statisch halten
-- Beine krumm:
 
 Stellen der Arme
 -----------------

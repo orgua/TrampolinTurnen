@@ -30,7 +30,7 @@ jobs:
           command: install
 
       - name: Install dependencies 🔧
-        run: |       
+        run: |
           sudo apt install texlive-latex-recommended texlive-fonts-recommended
           sudo apt install texlive-latex-extra tex-gyre latexmk texlive-lang-german
           pip install pipenv

@@ -7,7 +7,7 @@ Dieses Kapitel bietet eine Übersicht über kleine Spiele und Ideen für einen s
     TODO: besser beschreiben und einsortieren in Schwierigkeitsgruppen
 
 Ohne Materialien
-----------------
+-------------------
 
 - Krabbeln (vorwärts, rückwärts, seitwärts)
 - Laufen (vorwärts, rückwärts, Anfersen, Kniehebelauf)
@@ -29,14 +29,29 @@ Ohne Materialien
 - „Cowboy Joe“: kräftig in das Gerät stampfen und den entstehenden Schwung wieder im Kniegelenk abfedern schneller Wechsel zwischen stampfen und abfedern (wichtige Übung um auf dem Trampolin das Stoppen/Stehen bleiben zu üben)
 - Springen und auf Signal stehen bleiben
 
-Übungen mit Partner
-----------------------
+Mit Material
+--------------
+
+- Ein Seil schlangenartig über das Trampolin legen und darüber balancieren
+- **Seilspringen** auf dem Trampolin: Umgewöhnung erforderlich, aber dafür 3fach-Durchschläge möglich
+- Variation Seilspringen auf dem Trampolin: Zwei Personen stehen auf den Weichböden an der Stirnseite und schlagen ein langes Seil, eine dritte Person versucht dabei in der Mitte zu springen. Die Person in der Mitte kann dabei ein zusätzlich mit einem eigenem Seil springen.
+- Ein Seil längs und drei Seile quer über das Trampolin legen (acht Felder), von Feld zu Feld springen (auch zu zweit möglich)
+- Variation: die Seilenden werden von anderen Personen gehalten und die Feldgrößen werden während des Springens verändert
+- zu zweit beim Springen einen weichen Ball zuwerfen
+- **Ball-Abfangen**: Zwei oder vier Personen sitzen auf den Weichböden und versuchen sich einen Ball zuzupassen, eine Person in der Mitte versucht den Ball abzufangen
+- Kleine Gymnastik-Reifen auf das Trampolin legen, von Ring zu Ring springen
+- Luftballons oder Säckchen von außen auf das Trampolin werfen/legen eine oder zwei Personen versuchen die Ballons wieder vom Trampolin zu werden („Trampolin freihalten“)
+- Einen Luftballon beim Springen immer wieder in die Luft schlagen (Achtung: die Aufmerksamkeit liegt auf dem Luftballon, daher das Trampolin an den Seiten gut absichern)
+- Mehrere Luftballon auf das Trampolin legen und um Ballons herumspringen, Ballons dürfen nicht berührt werden
+
+Mit einem Partner
+-------------------
 
 - Partner springt einen Weg über das Trampolin vor, der andere muss sich den Weg merken und den Weg nachahmen
 - „Karawane“: zwei Personen, einer geht/hüpft vor der andere steht hinter der ersten Person und hält sich an den Schultern fest und wird mit geschlossen/offenen Augen über das Trampolin geführt
 - **Auskontern**: zwei Personen machen jeweils auf ihrer Hälfte des Trampolins vorsichtige niedrige Strecksprünge, am besten anfangs zeitlich versetzt zueinander: Ziel ist es dem Partner den Schwung wegzunehmen (Ihn zu stoppen)
-- **Auskontern Level 2**: Regeln wie bevor, aber als Sprünge im Wechsel Standsprung & Sitz
-- **„Rakete“**: eine kräftige Person „schießt“ eine kleinere Person in die Luft (wichtig: die werfende Person muss beim Wurf stehen bleiben – nicht mehr springen und muss die andere Person auch wieder auffangen bzw. abbremsen)
+- **Auskontern - Level 2**: Regeln wie bevor, nun z.B. im Wechsel Standsprung & Sitz
+- **„Rakete“**: eine kräftige Person „schießt“ eine kleinere Person in die Luft, wichtig: die katapultierende Person muss beim Wurf stehen bleiben – nicht mehr springen und muss die andere Person auch wieder einfangen bzw. abbremsen
 - **Stoppwettkampf**: von der Stirnseite in 3 Sprüngen bis zur vorderen roten Linie springen und mit den Zehen noch vor der Linie stoppen. Wer am dichtesten rankommt gewinnt
 - **Wettrollen**: Querrollen über die Längsseite des Trampolintuch - ein Teilnehmer rollte vor und auf Signal eines Außenstehenden oder bei Erreichen des Kreuzes darf der zweite starten und versuchen einzuholen
 - **Sitz-Rakete** (fortgeschritten)
@@ -51,21 +66,6 @@ Ohne Materialien
 - „Eiserne Jungfrau“: eine Person legt sich in die Mitte (wichtig: Körper ganz gestreckt und angespannt), zwei oder vier Person stehen sich an den langen Seiten gegenüber und treten auf ein Signal gemeinsam fest ins Trampolin, so dass die Person in der Mitte hochgeschossen wird
 - Einen Partner, der auf Trampolin sitzt oder einen Medizinball hochschießen (Achtung Gefahr)
 - Paarsalto (fortgeschritten) - nebeneinanderstehend, Blickrichtung entgegengesetzt, mit verschränkten Armen macht eine Person einen Vorwärts- und die andere einen Rückwärtssalto
-
-Übungen mit Material
---------------------
-
-- Ein Seil schlangenartig über das Trampolin legen und darüber balancieren
-- **Seilspringen** auf dem Trampolin: Umgewöhnung erforderlich, aber dafür 3fach-Durchschläge möglich
-- Variation Seilspringen auf dem Trampolin: Zwei Personen stehen auf den Weichböden an der Stirnseite und schlagen ein langes Seil, eine dritte Person versucht dabei in der Mitte zu springen. Die Person in der Mitte kann dabei ein zusätzlich mit einem eigenem Seil springen.
-- Ein Seil längs und drei Seile quer über das Trampolin legen (acht Felder), von Feld zu Feld springen (auch zu zweit möglich)
-- Variation: die Seilenden werden von anderen Personen gehalten und die Feldgrößen werden während des Springens verändert
-- zu zweit beim Springen einen weichen Ball zuwerfen
-- **Ball-Abfangen**: Zwei oder vier Personen sitzen auf den Weichböden und versuchen sich einen Ball zuzupassen, eine Person in der Mitte versucht den Ball abzufangen
-- Kleine Gymnastik-Reifen auf das Trampolin legen, von Ring zu Ring springen
-- Luftballons oder Säckchen von außen auf das Trampolin werfen/legen eine oder zwei Personen versuchen die Ballons wieder vom Trampolin zu werden („Trampolin freihalten“)
-- Einen Luftballon beim Springen immer wieder in die Luft schlagen (Achtung: die Aufmerksamkeit liegt auf dem Luftballon, daher das Trampolin an den Seiten gut absichern)
-- Mehrere Luftballon auf das Trampolin legen und um Ballons herumspringen, Ballons dürfen nicht berührt werden
 
 Spiele auf dem Trampolin
 ------------------------
@@ -98,8 +98,24 @@ Sitz-Jonglage
 
 - die Gruppe wird aufgeteilt auf die Stirnseiten, die Seite mit mehr Teilnehmern beginnt
 - Jonglage ist Programm - das Trampolin wird hierfür in 4 Quadranten geteilt.
-- Eine Person der einen Seite stellt sich in einen Quadranten und eine Person der anderen Seite stellt sich in den diagonalen Quadranten und springt in den Quadranten vor ihm in den Sitz um die erste Person neben ihm zu katapultieren. Diese schießt nun ebenfalls in den Quadranten vor ihm in die Sitzlandung (an dieser Stelle ist schnelles Aufstehen und ein kleiner Sprung vor sich auf die Matte wichtig).
+- Eine Person der einen Seite stellt sich in einen Quadranten und eine Person der anderen Seite stellt sich in den diagonal dazu befindlichen Quadranten und springt in den Quadranten vor ihm in den Sitz um die erste Person neben ihm zu katapultieren. Diese schießt nun ebenfalls in den Quadranten vor ihm in die Sitzlandung (an dieser Stelle ist schnelles Aufstehen und ein kleiner Sprung vor sich auf die Matte wichtig).
 - Dies lässt sich erstmal trocken üben. Später füllt man mit den übrigen Personen die Positionen wieder auf und es wird eine durchgängige Wiederholung draus.
+
+Domino
+~~~~~~~~
+
+**Teilnehmer**: mind. 3
+
+**Materialien**: keine
+
+.. rubric:: Spielbeschreibung
+
+- die Teilnehmer starten verteilt vom Rand
+- reih-um erfolgt Sprungfolge, etwa Sitz-Stand oder Rücken-Stand
+- Ziel ist es wieder zurück in den sicheren Stand zu kommen
+- wer das Gleichgewicht verliert, bzw. einen Ausgleichsschritt machen muss, ist für die Runde raus
+- Beeinflussung durch die anderen Personen im Tuch sind erlaubt
+
 
 Fangen um die Matte
 ~~~~~~~~~~~~~~~~~~~~~~~

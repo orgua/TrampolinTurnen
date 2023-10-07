@@ -26,7 +26,7 @@ Bei allen Landungen auf den Füßen sind die Beine im Tuch etwa schulterweit ge�
 .. figure:: ../media/spruenge_hocke_buecke_graetsche.png
     :width: 800px
     :name: fig:hock_buck_gratsch
-    :alt: Die drei Fusssprünge in Phasendarstellung
+    :alt: Die drei Basissprünge in Phasendarstellung
 
     Die drei Fusssprünge in Phasendarstellung
 
@@ -37,7 +37,7 @@ Bei allen Landungen auf den Füßen sind die Beine im Tuch etwa schulterweit ge�
 - Die **Grätsche** verläuft wie die Bücke. Bloß werden hierbei die gestreckten Beine in der Luft mindestens 90 Grad weit gespreizt.
 - Die Landung erfolgt jeweils mit gestellten Armen.
 
-.. rubric:: Feinstform - Hocke
+.. rubric:: Hocke - Ausführung der Feinstform
 
 - Absprung, Arme starten in gestellter Haltung
 - **In der Steigphase wird die Hocke eingeleitet**, Beine sind bereits geschlossen, Knie bleiben parallel zueinander
@@ -68,9 +68,9 @@ Schraubensprünge
 
 Schrauben haben beim Trampolinturnen eine nicht unwesentliche Bedeutung. Erlauben sie doch, besonders später in Verbindung mit den Salti, eine viele größere Variation der Sprünge (Salto vw., Salto vw. mit ½-Schraube, Salto vw. mit 1½-Schrauben ...) auf dem Trampolin.
 
-Es gibt verschiedene Techniken eine Schraubenbewegungen für Standschrauben in der Luft auszuführen. Die eine ist recht intuitiv (höhenabhängig, nicht einfach genau dosiert) ausführbar: die Schraubenbewegung wird schon im Tuch durch ein Drehen des Körpers in die gewünschte Richtung eingeleitet. Das Tuch bzw. die Füße sorgen demnach für die Rotation. Die zweite und bevorzugte Technik funktioniert indem man die Schulter-Seite entsprechend der gewünschten Drehrichtung nach hinten aushebt und die Gegenseite nach vorne kippt. Der Kopf kann die Drehrichtung unterstützen. In späteren Schraubensalti wird daraus die **asymmetrische Armbewegung**.
+Es gibt verschiedene Techniken eine Schraubenbewegungen für Standschrauben in der Luft auszuführen. Die eine ist recht intuitiv (höhenabhängig, nicht einfach genau dosiert) ausführbar: die Schraubenbewegung wird schon im Tuch durch ein Drehen des Körpers in die gewünschte Richtung eingeleitet. Das Tuch bzw. die Füße sorgen demnach für die Rotation. Die zweite und bevorzugte Technik funktioniert indem man die Schulter-Seite entsprechend der gewünschten Drehrichtung nach hinten aushebt und die Gegenseite nach vorne kippt. Der Kopf kann die Drehrichtung unterstützen. Für Schraubensalti wird daraus die **asymmetrische Armbewegung**.
 
-Wasserspringer verwenden noch weitere Schraubentechniken - sie führen eine **Hula-Hoop-Bewegung** in der Luft aus - zusätzlich kann eine Scherenbewegung der Beine zusätzliche Rotation erzeugen. Als aufmerksamer Trampolintrainer entdeckt man die Hula-Hoop-Bewegung unter Umständen bei Sitz ½-Schraube Sitz oder Baranis.
+Ski- und Wasserspringer verwenden noch weitere Schraubentechniken. Skispringer schrauben etwa mit Einsatz des gesamten Oberkörpers. Dies findet beim Trampolinturnen keine Verwendung. Die Wasserspringer führen eine **Hula-Hoop-Bewegung** in der Luft aus - zusätzlich kann eine Scherenbewegung der Beine weitere Rotation erzeugen. Als aufmerksamer Trampolintrainer entdeckt man die Hula-Hoop-Bewegung unter Umständen bei Sitz ½-Schraube Sitz oder Baranis.
 
 .. figure:: ../media/sprung_halbe_schraube.jpg
     :width: 200px
@@ -92,25 +92,25 @@ Bei den Sprüngen des Anfängerbereichs handelt es sich meist um **im Tuch einge
 
 - Sprung mit seitlich ausgestreckten Armen (T-Form), halbe Schrauben vor und zurück
 - sobald das stabil funktioniert, nach einer viertel Schraube die Arme an den Körper nehmen (der eine Arm im Bogen, der andere dicht an den Körper) und damit die Schraube beschleunigen, zum Verlangsamen / Stoppen die Arme wieder ausstrecken
-- Übung mit gestellten Armen wiederholen - der Schraube ist direkt schneller und kann nur verlangsamt werden
+- Übung mit gestellten Armen wiederholen - die Schraube ist direkt schneller und kann nur verlangsamt werden
 
-Beim Trampolinturnen sollte **eine Drehrichtung** vom Aktiven **eingehalten** werden. Wie beim Schreiben auch, gibt es Vorlieben für das Drehen nach rechts oder links. In welche Richtung der Turner sich dreht, ist egal; wichtig ist bloß, dass er eine einmal „ausgesuchte“ Drehrichtung bei allen Schrauben später beibehält. Bei Demonstrationen sollte man gerade bei kleinen Kindern darauf achten, deren Drehrichtung zu „benutzen“, um nicht durch einen „Nachmach-Effekt“ eine falsche Drehrichtung des Aktiven zu bewirken.
+Beim Trampolinturnen sollte **eine Drehrichtung** vom Aktiven **eingehalten** werden. In welche Richtung der Turner sich dreht, ist egal; empfehlenswert ist, dass er eine einmal „ausgesuchte“ Drehrichtung bei allen Schrauben später beibehält. Bei Demonstrationen sollte man gerade bei kleinen Kindern darauf achten, deren eigene Drehrichtung zu verwenden, um nicht durch einen „Nachmach-Effekt“ eine falsche Drehrichtung des Aktiven zu bewirken.
 
 .. rubric:: Schraube in der Luft - Bewegungsbeschreibung
 
 - Absprung zum Strecksprung
-- eine Schulter-Seite wird entsprechend der Drehrichtung nach hinten ausgehoben, die Gegenseite kann nach vorne bewegt werden
+- eine Schulter-Seite wird entsprechend der Drehrichtung nach hinten ausgehoben, die andere Schulter kann nach vorne bewegt werden
 - der Kopf kann die Bewegung in Drehrichtung unterstützen
 - die Arme können zunächst am Körper anliegen, gestellt sein oder
 - die asymmetrische Schraube aktiv unterstützen:
 
-  - der Arm in Schraubenrichtung unterstützt das Ausheben der Schulter durch ein Nach-oben-strecken und wird dabei nach hinten herunterführt - Ziel ist das Gesäß - allerdings bleibt der Arm relativ durch die Schraube seitlich vom Springer
+  - der Arm in Schraubenrichtung unterstützt das Ausheben der Schulter durch ein Nach-oben-strecken und wird anschließend nach hinten herunterführt - Ziel ist das Gesäß - allerdings bleibt der Arm relativ durch die Schraube seitlich vom Springer
   - der andere Arm wird über die Vorderseite heruntergeführt - Ziel ist der diagonale Hüftknochen
 
 .. rubric:: Fehler und Korrekturen
 
-- unbewusstes Abdrücken der Hände in der Luft: beide Arme in Drehrichtung mitnehmen
-- Beine nicht geschlossen: Aufmerksam machen, bzw. Schaumstoffblock zwischen die Füße klemmen
+- unbewusstes Abdrücken der Hände in der Luft: stattdessen beide Arme in Drehrichtung mitnehmen
+- Beine nicht geschlossen: darauf Aufmerksam machen, bzw. Schaumstoffblock zwischen die Füße klemmen
 - Überdrehen bzw zu wenig rotieren: Fixpunkt suchen, Armbewegung üben
 - Kippen aus der Achse: Phasentrennung beachten, erst Abspringen
 
@@ -146,7 +146,7 @@ Die erste wichtige Landungsform nach den Fußsprüngen ist der Sitz. Der Name wi
 
 - Demonstration; besonders die Landeposition verdeutlichen
 - Sitzposition statisch auf dem Tuch einnehmen
-- aus dem Wippen den Körper vorspannen und Beine nach vorne schieben
+- im Stand aus dem Wippen heraus den Körper vorspannen und Beine nach vorne schieben um im Sitz zu landen
 - Sprunghöhe immer weiter steigern
 
 .. rubric:: Fehler und Korrekturen

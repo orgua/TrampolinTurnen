@@ -17,7 +17,7 @@ Aus dem oben Gesagten lassen sich folgende Anforderungen an die Gymnastik beim T
 
 Welche Übungen für den jeweiligen Bereich geeignet sind, kann diversen Fachbüchern zu diesen Themen entnommen werden. Wichtig ist es jedoch, dass Aufwärmen nicht immer nur auf die oben aufgeführten Bereiche zu beschränken. Eine Aufgabe des Sports ist es auch, eine ganzheitliche Körperausbildung zu erzielen und nicht zu spezialisieren.
 
-Grundsätzlich ist es ratsam, einen Grundstock von Übungen regelmäßig durchzuführen - ein wenig Abwechslung dazu ist oft willkommen.
+Grundsätzlich ist es ratsam, einen Grundstock von Übungen regelmäßig durchzuführen - ein wenig Abwechslung dazu ist oft willkommen. Weiterhin sei erwähnt, dass Vorübungen für geplante Sprünge ins Haupttraining gehören. Beispielsweise Techniken für Schrauben und Salti, die sich bereits am Boden üben lassen. Die Erwärmung ist dafür da Körper und Geist auf das spezifische Training vorzubereiten.
 
 Im Anschluss an die Erwärmung ist ein **Einspringen** sehr sinnvoll. In dieser Phase lassen sich zum einen die Grundsprünge wiederholen (beispielsweise je 5 Hocken, Bücken, Grätschen mit Zwischensprung) und zum anderen können Aktive ihre maximale Sprunghöhe entsprechend der Tagesform ausloten - dazu müssen sie jederzeit abstoppen können. Die letztgenannte Übung kann die Ausführungsqualität in der darauffolgenden gewohnten Höhe verbessern.
 
@@ -50,7 +50,6 @@ Aufgaben des Trainers
 
 Neben dem Anleiten der Erwärmung gehören folgende Punkte zu den Aufgaben eines Trainers:
 
-- Überblick über die Gruppe behalten - insbesondere bei Kindern)
+- Überblick über die Gruppe behalten - insbesondere bei Kindern
 - Korrekturen anbieten und wichtige Punkte während der Durchführung ansprechen wie etwa Hohlkreuz, durchhängende Hüfte, Asymmetrie, Verdrehung
 - Alternative Übungen bereithalten für Teilnehmer mit zu wenig Ausdauer, Kraft oder Einschränkungen wie überlasteten Gelenken
-- Vorübungen für spätere Sprünge in die Erwärmung einbauen. Auch Techniken für Schrauben und Salti lassen sich bereits am Boden üben

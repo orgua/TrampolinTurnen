@@ -194,7 +194,7 @@ Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu
 - durch den Kontakt zum aktiven Springer kann man die Relation leicht manipulieren und eine gleichzeitige Landung erzwingen
 - manche Springer neigen dazu ihr Sprungverhalten beim Anzählen zu verändern, dies erfordert eure Aufmerksamkeit und Anpassung!
 
-Während der Ausführung der Hilfestellung steht man in der Regel seitlich vom Aktiven. Kontakt wird bei Kindern über den **Sandwichgriff** gehalten. Dabei befindet sich ein Arm des Trainers vor dem Bauch des Aktiven und die Hand des anderen Arms stabilisierend am oberen Rücken, in etwa zwischen den Schulterblättern.
+Während der Ausführung der Hilfestellung steht man in der Regel seitlich vom Aktiven. Kontakt wird über den **Sandwichgriff** gehalten. Dabei befindet sich ein Arm des Trainers vor dem Bauch des Aktiven und die Hand des anderen Arms stabilisierend am oberen Rücken, in etwa zwischen den Schulterblättern.
 
 Weitere hilfreiche Hilfestellungen werden passend zu den jeweiligen Sprüngen im Kapitel :doc:`grundspruenge` und später vorgestellt. Sie umfassen:
 
