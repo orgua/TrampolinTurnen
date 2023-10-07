@@ -24,20 +24,11 @@ jobs:
         with:
           fetch-depth: 0 # otherwise, you will fail to push refs to dest repo
 
-      - name: Install dependencies A 🔧
-        uses: VaultVulp/action-pipenv@v2.0.1
-        with:
-          command: install
-
       - name: Install dependencies 🔧
         run: |
           sudo apt install texlive-latex-recommended texlive-fonts-recommended
           sudo apt install texlive-latex-extra tex-gyre latexmk texlive-lang-german
-          pip install pipenv
-          pipenv install
-
-      - name: Enter Pipenv
-        run: pipenv shell
+          pip install -r docs/requirements.txt
 
       - name: Build PDF 🧱
         run: make latexpdf
