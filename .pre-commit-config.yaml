@@ -35,7 +35,7 @@ repos:
         args: ["--profile", "black", "--filter-files", "--force-single-line"]
 
   - repo: https://github.com/psf/black
-    rev: 23.7.0
+    rev: 23.9.1
     hooks:
       - id: black
 
@@ -51,7 +51,7 @@ repos:
       - id: text-unicode-replacement-char
 
   - repo: https://github.com/asottile/pyupgrade
-    rev: v3.10.1
+    rev: v3.14.0
     hooks:
       - id: pyupgrade
         args: [--py310-plus]
@@ -62,7 +62,7 @@ repos:
 #    - id: rst-linter
 
   - repo: https://github.com/rstcheck/rstcheck
-    rev: v6.1.2
+    rev: v6.2.0
     hooks:
       - id: rstcheck
         additional_dependencies: ["rstcheck[sphinx,toml]"]
