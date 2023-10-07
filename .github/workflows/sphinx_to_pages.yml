@@ -1,21 +1,25 @@
 name: Generate Github-Pages
 on:
   push:
-    branches:
-    - main
+    branches: [main]
   pull_request:
-    branches:
-    - main
+    branches: [main]
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
     steps:
 
       - name: Set up Python 🐍
         uses: actions/setup-python@v4
       - name: Checkout 🛎️
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0 # otherwise, you will fail to push refs to dest repo
 
@@ -28,7 +32,11 @@ jobs:
         uses: pre-commit/action@v3.0.0
 
       - name: Build and Commit 🧱
-        uses: sphinx-notes/pages@v2
+        uses: sphinx-notes/pages@v3
+        with:
+          sphinx_version: "<7"
+          checkout: false
+
       - name: Push changes 📌
         uses: ad-m/github-push-action@master
         with:
