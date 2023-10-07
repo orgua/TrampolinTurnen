@@ -26,12 +26,5 @@ jobs:
         with:
           python-version: 3.11
 
-      - name: Build and Commit 🧱
+      - name: Build and Push Pages 🧱
         uses: sphinx-notes/pages@v3
-
-      - name: Push changes 📌
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: pages
-          force: true

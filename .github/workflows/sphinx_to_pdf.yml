@@ -1,4 +1,4 @@
-name: Generate Github-Pages
+name: Generate PDF
 on:
   push:
     branches: [main]
