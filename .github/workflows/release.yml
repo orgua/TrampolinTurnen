@@ -3,7 +3,7 @@ name: Release tagged Commit
 on:
   workflow_call:
   push:
-    branches: [ main ]  # this is handled as OR (push to main OR tagged)
+    # branches: [ main ]  # this is handled as OR (push to main OR tagged)
     tags:
       - 'v*.*.*'
 
@@ -33,4 +33,5 @@ jobs:
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          files: trampolinturnen.pdf
+          files: TrampolinTurnen/trampolinturnen.pdf
+        if: startsWith(github.ref, 'refs/tags/')
