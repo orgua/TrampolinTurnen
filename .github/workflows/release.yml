@@ -20,6 +20,9 @@ jobs:
     needs:
       - build-pages
       - build-pdf
+    permissions:
+      pages: write
+      id-token: write
     steps:
 
       - name: Download Artifact PDF
