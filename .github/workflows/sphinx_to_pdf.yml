@@ -29,10 +29,15 @@ jobs:
         with:
           command: install
 
-      - name: Install dependencies B 🔧
-        run: |
+      - name: Install dependencies 🔧
+        run: |       
           sudo apt install texlive-latex-recommended texlive-fonts-recommended
           sudo apt install texlive-latex-extra tex-gyre latexmk texlive-lang-german
+          pip install pipenv
+          pipenv install
+
+      - name: Enter Pipenv
+        run: pipenv shell
 
       - name: Build PDF 🧱
         run: make latexpdf

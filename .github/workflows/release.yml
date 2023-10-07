@@ -1,0 +1,33 @@
+name: Release tagged Commit
+
+on:
+  workflow_call:
+  push:
+    # branches: [ main ]  # this is handled as OR (push to main OR tagged)
+    tags:
+      - 'v*.*.*'
+
+permissions:
+  contents: write
+
+jobs:
+  build-pages:
+    uses: ./.github/workflows/sphinx_to_pages.yml
+  build-pdf:
+    uses: ./.github/workflows/sphinx_to_pdf.yml
+  release:
+    runs-on: ubuntu-latest
+    needs:
+      - build-pages
+      - build-pdf
+    steps:
+
+      - name: Download Artifact PDF
+        uses: actions/download-artifact@v3
+        with:
+          name: "Trampolinturnen"
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: trampolinturnen.pdf

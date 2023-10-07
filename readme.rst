@@ -15,6 +15,10 @@ Links:
 
 Latest Changes:
 
+- 0.8.2
+
+  - Kapitel 1-4 überarbeitet
+
 - 0.8.0
 
   - Fehlerbilder der Grundsprünge erweitert
