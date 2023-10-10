@@ -15,6 +15,11 @@ Links:
 
 Latest Changes:
 
+- 0.8.5
+
+  - Anpassungen am build-system
+  - kleinere Details am Skript überarbeitet
+
 - 0.8.2
 
   - Kapitel 1-4 überarbeitet
