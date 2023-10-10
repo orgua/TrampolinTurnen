@@ -22,12 +22,10 @@ jobs:
       id-token: write
     steps:
 
-      - name: Set up Python 🐍
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.11
-
       - name: Build and Push Pages 🧱
         uses: sphinx-notes/pages@v3
         with:
+          python_version: 3.11
+          sphinx_version: 6.2.1
           publish: ${{ (github.event_name != 'push') && (github.event_name != 'pull_request') }}
+          # TODO: determine if our event is "release" or workflow_call
