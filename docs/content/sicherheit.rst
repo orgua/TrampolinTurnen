@@ -182,8 +182,8 @@ Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu
 
 - nun ist neutrales Mitspringen (gleichzeitige Landung) bzw. leichtes Mitgeben von Höhe gefordert
 - zwei Personen stehen sich gegenüber, fassen sich an den Händen und versuchen Strecksprünge gleichzeitig auf dem Trampolin auszuführen.
-- Variation: hintereinander mit Festhalten an Hüfte oder Schulter
-- Variation: Sprünge mit Drehungen
+- Variation A: hintereinander mit Festhalten an Hüfte oder Schulter
+- Variation B: Sprünge mit Drehungen
 - auf Kommando - in der Regel „und, eins, zwei, drei“ - führt der vorne Stehende einen einfachen Sprung aus, z.B. eine Hocke; der Helfende bleibt dabei mit beiden Füßen fest auf dem Trampolin stehen und verfolgt die Bewegung mit den Armen. Anschließend bei der Landung nicht vergessen einen Teil der Energie aufzunehmen!
 
 .. rubric:: Die Technik perfektionieren

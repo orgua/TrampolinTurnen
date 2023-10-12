@@ -34,7 +34,7 @@ Mit Material
 
 - Ein Seil schlangenartig über das Trampolin legen und darüber balancieren
 - **Seilspringen** auf dem Trampolin: Umgewöhnung erforderlich, aber dafür 3fach-Durchschläge möglich
-- Variation Seilspringen auf dem Trampolin: Zwei Personen stehen auf den Weichböden an der Stirnseite und schlagen ein langes Seil, eine dritte Person versucht dabei in der Mitte zu springen. Die Person in der Mitte kann dabei ein zusätzlich mit einem eigenem Seil springen.
+- Variation: Zwei Personen stehen auf den Weichböden an der Stirnseite und schlagen ein langes Seil, eine dritte Person versucht dabei in der Mitte zu springen. Die Person in der Mitte kann dabei ein zusätzlich mit einem eigenem Seil springen.
 - Ein Seil längs und drei Seile quer über das Trampolin legen (acht Felder), von Feld zu Feld springen (auch zu zweit möglich)
 - Variation: die Seilenden werden von anderen Personen gehalten und die Feldgrößen werden während des Springens verändert
 - zu zweit beim Springen einen weichen Ball zuwerfen
@@ -81,11 +81,11 @@ Koffer-Packen
 
 - ebenfalls bekannt als Anbauen, Anhängen, Sechs-Tage-Rennen
 - ein Turner macht ein Übungsteil vor, der Nächste wiederholt dieses und hängt einen eigenen Sprung dahinter usw.; dies übt vor allem die Verbindung von Sprüngen
-- Variation: man bekommt 3 Versuche statt einem, bzw. darf ab dem zweiten Versuch angesagt werden
-- Variation: ungeübte Sprünge dürfen von Einzelnen ersetzt werden
-- Variation: Ausschließen von Sprungkategorien (kein Bauch) oder Erfinden von Regeln (mind. 90° Saltorotation)
-- Variation: zusätzliche Nachahmung der Ausführung inklusive möglicher Fehler und Geräusche
-- Variation: Erfinden von neuen Sprüngen (Dreifachhocke, Gegrätschter Salto, Hocke ¼ Schraube)
+- Variation A: man bekommt 3 Versuche statt einem, bzw. darf ab dem zweiten Versuch angesagt werden
+- Variation B: ungeübte Sprünge dürfen von Einzelnen ersetzt werden
+- Variation C: Ausschließen von Sprungkategorien (kein Bauch) oder Erfinden von Regeln (mind. 90° Saltorotation)
+- Variation D: zusätzliche Nachahmung der Ausführung inklusive möglicher Fehler und Geräusche
+- Variation E: Erfinden von neuen Sprüngen (Dreifachhocke, Gegrätschter Salto, Hocke ¼ Schraube)
 
 Sitz-Jonglage
 ~~~~~~~~~~~~~~
