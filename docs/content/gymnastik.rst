@@ -3,34 +3,33 @@ Gymnastik
 
 Wie bei allen anderen Sportarten auch, sollte dem eigentlichen Training immer eine den Erfordernissen der Sportart angepasste Erwärmung vorangestellt werden. So natürlich auch beim Trampolinturnen.
 
-Das Trampolinturnen ist im Wesentlichen eine **Kraftsportart**. Das hat Einfluss auf die Art und den Umfang der Übungen, die bei der Gymnastik verwendet werden sollen. Weiterhin werden durch die Wettkampfbestimmungen Anforderungen an die **Beweglichkeit** der Aktiven gestellt, die mit dem Aufwärmen erlangt werden müssen. Als dritter wichtiger Aspekt bei der Gymnastik sollte nicht außer Acht gelassen werden, dass das Trampolinturnen auch erhöhte Anforderungen an die **koordinativen Fähigkeiten** der Aktiven stellt die ebenfalls bei der Erwärmung geschult werden können. Beispiele sind das Gleichgewichtsgefühl und die Fähigkeit, verschiedene Bewegungen zur gleichen Zeit auszuführen.
+Das Trampolinturnen stellt erhöhte Anforderungen an die konditionellen Fähigkeiten der Turner, insbesondere sind hier **Kraft, Schnelligkeit und Beweglichkeit** zu nennen. Das hat Einfluss auf die Art und den Umfang der Übungen, die bei der Gymnastik verwendet werden sollen. Für den korrekten technischen Ablauf sowie Reduktion der Verletzungsgefahr werden besondere Anforderungen an die Beweglichkeit der Aktiven gestellt, die mit der Erwärmung erlangt werden müssen. Als weiterer wichtiger Aspekt sollte nicht außer Acht gelassen werden, dass das Trampolinturnen auch erhöhte Anforderungen an die **koordinativen Fähigkeiten** der Aktiven stellt, die ebenfalls geschult werden können. Beispiele sind das Gleichgewichtsgefühl, die Fähigkeit verschiedene Bewegungen zur gleichen Zeit auszuführen, aber auch Kopplungs- und Antizipationsfähigkeit.
 
-Aus dem oben Gesagten lassen sich folgende Anforderungen an die Gymnastik beim Trampolinturnen formulieren:
+Aus dem oben Gesagten lassen sich folgende Anforderungen an die motorischen Grundfähigkeiten beim Trampolinturnen formulieren:
 
-- Aufbau von Kraft in der Rücken- und Bauchmuskulatur
-- Kräftigung der Armmuskulatur, etwa für das “Arme stellen“
+- Aufbau von Kraft im gesamten Mittelkörper - im Detail Rücken-, Bauch- und Seitenmuskulatur
+- Kräftigung der Schultermuskulatur, etwa für das “Arme stellen“
 - Beweglichkeit des Schulterbereichs fördern - die Arme sollten senkrecht zur Decke gestreckt werden können, ohne dass der Körper mit Rücklage in ein Hohlkreuz ausweicht
-- Beweglichkeit der Beinmuskulatur herstellen, speziell der Innen- und Hinterseite der Oberschenkelmuskulatur. Die Beine sollten weiter als 90 Grad gespreizt werden können
-- Beweglichkeit der unteren Rückenmuskulatur trainieren, um eine möglichst enge gebückte Position einnehmen zu können - der Winkel zwischen Oberkörper und den gestreckten Beinen sollte möglichst gering sein
+- Beweglichkeit der Beinmuskulatur herstellen, speziell der Innen- und Hinterseite der Oberschenkelmuskulatur. Die Beine sollten weiter als 90 Grad geöffnet werden können.
+- Beweglichkeit für den Bückwinkel trainieren - Hauptfokus ist hierbei der hintere Oberschenkel für eine enge Bücke mit geradem Rücken. Ein gekrümmter Rücken fordert ausweichend dazu die untere Rückenmuskulatur.
 - Gleichgewichtsübungen
 - Koordinationsübungen
+- Funktionelles Training
 
-Welche Übungen für den jeweiligen Bereich geeignet sind, kann diversen Fachbüchern zu diesen Themen entnommen werden. Wichtig ist es jedoch, dass Aufwärmen nicht immer nur auf die oben aufgeführten Bereiche zu beschränken. Eine Aufgabe des Sports ist es auch, eine ganzheitliche Körperausbildung zu erzielen und nicht zu spezialisieren.
+Welche Übungen für den jeweiligen Bereich geeignet sind, kann diversen Fachbüchern zu diesen Themen entnommen werden. Wichtig ist es jedoch, dass Erwärmen nicht immer nur auf die oben aufgeführten Bereiche zu beschränken. Eine Aufgabe des Trainings ist es auch, eine ganzheitliche Körperausbildung zu erzielen und nicht zu spezialisieren. Weiterhin sei erwähnt, dass Vorübungen für geplante Sprünge ins Haupttraining gehören. Beispielsweise Techniken für Schrauben und Salti, die sich bereits am Boden üben lassen. Die Erwärmung ist dafür da Körper und Geist auf das spezifische Training vorzubereiten.
 
-Grundsätzlich ist es ratsam, einen Grundstock von Übungen regelmäßig durchzuführen - ein wenig Abwechslung dazu ist oft willkommen. Weiterhin sei erwähnt, dass Vorübungen für geplante Sprünge ins Haupttraining gehören. Beispielsweise Techniken für Schrauben und Salti, die sich bereits am Boden üben lassen. Die Erwärmung ist dafür da Körper und Geist auf das spezifische Training vorzubereiten.
+Im Anschluss an die Erwärmung ist ein **Einspringen** sehr sinnvoll um die kommende Belastung vorzubereiten. Bei diesem lassen sich zum einen die Grundsprünge wiederholen (beispielsweise je 5 Hocken, Bücken, Grätschen mit Zwischensprung) und zum anderen können Aktive ihre maximale Sprunghöhe entsprechend der Tagesform ausloten - dazu müssen sie jederzeit abstoppen können. Die letztgenannte Übung kann die Ausführungsqualität in der darauffolgenden gewohnten Höhe verbessern.
 
-Im Anschluss an die Erwärmung ist ein **Einspringen** sehr sinnvoll. In dieser Phase lassen sich zum einen die Grundsprünge wiederholen (beispielsweise je 5 Hocken, Bücken, Grätschen mit Zwischensprung) und zum anderen können Aktive ihre maximale Sprunghöhe entsprechend der Tagesform ausloten - dazu müssen sie jederzeit abstoppen können. Die letztgenannte Übung kann die Ausführungsqualität in der darauffolgenden gewohnten Höhe verbessern.
-
-Eine weitere Anregung: Aufgrund der Tatsache, dass beim Training jeweils nur ein Aktiver auf dem Trampolin springen kann, ergeben sich für die anderen Turner oft nicht unerhebliche Wartezeiten. Die Zeit kann unter anderem dazu genutzt werden, die eine oder andere Übung aus dem Gymnastikprogramm auszuführen; auch Übungen aus dem Turnbereich können gewinnbringend gefordert werden. Das hat auch den Vorteil, dass der Aktive während der Wartezeit nicht auskühlt.
+Eine weitere Anregung: Für die Trainingsorganisation ist es empfehlenswert, niederschwellige Nebenstationen einzubauen, um Wartezeiten und ein "Cool-Down" der Turner zu verringern. Diese Stationen können spezifische Konditionsübungen oder methodische, technische Abläufe enthalten.
 
 .. note::
-    Zu spät gekommene Teilnehmer sollen nicht gleich bei der Gruppe einsteigen, sondern zunächst die Grunderwärmung selbstständig nachholen.
+    Es ist essentiell, dass zu spät gekommene Teilnehmer nicht gleich bei der Gruppe einsteigen, sondern zunächst die Erwärmung selbstständig nachholen.
 
 
 Beispielkonzept für eine Erwärmung
 ------------------------------------
 
-Bei einer Doppelstunde von 90 min sind 25 - 40 Minuten eine guter Rahmen für eine Erwärmung. Das Ziel der Trainingsstunde kann bereits in der Erwärmung, beispielsweise durch Vorübungen oder muskelaktivierende Übungen, vorbereitet werden. Folgende vier Punkte sollten abgedeckt sein und können mit ähnlichen Zeitanteilen gewichtet werden:
+Bei einer Doppelstunde von 90 min sind 25%, also ca. 25 - 30 Minuten eine guter Rahmen für eine Erwärmung. Das Ziel der Trainingsstunde kann bereits in der Erwärmung, beispielsweise durch Vorübungen oder muskelaktivierende Übungen, vorbereitet werden. Folgende vier Punkte sollten abgedeckt sein und können mit ähnlichen Zeitanteilen gewichtet werden:
 
 Kreislauf hochfahren
     Dazu eignet sich ein Spiel wie `Hase im Kohl <http://www.sportstunde.net/?q=node/90>`_, ein Lauf-ABC oder Ausdauerübungen mit leichter Belastung.

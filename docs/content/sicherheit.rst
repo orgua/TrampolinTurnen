@@ -25,16 +25,16 @@ Wichtig ist es, den Auf- und Abbau mit den Aktiven zu üben und immer wieder ric
 
 .. rubric:: Transport des Trampolins
 
-- beim Transport durch die Halle muss auf eventuell herumliegende Gegenstände oder Bodenfeatures geachtet werden und ein Überfahren vermieden werden
-- das Trampolin wird längs bewegt, am besten an beiden Seiten von jeweils einer Person gezogen und geschoben
-- am Standort des Trampolins dürfen sich keine von der Hallendecke hängenden Hindernisse befinden. Beispiele sind Turn-Ringe, Lampen und lose Seillongen.
+- beim Transport durch die Halle muss auf eventuell herumliegende Gegenstände oder Bodenfeatures geachtet und ein Überfahren vermieden werden
+- um ein Umkippen zu vermeiden, wird das Trampolin längs bewegt, am besten an beiden Seiten von jeweils einer Person gezogen und geschoben
+- am Aufstellort des Trampolins dürfen sich keine von der Hallendecke hängenden Hindernisse befinden. Beispiele sind Turn-Ringe, Lampen und lose Seillongen.
 
 .. rubric:: Heberollständer benutzen
 
 - manche Geräteräume erfordern ein Ablassen des Trampolins - daher muss das Gerät vor dem Aufbau wieder hochgehebelt werden
 - beim Benutzen der Heberollständer immer frontal zu diesen stehen - nicht seitlich dazu.
 - **Achtung**: Nur den vorgesehenen T-Griff greifen. Dies erlaubt einen größeren Hebel und verhindert die Einklemmgefahr der Finger, besonders beim Abbau
-- Zuerst den T-Griff greifen, danach den Sicherungsknopf fassen und herausziehen
+- Zunächst den unteren Sicherheitsbügel entfernen, danach den T-Griff greifen und erst anschließend den Sicherungsknopf herausziehen
 - **Synchron an beiden Heberollständern arbeiten**
 
 .. rubric:: Ausklappen der Standfüße
@@ -96,7 +96,7 @@ Verschiedene Punkte sollten in regelmäßigen Abständen geprüft werden.
 
 **Tuch**: leichte Abnutzung zeigt sich nach ein paar Jahren durch fusselige Stellen, meist in Nähe des Kreuzes. Bedenklich wird es erst wenn einzelne Bänder nachgeben und durchhängen. Sinnvoll springen lässt sich nicht mehr und das Durchreißen steht kurz bevor. Das Tuch sollte spätestens jetzt ausgetauscht oder repariert werden. Der Hersteller kann einzelne Bänder austauschen, was nur begrenzt sinnvoll ist.
 
-**Federn**: Der Satz sollte vollständig und korrekt installiert sein. Die Öffnung der Aufhängung zeigt nach unten und alle Maschen des Tuchs sind eingehängt.
+**Federn**: Der Satz sollte vollständig und korrekt installiert sein. Die Öffnung der Aufhängung zeigt nach unten und alle Maschen des Tuchs sind eingehängt. Fehlende oder beschädigte Federn sollten umgehend ausgetauscht werden, da sonst das Sprungverhalten und die Haltbarkeit der benachbarten Federn negativ beeinflusst werden.
 
 **Rahmen**: Standfüße sollten vollständig und im guten Zustand sein. Bei vielen Geräten von Eurotramp ist die Steckaufnahme der Querträger recht anfällig. Das Rohrstück verbiegt sobald eins der Beine beim Aufbau runterfällt. Schwieriger zu erkennen sind Haarrisse in den umliegenden Schweißnähten. Falls die Querträger über ein Gummiband unter Spannung stehen, so ist auch dies auf Funktion zu prüfen.
 
@@ -157,7 +157,7 @@ Hilfe- und Sicherheitsstellung
 
 Zu den Hilfsmitteln beim Trampolinturnen zählt auch die aktive Arbeit des Trainers am Turner, die Sicherheits- und Hilfestellung. Gerade diese Arbeit ist für das **gefahrlose**, aber auch **zügige Erlernen** neuer Sprünge enorm wichtig. Zum einen kann durch richtige Hilfestellung, auch in Verbindung mit der Schiebematte, das Verletzungsrisiko minimiert werden. Zum anderen ist eine Hilfestellung durch einen erfahrenden Trainer dem Schieben der Matte vorzuziehen, da sich die Unterstützung stufenweise gezielt verringern lässt und damit die „Entwöhnung“ für den Aktiven leichter fällt. Gerade bei diesen, für den Aktiven häufig mit Angstgefühlen verbundenen, Übergängen zwischen Matte und Tuch ist eine kompetente Hilfestellung, welche der Springer auch **vertrauen** kann, äußerst wichtig.
 
-Fehlgeschlagene „Versuche“ können durch spezielle Techniken und entsprechendes Reagieren des Trainers korrigiert und zu einem „glücklichen“ Ende geführt werden. Diese Techniken (z.B. das Fangen, Unterstützung bei Salto- und Schraubenrotationen u.a.) können nur schwer mit Worten beschrieben werden und sind größtenteils Erfahrungswerte, die ein umfassendes Training erfordern. Ich empfehle insbesondere für diesen Bereich **erfahrene Trainer** beim Training zu **beobachten** und vor allem die Hilfestellung intensiv an eigenen sprungsicheren Sportlern zu üben. Auch hier sollte, um das Prinzip der graduellen Annäherung einzuhalten, mit einfachen Sprüngen begonnen werden.
+Fehlgeschlagene „Versuche“ können durch spezielle Techniken und entsprechendes Reagieren des Trainers korrigiert und zu einem „glücklichen“ Ende geführt werden. Diese Techniken (z.B. das Fangen, Unterstützung bei Salto- und Schraubenrotationen u.a.) können nur schwer mit Worten beschrieben werden und sind größtenteils Erfahrungswerte, die ein umfassendes Training erfordern. Empfehlenswert ist hierbei insbesondere für diesen Bereich **erfahrene Trainer** beim Training zu **beobachten** und vor allem die Hilfestellung intensiv an eigenen sprungsicheren Sportlern zu üben. Auch hier sollte, um das Prinzip der graduellen Annäherung einzuhalten, mit einfachen Sprüngen begonnen werden.
 
 Üben der Grundlagen
 ~~~~~~~~~~~~~~~~~~~~
@@ -194,11 +194,10 @@ Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu
 - durch den Kontakt zum aktiven Springer kann man die Relation leicht manipulieren und eine gleichzeitige Landung erzwingen
 - manche Springer neigen dazu ihr Sprungverhalten beim Anzählen zu verändern, dies erfordert eure Aufmerksamkeit und Anpassung!
 
-Während der Ausführung der Hilfestellung steht man in der Regel seitlich vom Aktiven. Kontakt wird über den **Sandwichgriff** gehalten. Dabei befindet sich ein Arm des Trainers vor dem Bauch des Aktiven und die Hand des anderen Arms stabilisierend am oberen Rücken, in etwa zwischen den Schulterblättern.
+Während der Ausführung der Hilfestellung steht man in der Regel seitlich vom Aktiven. Kontakt wird über den **Klammergriff** (siehe :ref:`Klammergriff`) gehalten. Dabei befindet sich ein Arm des Trainers vor dem Bauch des Aktiven und die Hand des anderen Arms stabilisierend am oberen Rücken, in etwa zwischen den Schulterblättern.
 
 Weitere hilfreiche Hilfestellungen werden passend zu den jeweiligen Sprüngen im Kapitel :doc:`grundspruenge` und später vorgestellt. Sie umfassen:
 
-- Klammergriff
 - Stempelgriff
 - Oberarmdrehgriff mit 1 oder 2 Sichernden
 - Absicherung mit einem Gürtel (für Kinder)
@@ -217,7 +216,7 @@ Nach der aktiven Hilfe auf dem Gerät erfolgt in der Regel ein stufenweiser Abba
 - Reinlaufen vom Rahmen des Geräts aus
 - Reinlaufen nur noch auf Verdacht
 
-Der Trainer steht nach Abbau der **Hilfestellung** im Bestfall nur noch **auf dem Rahmen**:
+Der Trainer steht anschließend für eine **Sicherheitsstellung** im Bestfall nur noch **auf dem Rahmen**:
 
 - während der Ausführung eines Sprungs muss immer Blickkontakt zum Übenden gehalten werden
 - direkt nach dem Absprung betritt der Trainer das Tuch und folgt der Bewegung des Aktiven mit schnellen, kleinen Schritten, um bei der Landung direkt neben diesem zu stehen
@@ -234,7 +233,7 @@ Abschließend noch ein paar Hinweise beim **Umgang mit den Teilnehmern**:
 
 - Auf jeden Fall vor kontaktintensiven (Salto-) Hilfestellungen fragen ob der Teilnehmer damit einverstanden ist
 - der Trainer muss sich ebenso der Aufgabe gewachsen fühlen (!)
-- Anzählen mit **„und, eins, zwei, drei“ immer voll ausführen**, alles andere gleicht einem Abbruch
+- Anzählen jeweils bei Fußkontakt mit **„und, eins, zwei, drei“ immer voll ausführen**, alles andere gleicht einem Abbruch
 - für den Aktiven gelten ähnliche Regeln - ein Nicht-Stellen der Arme auf "drei" gleicht einem Abbruch
 
 
@@ -243,7 +242,7 @@ Abschließend noch ein paar Hinweise beim **Umgang mit den Teilnehmern**:
 Einsatz der Schiebematte
 ------------------------
 
-Für das Trampolinturnen sind spezielle Schiebematten aus Schaumstoff entwickelt worden, die das Erlernen neuer und komplizierter Bewegungen unterstützen und hier besonders Verletzungen verhindern sollen. Dabei ist jedoch wichtig zu wissen, dass diese Schiebematten **keinesfalls** in allen Fällen der **„Lebensretter“** sein können, sondern dass das Hauptaugenmerk immer noch auf ein konsequent methodisch aufgebautes Trainingsprogramm gelegt werden sollte. Das bedeutet für die Praxis, dass schwierige Bewegungen, *„weil die Schiebematte ja da ist“*, nicht einfach ausprobiert werden dürfen. Das kann bei fehlgeschlagenen Versuchen neben Verletzungen auch das Entstehen von Angst vor dieser Bewegung beim Aktiven fördern und damit das Erlernen dieser Bewegung erheblich verlangsamen. Ein entsprechender Grundstock von Bewegungserfahrungen auf dem Trampolin ist auch bei Einsatz der Schiebematte unerlässlich.
+Für das Trampolinturnen sind spezielle Schiebematten aus Schaumstoff entwickelt worden, die das Erlernen neuer und komplizierter Bewegungen unterstützen und hier besonders Verletzungen verhindern sollen. Dabei ist jedoch wichtig zu wissen, dass diese Schiebematten **keinesfalls** in allen Fällen der **„Lebensretter“** sein können, sondern lediglich die Wucht der Landung dämpfen soll. Hauptaugenmerk ist immer noch ein konsequent methodisch aufgebautes Trainingsprogramm. Das bedeutet für die Praxis, dass schwierige Bewegungen, *„weil die Schiebematte ja da ist“*, nicht einfach ausprobiert werden dürfen. Das kann bei fehlgeschlagenen Versuchen neben Verletzungen auch das Entstehen von Angst vor dieser Bewegung beim Aktiven fördern und damit das Erlernen dieser Bewegung erheblich verlangsamen. Ein entsprechender Grundstock von Bewegungserfahrungen auf dem Trampolin ist auch bei Einsatz der Schiebematte unerlässlich.
 
 Wichtig ist ebenfalls, dass die Schiebematte eben nur ein **Hilfsmittel** zu Beginn des Erlernens neuer Übungsteile ist und schrittweise wieder entfernt und durch andere adäquate Maßnahmen (Hilfe- bzw. Sicherheitsstellung) ersetzt werden sollte. Dabei darf jedoch nie die Sicherheit des Athleten gefährdet werden.
 

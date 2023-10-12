@@ -19,6 +19,7 @@ Latest Changes:
 
   - Anpassungen am build-system
   - kleinere Details am Skript überarbeitet
+  - externer Review
 
 - 0.8.2
 
@@ -121,8 +122,9 @@ TODO
 -------------
 
 - switch to markdown / myst-parser
-- add auto-releaser on tag
+- neutrale Anrede konsequenter umsetzen
 - Einsatz von Klammern reduzieren -> Nebensätze
+- Texte in kleinere Abschnitte teilen - um später kompakte Übersichten zu generieren (Aufbau, Hilfestellungen, Fehlerbilder, )
 - add videos
 
     - basics techniques

@@ -49,7 +49,7 @@ Wenn der Verein die sorgfältige Auswahl der Trainer, Übungsleiter und Gruppenh
 - Ein besonders strenger Maßstab muss bei der Belehrung über den Umgang mit Feuer, Feuerzeug und Streichhölzern gelegt werden.
 - Eine Verletzung der Aufsichtspflicht ist es auch, dem Kind falsche Belehrungen oder Weisungen zu erteilen.
 - Im Allgemeinen unterliegt der Weg zum Training nicht der Aufsichtspflicht. Das ist Sache der Eltern. Aber man sollte darauf hinweisen, dass die Kinder nicht zu früh zum Training oder anderen Veranstaltungen kommen und sich auch direkt auf den Heimweg begeben.
-- Aufsicht bei besonderen Veranstaltungen (z.B. Ferienlager): Aufsicht über die gesamte Dauer, Tag und Nacht, besonders: im Straßenverkehr (links laufen), Baden, Natur- und Umweltschutz, Briefgeheimnis, Sexualität
+- Aufsicht bei besonderen Veranstaltungen (z.B. Ferienlager): Aufsicht über die gesamte Dauer, Tag und Nacht, besonders im Straßenverkehr (links laufen), Baden, Natur- und Umweltschutz, Briefgeheimnis, Sexualität
 
 .. rubric:: Besonderheiten bei Gruppen
 

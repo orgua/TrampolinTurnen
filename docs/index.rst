@@ -17,13 +17,13 @@ Ein Leitfaden für Trainer, Kursleiter, Lehrer und Gruppenhelfer. Es wird daran 
    content/sicherheit.rst
    content/gymnastik.rst
    content/tuchgewoehnung.rst
-   content/spiele.rst
    content/grundspruenge.rst
    content/sprungverbindung.rst
    content/fortsprung.rst
+   content/spiele.rst
    content/materialien.rst
 
-.. content/fortsprung.rst
+.. content/auskommentiert.rst
 
 ..
    Indices and tables

@@ -12,9 +12,11 @@ Nach den Grundsprüngen und Sprungverbindungen widmet sich dieses Kapitel den Sa
 
 Eine andere Variation der Ausführungsform betrifft das Timing. Ab einer gewissen Sprunghöhe und Koordinationsfähigkeit lässt sich die Symmetrie des Sprungs verändern. Viele Sprünge gewinnen an Qualität sobald im Absprung länger gewartet wird vor dem eigentlichen Start des Sprungs (Schraube im Schraubensalto). Am Beispiel Hocke lohnt es sich ein Gefühl dafür zu vermitteln. Die Teilnehmer können probieren die Symmetrie während des Sprungs herzustellen, d.h. am gleichen Punkt im Raum die Hocke beim Steigen anzufangen und beim Fallen zu beenden. Auch ein Austesten der Extreme kann hilfreich sein - beispielsweise im Versuch die Hocke komplett in der Steigphase oder Fallphase zu absolvieren.
 
+.. _Klammergriff:
+
 .. rubric:: Hilfestellung - Klammergriff
 
-Zur **Stabilisierung von Salti in der Landungen** sollte der **Klammergriff** gut beherrscht werden, da er sowohl Über- als auch Unterrotation bewältigen kann. Der Sichernde steht dazu seitlich zum Aktiven, nähert sich und peilt an bei der Landung mit einem Arm den unteren Bauch zu umschließen und mit der Hand des anderen Arms die untere Wirbelsäule zu stützen. Der Kopf befindet sich seitlich hinter dem Aktiven, dicht am Rücken. Die eigene Schulter befindet sich etwa auf Bauchhöhe.
+Zur **Stabilisierung von Salti in der Landungen** sollte der **Klammergriff** gut beherrscht werden, da er sowohl Über- als auch Unterrotation bewältigen kann. Der Sichernde steht dazu seitlich zum Aktiven. Eine Hand des Trainers zielt vor den Bauch des Aktiven und die andere Hand stabilisiert in Richtung des oberen Rückens. Um **größere Kräfte** zu beherrschen sollte der **Kontakt intensiviert** werden. Dabei nähert sich der Trainer und peilt bei der Landung mit einem Arm den unteren Bauch zu umschließen und mit der Hand des anderen Arms die untere Wirbelsäule zu stützen. Der Kopf befindet sich seitlich hinter dem Aktiven, dicht am Rücken. Die eigene Schulter befindet sich etwa auf Bauchhöhe. Dies funktioniert in leichter Variation sowohl für Vorwärts- als auch Rückwärtssalti in den Stand.
 
 ..
     TODO
@@ -132,7 +134,7 @@ Nächste Schritte:
 
 Hilfestellung:
 
-- Wenn der TN mit Blick nach rechts vor einem steht, dann greift die linke Hand den Hosenbund und die rechte Hand baut leichten Druck an den Schulterblättern des TN auf. Sprung bei drei. Über den Hosenbund gibt man Höhe und über die Schulterblätter Rotation. Nach der Rotation entweder Klammergriff oder mit der rechten Hand die Schulter vor Überdrehen fixieren
+- Wenn der TN mit Blick nach rechts vor einem steht, dann greift die linke Hand den Hosenbund und die rechte Hand baut leichten Druck an den Schulterblättern des TN auf. Sprung bei drei. Über den Hosenbund gibt man Höhe und über die Schulterblätter Rotation. Nach der Rotation entweder Klammergriff anwenden oder mit der rechten Hand die Schulter vor Überdrehen fixieren
 
 Barani
 -----------------------------

@@ -21,7 +21,7 @@ Zum Abschluss noch einige Hinweise für den Trainer bezüglich der Trainingsorga
     - das Zeitspringen macht sich auch gut um einen Fortschritt bei Anfängern deutlich zu machen (erste Stunden nach Tuchgewöhnung vs. 6 Monate später)
 
 - Übungsverbindungen, bei denen zwischen den Sprüngen drei Strecksprünge gemacht werden (z.B. Hocke - 3 Strecksprünge - Bücke - 3 Strecksprünge - Grätsche); die Arme sollen beim Absprung immer gestellt sein
-- das Spiel Koffer-Packen (siehe :doc:`Spiele <spiele>` mit vielen) übt Sprungverbindungen und fordert heraus
+- das Spiel Koffer-Packen (siehe :doc:`Spiele <spiele>` mit vielen Variationen) übt Sprungverbindungen und fordert heraus
 - Übungen synchron turnen - so lernen Aktive das Halten von Höhe und bemerken durch Höhenverlust Fehler während der Landungen
 
 Trainingsorganisation im Studium
