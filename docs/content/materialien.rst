@@ -145,19 +145,4 @@ Quellen
 - http://heiny.info/uni/sport/phasentrampolin.html
 - https://www.shtv.de/wp-content/uploads/2018/03/Ausbildungs-Skript-Trampolin-1.0.pdf - Trainer C Mitschrift von Jan von Horsten
 
-Test von Style-Elementen
-------------------------
 
-.. rubric:: TODO: Entfernen für finale Dokumente
-
-.. note::
-    TEST für verschiedene Admonitions
-
-.. warning::
-    Don't eat yellow snow
-
-.. tip::
-    Try again
-
-.. caution::
-    Caution, Important

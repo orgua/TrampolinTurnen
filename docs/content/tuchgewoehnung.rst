@@ -105,4 +105,4 @@ Der Gleichgewichtssinn ist eine der wichtigen Eigenschaften, die ein Trampolintu
   - Arme anliegend am Körper - etwas instabiler
   - Arme in Hochhalte ("gestellt", siehe Folgeabschnitt)
 
-Nach dieser methodischen Vorbereitung können die Aktiven mit diesen neuen Fertigkeiten nahtlos zu den Grundsprüngen übergehen.
+Nach dieser methodischen Vorbereitung können die Aktiven mit ihren neuen Fertigkeiten nahtlos zu den Grundsprüngen übergehen.

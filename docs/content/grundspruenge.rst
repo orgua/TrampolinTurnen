@@ -1,19 +1,18 @@
 Grundsprünge und Landungsarten
 ==============================
 
-Im Folgenden sollen die Basissprünge sowie die zulässigen Landungsarten auf dem Trampolin vorgestellt werden. Zunächst wird der Strecksprung mit Armeinsatz und das Stellen der Arme erklärt. Anschließend ist die Zeit gekommen das Repertoire zu erweitern. Nach einer kurzen **Bewegungsbeschreibung** erfolgt jeweils eine Übersicht über die Schritte, die ein **methodischen Erlernen** des Sprunges ermöglichen. Normalerweise sollte die Reihenfolge der Schritte eingehalten werden. Es ist jedoch möglich und sinnvoll, einzelne Schritte, je nach Können und Lernfortschritt des Aktiven, auszulassen.
+Im Folgenden sollen die Grundsprünge sowie die zulässigen Landungsarten auf dem Trampolin vorgestellt werden. Zunächst wird hierfür der Strecksprung mit Armeinsatz und das Stellen der Arme erklärt. Auf dieser Basis, ist anschließend die Zeit gekommen das Repertoire zu erweitern. Die Sprünge werden hier in fünf Kategorien aufgeteilt. Zuerst die Fußsprünge Hocksprung (**Hocke**), Bücksprung (**Bücke**) und Grätschwinkelsprung (**Grätsche**). Weiter geht es mit Sprüngen in denen eine Schraubenbewegung ausgeführt wird: Standsprungschraube (**½ Schraube**, **ganze Schraube**). Danach folgen die drei weiteren Landungsarten, die möglich sind: Sitzlandung, Rückenlandung und Bauchlandung (aka. **Sitz**, **Rücken**, **Bauch**). Im Folgekapitel :doc:`sprungverbindung` geht es um die Verbindungen der Landungsarten mit Schrauben wie z.B. **½ Schraube zum Sitz**. Für die Benennung werden anstatt der langen formalen Namen, wie im Training, die Trivialnamen verwendet.
 
-Die Sprünge werden hier in fünf Kategorien aufgeteilt. Zuerst die Fußsprünge Hocksprung (**Hocke**), Bücksprung (**Bücke**) und Grätschwinkelsprung (**Grätsche**). Weiter geht es mit Sprüngen in denen eine Schraubenbewegung ausgeführt wird: Standsprungschraube (**½ Schraube**, **ganze Schraube**). Danach folgen die drei weiteren Landungsarten, die möglich sind: Sitzlandung, Rückenlandung und Bauchlandung (aka. **Sitz**, **Rücken**, **Bauch**). Im Folgekapitel :doc:`sprungverbindung` geht es um die Verbindungen der Landungsarten mit Schrauben wie z.B. **½ Schraube zum Sitz**. Für die Benennung werden anstatt der langen formalen Namen, wie im Training, die Trivialnamen verwendet.
+Nach einer kurzen **Bewegungsbeschreibung** erfolgt je Sprung eine Übersicht über die **Leistungsvoraussetzung** und die Schritte, die ein **methodisches Erlernen** des Sprunges ermöglichen. Normalerweise sollte die Reihenfolge der Schritte eingehalten werden. Es ist jedoch möglich und sinnvoll, einzelne Schritte, je nach Können und Lernfortschritt des Aktiven, auszulassen. Zusätzlich werden für die Sprünge häufige **Fehler und Korrekturen** angeboten.
 
-Falls der Sport vom Aktiven länger betrieben werden will, ist es wichtig früh auf Fehler in der Ausführung einzugehen, da sich Bewegungen relativ schnell im Kopf verfestigen. Es braucht jedoch viele Wiederholungen bis etwas falsch Gelerntes wieder abgewöhnt ist (Erfahrungswert zur Relation der Wiederholungen: 7 zu 35). Bei der Korrektur am Gerät sollte man sich entscheiden auf die Hauptfehler einzugehen oder besser die **Fehler chronologisch abzuarbeiten**, beginnend beim Absprung, da viele Ausgleichsbewegungen oft nur Folgefehler sind.
+Falls der Sport vom Aktiven länger betrieben werden will, ist es wichtig von Beginn an auf Fehler in der Ausführung einzugehen, da sich Bewegungen relativ schnell im Kopf verfestigen. Bei der Korrektur am Gerät sollte man sich entscheiden auf die Hauptfehler einzugehen und  **Fehler chronologisch abzuarbeiten**, beginnend beim Absprung, da viele Ausgleichsbewegungen oft nur Folgefehler sind.
 
+.. note::
+    Um einen Bewegungsablauf gezielt zu reproduzieren, benötigt man bei neu Erlerntem ca. 7 Wiederholungen der korrekten Bewegung. Im Gegensatz dazu werden ca. 35 Wiederholungen benötigt, um einen Bewegungsablauf umzulernen. Bei diesen Kennzahlen handelt es sich um gemittelte Erfahrungswerte, die individuell stark abweichen können.
 
 .. rubric:: Ausführungsformen
 
-Zur Variation der Schwierigkeit lassen sich die Grundsprünge hinsichtlich der Komplexität und Qualität abstufen nach grober Ausführung, fein- und Feinstform. Die **grobe Ausführung** deutet Bewegungen mindestens (erkennbar) an und lässt die Arme unbeachtet. Diese können entweder gestellt oder am Körper angelegt bleiben. Am Beispiel des Hocksprungs werden demnach nur die Beine leicht angehockt und der Oberkörper zum Ausgleich vorgelagert. Bei der **Feinform** gibt es einen vereinfachten Armeinsatz. Ausgehend von den gestellten oder angelegten Armen tippen die Hände im Beispiel der Hocke kurz die Knie an und gehen danach zurück in ihre Ausgangsposition. Die **Feinstform** hat vollen Arm- und Körpereinsatz und erfordert eine gewisse Sprunghöhe, Geschwindigkeit und Übung. Die Beschreibung der Feinstform für die Hocke befindet sich im nächsten Abschnitt.
-
-.. tip::
-    Wie bei der :doc:`tuchgewoehnung` eingeführt, sind im Folgenden **dick** gedruckte Punkte für ein Mindestmaß der Grobform angedeutet.
+Zur Abmilderung der Anforderung während des Erlernens lassen sich Sprünge hinsichtlich der Komplexität und Qualität methodisch abstufen nach grober Ausführung, fein- und Feinstform. Die **grobe Ausführung** deutet Bewegungen mindestens (erkennbar) an und lässt die Arme unbeachtet. Diese können entweder gestellt oder am Körper angelegt bleiben. Am Beispiel des Hocksprungs werden demnach nur die Beine leicht angehockt und der Oberkörper zum Ausgleich vorgelagert. Bei der **Feinform** gibt es einen vereinfachten Armeinsatz. Ausgehend von den gestellten oder angelegten Armen tippen die Hände im Beispiel der Hocke kurz die Knie an und gehen danach zurück in ihre Ausgangsposition. Die **Feinstform** hat vollen Arm- und Körpereinsatz und erfordert eine gewisse Sprunghöhe, Geschwindigkeit und Übung. Ziel sollte immer die Feinstform sein.
 
 ..
     TODO bilder der phasen finden
@@ -23,7 +22,7 @@ Zur Variation der Schwierigkeit lassen sich die Grundsprünge hinsichtlich der K
 Strecksprung mit Armeinsatz
 ---------------------------
 
-Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen Korrekturen für das Gleichgewicht. Sie ermöglichen insbesondere bei komplizierteren Bewegungen einen betont nach oben gerichteten Absprung und richten den Oberkörper auf. Aus diesem Grund sollte der Armeinsatz geübt und immer wieder verbessert und korrigiert werden - und das nicht nur in den ersten Trainingsstunden. In dieser Zeit sollte den Aktiven verdeutlicht werden, dass die Sprunghöhe hauptsächlich durch Abdruck der Fußballen vom Tuch und zusätzlich durch den Armschwung zustande kommt.
+Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen Korrekturen für das Gleichgewicht. Sie ermöglichen insbesondere bei komplizierteren Bewegungen einen betont nach oben gerichteten Absprung und richten den Oberkörper auf. Aus diesem Grund sollte der Armeinsatz, bzw. der Strecksprung, ausgiebig geübt und immer wieder verbessert und korrigiert werden - und das nicht nur in den ersten Trainingsstunden. Besonders in der Anfangszeit sollte den Aktiven verdeutlicht werden, dass die Sprunghöhe hauptsächlich durch Abdruck der Fußballen vom Tuch und zusätzlich durch den Armschwung zustande kommt.
 
 .. rubric:: Bewegungsbeschreibung
 
@@ -37,7 +36,9 @@ Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen 
 - die gestreckten Arme bleiben oben für einen kurzen Moment gestellt, bzw. können sie noch etwas weiter aufgezogen werden - zeitlich etwa bis zum höchsten Punkt des Sprungs
 - anschließend werden die Arme seitlich am Körper heruntergeführt - dies kann langsam erfolgen - Vollendung spätestens bei der Landung
 - Arme sorgen trotz der Bewegung für Gleichgewicht mittels kleiner Auslenkungen
-- **Achtung**: die Arme sollten sich besonders beim Herunterführen weiterhin im Sichtfeld befinden - zum einen um eine Rücklage zu verhindern und zum anderen, da sich Arme im Falle eines Sturzes nicht hinter dem Aktiven befinden sollten
+
+.. caution::
+    Die Arme sollten sich besonders beim Herunterführen weiterhin im Sichtfeld befinden - zum einen um eine Rücklage zu verhindern und zum anderen, da sich Arme im Falle eines Sturzes nicht hinter dem Aktiven befinden sollten
 
 .. rubric:: Fehler und Korrekturen
 
@@ -87,7 +88,7 @@ Sprungtechnisch optimal ist ein ruhiger Blick geradeaus zur Wand bzw. eine neutr
 Hock-, Grätschwinkel- & Bücksprung
 -------------------------------------
 
-Bei allen Landungen auf den Füßen sind die Beine im Tuch etwa schulterweit geöffnet, um eine bessere Standfähigkeit zu ermöglichen. Der Abdruck aus dem Tuch erfolgt hauptsächlich mit den Fußballen, mit Unterstützung der Arme. Die Arme sind beim Absprung grundsätzlich **gestellt**. Direkt nach dem Absprung werden die **Beine geschlossen**. Alle Fußsprünge beginnen mit einem gestreckten Sprung in die Höhe. Die eigentliche Bewegung wird erst **nach dem Absprung** ausgeführt, wenn die Füße das Trampolin verlassen haben. Das ermöglicht ein Springen auf der Stelle. Die Füße und Zehen sind in der Luft möglichst getreckt ("pointy toes"). Mit Ausnahme von Sprüngen mit Hocken sind die Knie ebenfalls immer gestreckt in der Luft.
+Bei allen Landungen auf den Füßen können die Beine im Tuch etwa schulterweit geöffnet sein, um eine bessere Standfähigkeit zu ermöglichen. Der Abdruck aus dem Tuch erfolgt hauptsächlich mit den Fußballen, mit Unterstützung der Arme. Die Arme sind beim Absprung grundsätzlich **gestellt**. Direkt nach dem Absprung werden die **Beine geschlossen**. Alle Fußsprünge beginnen mit einem gestreckten Sprung in die Höhe - mit eventuell variierender Absprungposition zur Sprungvorbereitung. Die eigentliche Hauptbewegung wird erst **nach dem Absprung** ausgeführt, wenn die Füße das Trampolin verlassen haben. Das ermöglicht ein Springen auf der Stelle. Die Füße und Zehen sind in der Luft möglichst getreckt ("pointy toes"). Mit Ausnahme von Sprüngen mit Hocken sind die Knie ebenfalls immer gestreckt in der Luft.
 
 .. figure:: ../media/spruenge_hocke_buecke_graetsche.png
     :width: 800px
@@ -96,6 +97,9 @@ Bei allen Landungen auf den Füßen sind die Beine im Tuch etwa schulterweit ge�
 
     Die drei Fusssprünge in Phasendarstellung
 
+.. TODO: hocke und grätsche sind rückwärts dargestellt?!?
+.. TODO: grätsche und bücke auch einzeln komplett auflisten
+
 .. rubric:: Bewegungsbeschreibung
 
 - Bei der **Hocke** werden die Beine gehockt nach vorne zum Oberkörper geführt. Die Hände fassen dabei die Knie knapp unterhalb der Kniescheibe an. Der Oberkörper ist leicht nach vorne gebeugt.
@@ -103,14 +107,14 @@ Bei allen Landungen auf den Füßen sind die Beine im Tuch etwa schulterweit ge�
 - Die **Grätsche** verläuft wie die Bücke. Bloß werden hierbei die gestreckten Beine in der Luft mindestens 90 Grad weit gespreizt.
 - Die Landung erfolgt jeweils mit gestellten Armen.
 
-.. rubric:: Hocke - Ausführung der Feinstform
+.. rubric:: Hocksprung
 
 - Absprung, Arme starten in gestellter Haltung
 - **In der Steigphase wird die Hocke eingeleitet**, Beine sind bereits geschlossen, Knie bleiben parallel zueinander
-- Hände bewegen sich zur Hocke und greifen den Oberschenkel dicht unter den Knien und können die Hocke komprimieren
-- Die Hock-Position ist klein, Knie berühren die Brust, Beine sind geschlossen
-- **In der Phase des Fallens**, bzw. nach kurzem stabilem Halten, **wird die Hock-Position wieder aufgelöst**
-- beim Auflösen der Hocke bewegen sich die Arme mit den Beinen, bzw. unterstützen die Öffnung
+- Hände bewegen sich zur Hocke und greifen den Unterschenkel, bzw. das Scheinbein dicht unter den Knien, und können die Hocke zusätzlich komprimieren
+- Die Hock-Position ist kompakt, Knie berühren die Brust, Beine sind geschlossen
+- **In der Phase des Fallens**, bzw. nach kurzem stabilem Halten, **wird die Hock-Position explosiv aufgelöst**
+- beim Auflösen der Hocke bewegen sich die Arme mit den Beinen, bzw. unterstützen sie die Öffnung
 - nach der Öffnung liegen die Arme eng am Körper, Hände leicht seitlich auf dem Oberschenkel
 - kurz vor dem Tuchkontakt bewegen sich die Arme wieder in die gestellte Haltung
 
@@ -134,9 +138,11 @@ Schraubensprünge
 
 Schrauben haben beim Trampolinturnen eine nicht unwesentliche Bedeutung. Erlauben sie doch, besonders später in Verbindung mit den Salti, eine viele größere Variation der Sprünge (Salto vw., Salto vw. mit ½-Schraube, Salto vw. mit 1½-Schrauben ...) auf dem Trampolin.
 
-Es gibt verschiedene Techniken eine Schraubenbewegungen für Standschrauben in der Luft auszuführen. Die eine ist recht intuitiv (höhenabhängig, nicht einfach genau dosiert) ausführbar: die Schraubenbewegung wird schon im Tuch durch ein Drehen des Körpers in die gewünschte Richtung eingeleitet. Das Tuch bzw. die Füße sorgen demnach für die Rotation. Die zweite und bevorzugte Technik funktioniert indem man die Schulter-Seite entsprechend der gewünschten Drehrichtung nach hinten aushebt und die Gegenseite nach vorne kippt. Der Kopf kann die Drehrichtung unterstützen. Für Schraubensalti wird daraus die **asymmetrische Armbewegung**.
+Es gibt verschiedene Techniken eine Schraubenbewegungen für Standschrauben in der Luft auszuführen. Die eine ist recht intuitiv (höhenabhängig, nicht einfach genau dosiert) ausführbar: die Schraubenbewegung wird schon im Tuch durch ein Drehen des Körpers in die gewünschte Richtung eingeleitet. Das Tuch bzw. die Füße sorgen demnach für die Rotation. Die zweite und bevorzugte Technik funktioniert indem man zur Einleitung der der Rotation die Schulter-Seite entsprechend der gewünschten Drehrichtung impulsiv nach hinten aushebt und die Gegenseite nach vorne kippt. Der Kopf folgt der Bewegung und bleibt stabil neutral zur Schulter. Für Schraubensalti kommt in Erweiterung zur beschriebenen Schulterbewegung die **asymmetrische Armbewegung**, welche den Impuls noch verstärkt.
 
-Ski- und Wasserspringer verwenden noch weitere Schraubentechniken. Skispringer schrauben etwa mit Einsatz des gesamten Oberkörpers. Dies findet beim Trampolinturnen keine Verwendung. Die Wasserspringer führen eine **Hula-Hoop-Bewegung** in der Luft aus - zusätzlich kann eine Scherenbewegung der Beine weitere Rotation erzeugen. Als aufmerksamer Trampolintrainer entdeckt man die Hula-Hoop-Bewegung unter Umständen bei Sitz ½-Schraube Sitz oder Baranis.
+.. TODO: bewegungsbeschreibung in fließtext unten nochmal
+
+Ski- und Wasserspringer verwenden noch weitere Schraubentechniken. Skispringer schrauben etwa mit Einsatz des gesamten Oberkörpers. Dies findet beim Trampolinturnen keine Verwendung. Die Wasserspringer führen eine **Hula-Hoop-Bewegung** in der Luft aus - zusätzlich kann eine Scherenbewegung der Beine weitere Rotation erzeugen. Als aufmerksamer Trampolintrainer entdeckt man die Hula-Hoop-Bewegung unter Umständen bei Sitz ½-Schraube Sitz oder Baranis häufig als Fehlerbild.
 
 .. figure:: ../media/sprung_halbe_schraube.jpg
     :width: 200px
@@ -146,6 +152,8 @@ Ski- und Wasserspringer verwenden noch weitere Schraubentechniken. Skispringer s
     Halbe Schraube in Phasendarstellung
 
 .. rubric:: Fußsprungschraube aus dem Tuch
+
+.. TODO: gehört eigentlich in ein eigenes unterkapitel, da auch methodische Übungsreihe dabei ist
 
 Bei den Sprüngen des Anfängerbereichs handelt es sich meist um **im Tuch eingeleitete Schraubenbewegungen**. Folgende Hinweise sind hilfreich, um mit Aktiven das Schrauben auf dem Trampolin zu üben:
 
@@ -160,13 +168,13 @@ Bei den Sprüngen des Anfängerbereichs handelt es sich meist um **im Tuch einge
 - sobald das stabil funktioniert, nach einer viertel Schraube die Arme an den Körper nehmen (der eine Arm im Bogen, der andere dicht an den Körper) und damit die Schraube beschleunigen, zum Verlangsamen / Stoppen die Arme wieder ausstrecken
 - Übung mit gestellten Armen wiederholen - die Schraube ist direkt schneller und kann nur verlangsamt werden
 
-Beim Trampolinturnen sollte **eine Drehrichtung** vom Aktiven **eingehalten** werden. In welche Richtung der Turner sich dreht, ist egal; empfehlenswert ist, dass er eine einmal „ausgesuchte“ Drehrichtung bei allen Schrauben später beibehält. Bei Demonstrationen sollte man gerade bei kleinen Kindern darauf achten, deren eigene Drehrichtung zu verwenden, um nicht durch einen „Nachmach-Effekt“ eine falsche Drehrichtung des Aktiven zu bewirken.
+Beim Trampolinturnen sollte prinzipiell **eine Drehrichtung** vom Aktiven **eingehalten** werden. In welche Richtung der Turner sich dreht, ist egal; empfehlenswert ist, dass er eine einmal „ausgesuchte“ Drehrichtung bei allen Schrauben später beibehält. Zur Förderung der koordinativen Fähigkeiten können Standsprungschrauben bis ca, 540° in beide Richtungen geübt werden. Bei Demonstrationen sollte man gerade bei kleinen Kindern darauf achten, deren eigene Drehrichtung zu verwenden, um nicht durch einen „Nachmach-Effekt“ eine falsche Drehrichtung des Aktiven zu bewirken.
 
 .. rubric:: Schraube in der Luft - Bewegungsbeschreibung
 
 - Absprung zum Strecksprung
-- eine Schulter-Seite wird entsprechend der Drehrichtung nach hinten ausgehoben, die andere Schulter kann nach vorne bewegt werden
-- der Kopf kann die Bewegung in Drehrichtung unterstützen
+- eine Schulter-Seite wird entsprechend der Drehrichtung schnellkräftig nach hinten ausgehoben, die andere Schulter kann nach vorne bewegt und impulsiv abgebremst werden
+- der Kopf folgt der Bewegung in Drehrichtung und bleibt stabil neutral zur Schulter
 - die Arme können zunächst am Körper anliegen, gestellt sein oder
 - die asymmetrische Schraube aktiv unterstützen:
 
@@ -179,6 +187,7 @@ Beim Trampolinturnen sollte **eine Drehrichtung** vom Aktiven **eingehalten** we
 - Beine nicht geschlossen: darauf Aufmerksam machen, bzw. Schaumstoffblock zwischen die Füße klemmen
 - Überdrehen bzw zu wenig rotieren: Fixpunkt suchen, Armbewegung üben
 - Kippen aus der Achse: Phasentrennung beachten, erst Abspringen
+- inkorrekte Kopfhaltung
 
 Sitzlandung / Sitz
 ------------------
@@ -196,11 +205,11 @@ Die erste wichtige Landungsform nach den Fußsprüngen ist der Sitz. Der Name wi
 .. rubric:: Bewegungsbeschreibung
 
 - Ziel: Stand - Sitzlandung - Aufstehen in den Stand
-- im Absprung den Körper über ein Kippen der **Hüfte spannen** (C-Minus) und Spannung auflösen durch die Beine (siehe Rückensprung), so dass eine leichte Rücklage des gestreckten Körpers im höchsten Punkt erreicht wird, Beine sind geschlossen
+- im Absprung den Körper über ein Kippen der **Hüfte spannen** und diese Spannung explosiv auflösen durch einen Kick mit den Beinen (siehe Rückensprung), so dass eine leichte Rücklage des gestreckten Körpers im höchsten Punkt erreicht wird, Beine sind geschlossen
 - Arme weiterhin getreckt neben den Ohren halten
 - in der 2. Sprungphase (fallende Phase vom oberen Umkehrpunkt bis zur Landung) **die Arme seitlich nach unten führen**
 - kurz vor der Landung die Hüfte beugen, die Beine sollten gleichmäßig zum Liegen kommen;
-- Tipp: mit der Intensität der Beugung kann für geübte Springer eine Nachjustierung erfolgen - zu wenig Rotation kann durch eine schnelle Beinbewegung kompensiert werden (und umgekehrt)
+- Tipp: mit der Intensität der Beugungsbewegung kann für geübte Springer eine Justierung nach der  initialen Rotation erfolgen - zu wenig Rotation kann durch eine schnelle Beinbewegung kompensiert werden (und umgekehrt)
 - **Sitzposition**: bei der Landung die Hände neben bzw. etwas hinter dem Gesäß abstützen, die Finger zeigen dabei geschlossen nach vorne, der Oberkörper ist bei geradem Rücken leicht nach hinten geneigt, die Beine geschlossen und wie die Zehen gestreckt
 - **Aufstehen zum Stand**:
 
@@ -218,6 +227,7 @@ Die erste wichtige Landungsform nach den Fußsprüngen ist der Sitz. Der Name wi
 .. rubric:: Fehler und Korrekturen
 
 - Rotation wird durch die Schulter eingeleitet inklusive Bewegung nach hinten: Hinweis auf Vorspannung im Mittelkörper & deutlich machen, dass Po auf dem Kreuz landen soll
+- Po führt die Bewegung an, gefolgt von einem Sprung nach hinten -> auf Strecksprung mit Vorspannung hinweisen
 - Beine schnippen nach vorne, bzw. Sitzposition zu früh eingenommen (Po- oder Rücklage) -> zuerst Strecksprung nach oben
 - die Beine sind nicht gestreckt in der Luft, gelegentlich begleitet mit einem Schieben der Knie im Absprung -> auf Knie hinweisen und deutlich machen, dass zuerst Strecksprung nach oben erfolgen soll
 - Beine nicht geschlossen -> Schaumstoff
@@ -231,12 +241,12 @@ Die erste wichtige Landungsform nach den Fußsprüngen ist der Sitz. Der Name wi
 
 - seitlich leicht vor dem Aktiven stehen während des Anspringens, so lässt das Gesicht im Blick behalten
 - eine Hand befindet sich nahe der Wirbelsäule auf Höhe der Schulterblätter um ein Überdrehen zu verhindern
-- die zweite Hand kann auf der Schulter ruhen und den Sprung stabilisieren
+- die zweite Hand kann auf der Schulter ruhen und den Sprung stabilisieren und ggf. das Beugen des Bein-Rumpf-Winkels unterstützen
 
 Rückenlandung / Rücken
 ----------------------
 
-Der Rückensprung bereitet Anfängern erfahrungsgemäß oft erst einmal Probleme. Zu unbekannt ist das Gefühl, rückwärts nach unten zu fallen. Zusätzlich ist die Bewegung recht komplex. Es müssen viele kleine Bewegungen fast zur gleichen Zeit kontrolliert ausgeführt werden. Aus diesem Grund ist es sinnvoll, die Rückenlandung mit einigen Übungen vorzubereiten. Im Bestfall schon einige Zeit, bevor der Sprung überhaupt gelernt werden soll.
+Der Rückensprung kostet die Aktiven beim Erlenen häufig Überwindung, da das rückwärtige Fallen für die Meisten eine unbekannte Bewegung darstellt. Zusätzlich ist der technische Ablauf des Rückensprungs im Vergleich zu den o.g. Sprüngen anspruchsvoller. Umso mehr ist es hier sinnvoll, vorausschauend mit der Methodik zu beginnen und somit das Erlernen zu erleichtern.
 
 .. figure:: ../media/sprung_ruecken_stand.png
     :width: 600px
@@ -245,20 +255,27 @@ Der Rückensprung bereitet Anfängern erfahrungsgemäß oft erst einmal Probleme
 
     Sprung in den Rücken & in den Stand in Phasendarstellung
 
+.. TODO: position im Ablauf nach Absprung zu sehr überstreckt
+
 .. _TechnikSalto:
 
-.. rubric:: Technik - Saltorotation rückwärts
+.. rubric:: Hinweise zur Rückwärtsrotation
 
-Auch wenn man hier von einem Salto spricht, wird diese Technik bereits für Sitz- und Rückensprung benötigt. Das Aufbauen der Saltorotation beginnt nach dem Absprung mit einer **Vorspannung des Körpers**. Dabei wird die **Hüfte gekippt**! Gelegentlich hört man das **falsche** *"Hüfte vorschieben"*, welches den Körper in die Bananenform bringt. Als Analogie zum Kippen der Hüfte kann man sich vorstellen, dass man eine Gürtelschnalle (bzw. den Bauchnabel) in den Bauch einziehen möchte. Der Oberschenkel bewegt sich dabei leicht nach vorne und es entsteht eine Vorspannung (C-Minus). Nach Aufbau der Spannung erfolgt der Wechsel **von C-Minus ins C-Plus**, d.h. ein Kick mit den Beinen und sofortiges **Abstoppen in leichter Schiffchenposition** (Po-Muskel arbeitet). Mit gewisser Intensität ist diese Bewegung ausreichend für den gestreckten Rückwärtssalto. Im Folgenden wird diese Technik abgekürzt mit **"Vorspannung und Kick"** beschrieben.
+Stärker als der Sitzsprung fordert die Ausführung des Rückensprungs bereits die technischen Abläufe, die auch zum Turnen eines Salto rückwärts benötigt werden. Immerhin muss eine 1/4 Saltorotation erfolgen, damit man den Rückensprung durchführen kann.
+
+Das Aufbauen der Saltorotation beginnt nach dem Absprung mit einer **Vorspannung des Körpers**. Dabei wird die **Hüfte gekippt**! Gelegentlich hört man das **falsche** *"Hüfte vorschieben"*, welches den Körper in die Bananenform bringt. Als Analogie zum Kippen der Hüfte kann man sich vorstellen, dass man die imaginäre Gürtelschnalle (bzw. den Bauchnabel) in den Bauch einziehen möchte. Der Oberschenkel bewegt sich dabei leicht nach vorne und der Körper kommt in die vorgespannte Position. Nach dem Absprung kann die Vorspannung noch durch eine Ziehen in die C-Minus-Position verstärkt werden. Anschließend kann ein **explosiver Wechsel ins C-Plus**, d.h. ein Kick mit den Beinen und sofortiges **Abstoppen in leichter Schiffchenposition**. Mit gewisser Intensität ist diese Bewegung ausreichend für den gestreckten Rückwärtssalto. Im Folgenden wird diese Technik abgekürzt mit **"Vorspannung und Kick"** beschrieben.
+
+.. TODO eigentlich bereits Bewegungsbeschreibung textuell
 
 Als Vorübung eignet sich der **Mattenkick**:
 Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte sich nicht bewegen bei der Übung), springt mit gestellten Armen ab, spannt den Körper und benutzt den Kick um die Matte mit dem Fußspann zu treten. Abschluss ist eine Landung auf den Füßen. Bei richtiger Ausführung gerät der Aktive nach dem Abprallen des Kicks deutlich in Vorlage. Ziel ist sowohl ein lauter Kick als auch eine starke Vorwärtsrotation nach dem Abprall.
 
+.. TODO gehört zur methodik
 
 .. rubric:: Bewegungsbeschreibung
 
 - Ziel: Stand - Rückenlandung - Aufstehen in den Stand
-- im Absprung den **Körper spannen und gemäßigten Kick ausführen**, sodass der gestreckte Körper sich während des Sprungs bis annähernd in die Waagerechte bewegt
+- im Absprung den **Körper spannen und gemäßigten Kick ausführen** (siehe oben), sodass der gestreckte Körper sich während des Sprungs bis annähernd in die Waagerechte bewegt
 - die Arme unterstützen den Absprung nach oben - sie sind gestellt und zeigen während des Sprungs weiterhin zur Decke
 - vor der Landung die Hüfte einknicken, so dass im Tuch die Beine senkrecht zur Decke stehen und der gesamte Rücken gleichmäßig zum Liegen kommt
 - Tipp: wie schon beim Sitzsprung beschrieben, ermöglicht eine Variation der Intensität des Hüftschlags die Nachjustierung des Sprungs
@@ -268,29 +285,31 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 - **Aufstehen zum Stand**:
 
   - die Schulter drückt bei der Aufwärtsbewegung ins Tuch (ermöglicht wird dies durch den folgenden Punkt)
-  - die Füße werden zur Decke gestreckt (leicht nach vorne). Dies streckt gleichzeitig den Hüftwinkel auf (Kippstoß)
+  - die Füße werden zur Decke gestreckt (leicht nach vorne). Dies streckt gleichzeitig den Hüftwinkel auf (vgl. Kerzenposition am Boden)
   - das Aufstrecken des Hüftwinkels in der Flugphase leitet die Rotation ein um in den Stand zu gelangen, der Körper ist wieder komplett getreckt
   - bei richtiger Ausführung gelingt eine Landung auf der Stelle (zurück aufs Kreuz)
 
 
 .. rubric:: Methodische Übungsreihe
 
-- Rückwärtsrollen und Mattenkick bei Erwärmung üben, siehe :ref:`Technik-Abschnitt <TechnikSalto>`
+.. TODO: mattenkick wird verschoben
+
+- Rückwärtsrollen bei Erwärmung üben
+- Mattenkick siehe :ref:`Technik-Abschnitt <TechnikSalto>`
 - Demonstration; Insbesondere auf die Position der Beine und Arme bei der Landung im Rücken sollte eingegangen werden
-- Liegeposition statisch auf dem Tuch einnehmen
+- Rücken-Langunsposition statisch auf dem Tuch einnehmen
 - **Stempelgriff-Vorübung** zum Kennenlernen der Landephase: Trainer greift die Füße aus der Trockenposition und federt den Aktiven mit einem Kick ins Tuch. Dieser versucht mit dem Oberkörper in der Luft waagerecht zu bleiben
 - Tipp 1: bei ängstlichen Teilnehmern kann es hilfreich sein erst das Aufstehen zu üben (vor dem Sprung in den Rücken)
 - Tipp 2: für eine Reduktion der Komplexität können die nachfolgenden Übungen zunächst in den flachen (bzw. platten) Rücken durchgeführt werden
-- auf einer sehr weichen oder gefederten Matte (Mattentisch bzw. Geräteaufbau unten beschrieben) den Absprung auf der Matte und die Landung im Rücken üben
-- Geräteaufbau - kann parallel zum Training auf dem Trampolin benutzt werden
-
+- auf einer sehr weichen oder gefederten Matte den Absprung auf der Matte und die Landung im Rücken üben. Auf Mattentisch bzw. Geräteaufbau wie folgt beschrieben
+  - Geräteaufbau kann parallel zum Training auf dem Trampolin benutzt werden
   - zwei Turnbänke parallel stellen, darauf einen Weichboden (je nach Mattenhärte Abstand der Bänke variieren).
   - Seile verhindern ein Auseinanderrutschen der Bänke.
   - ebenfalls möglich: ohne Bänke, nur Weichboden und darauf eventuell eine Schiebematte
 
 - auf dem Trampolin: Schiebematte in die Mitte des Trampolins legen und wie vorher zum Rücken springen
 - gleiche Übung, stärker abspringen
-- die Matte aus dem Tuch nehmen und schieben und/oder Hilfestellung anbieten
+- die Matte aus dem Tuch nehmen und schieben und/oder mit Hilfe- bzw. Sicherheitsstellung unterstützen
 - zum Verinnerlichen und Verbessern der Aufstehbewegung kann gefordert werden **zwei Rückenlandungen in Folge** durchzuführen und erst danach aufzustehen (besonders Fehler der Beine werden offensichtlich)
 - **Maikäfer** - aus Ruheposition in Rückenlage selbstständig Höhe gewinnen, Hüftwinkel variiert in verschiedenen Höhen um im Rücken zu bleiben, Arme halten Gleichgewicht
 
