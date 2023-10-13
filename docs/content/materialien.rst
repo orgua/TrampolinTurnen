@@ -144,5 +144,3 @@ Quellen
 - Arbeitshilfen vom DTB
 - http://heiny.info/uni/sport/phasentrampolin.html
 - https://www.shtv.de/wp-content/uploads/2018/03/Ausbildungs-Skript-Trampolin-1.0.pdf - Trainer C Mitschrift von Jan von Horsten
-
-
