@@ -124,6 +124,14 @@ TODO
 - switch to markdown / myst-parser
 - neutrale Anrede konsequenter umsetzen
 - Einsatz von Klammern reduzieren -> Nebensätze
+- Grundpositionen den Grundsprüngen vorlargern
+
+  - Breitenachsenrotation vw rw
+  - schraube
+  - vorgespannte, s-form
+  - c-plus, c-minus
+  -
+
 - Jeder Sprung mit festem Schema
 
   - Einleitung
