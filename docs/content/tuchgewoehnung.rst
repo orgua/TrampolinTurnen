@@ -1,12 +1,12 @@
 Tuchgewöhnung
 ===============
 
-In den ersten Trainingsstunden sollten Aktive zuerst mit einigen Übungen an die im ersten Moment **ungewohnte Wurfkraft und Nachgiebigkeit** des Trampolins gewöhnt werden. Zu diesen Übungen gehören besonders solche, die das :ref:`Abstoppen <Abstoppen>` auf dem Trampolin erarbeiten. Das sichere Abstoppen ist unerlässlich, um etwa ein Herabfallen in gefährlichen Situation nahe der Rahmenabdeckung verhindern zu können. Weiterhin soll das :ref:`Gleichgewicht <Gleichgewicht>` geschult, sowie der :ref:`Kraft- und Armeinsatz <Armeinsatz>` erlernt werden. Die aufgeführten Übungen sind ein Grundstock, mit dem sich bereits sehr gut arbeiten lässt. Der Kreativität der Trainer und Aktiven sind hier fast keine Grenze gesetzt.
+In den ersten Trainingsstunden oder nach längeren Pausen sollten Aktive zuerst mit einigen Übungen an die im ersten Moment **ungewohnte Wurfkraft und Nachgiebigkeit** des Trampolins gewöhnt werden. Zu diesen Übungen gehören besonders solche, die das :ref:`Abstoppen <Abstoppen>` auf dem Trampolin erarbeiten. Das sichere Abstoppen ist unerlässlich, um etwa ein Herabfallen in gefährlichen Situation nahe der Rahmenabdeckung verhindern zu können. Weiterhin soll das :ref:`Gleichgewicht <Gleichgewicht>` geschult, sowie der :ref:`Kraft- und Armeinsatz <Armeinsatz>` erlernt werden. Die aufgeführten Übungen sind ein Grundstock, mit dem sich bereits sehr gut arbeiten lässt. Der Kreativität der Trainer und Aktiven sind hier fast keine Grenze gesetzt.
 
 Zu den wichtigsten **Effekten auf dem Trampolin** zählen:
 
 - Sprünge werden durch die Tuchwölbung zur Mitte, in Richtung des Kreuzes, geleitet
-- Überkorrekturen können sich potenzieren; daher sollte man vorsichtig korrigieren oder abstoppen. Erfahrene Trainer können demonstrieren was passiert nachdem man direkt vom Randbereich des Tuchs zurück aufs Kreuz springt
+- Überkorrekturen können sich potenzieren; daher sollte man vorsichtig korrigieren oder abstoppen. Erfahrene Trainer können demonstrieren, was passiert, nachdem man direkt vom Randbereich des Tuchs zurück aufs Kreuz springt
 - Ungleichgewichte wie z.B. Vorlage (etwa mit gesenktem Kopf aufs Tuch schauen) wirken sich auf die Sprungrichtung aus
 - Kräfte werden mit gewisser Höhe schwerer kontrollierbar, daher im Tuch immer weitgehend gestreckte Knie und sicherer breiter Stand (Schulterweite)
 - die Federkonstante des Trampolintuchs und das Gewicht des Aktiven geben einen Rhythmus vor, welcher bei der Koordination helfen können
@@ -19,7 +19,7 @@ In der Regel wird es im Verein so sein, dass nur vereinzelt neue Aktive zu betre
 
 .. rubric:: „Das Springen im Strom“
 
-Die Trampoline werden direkt hintereinandergestellt, ohne die Weichböden dazwischen. Als Abschluss wird die Stirnseite des letzten Trampolins mit einem Weichboden auf dem Hallenboden gesichert. Vor diesen Geräteparcours wird eine Aufstiegshilfe in Form von Bank, Kasten oder Hocker gebaut. Das Springen ist mit diesem Aufbau nun „im Strom“ möglich.
+Die Trampoline werden direkt hintereinandergestellt, ohne die Weichböden dazwischen (in leichter Abwandlung zur Abbildung :ref:`Aufbau in Reihe<fig:aufbau_reihe>`). Als Abschluss wird die Stirnseite des letzten Trampolins mit einem Weichboden auf dem Hallenboden gesichert. Vor diesen Geräteparcours wird eine Auf- & Abstiegshilfe in Form von Bank, Kasten oder Hocker gebaut. Das Springen ist mit diesem Aufbau nun „im Strom“ möglich.
 
 Selbst mit nur einem Trampolin lässt sich etwas ähnliches umsetzen indem die Teilnehmer auf den Mattentischen starten und pro Übung jeweils aufs Trampolin gehen und anschließend die Seite wechseln. Mit diesem Kreislauf wird ein hoher Durchsatz erreicht.
 
@@ -34,7 +34,7 @@ Folgende Übungsfolge eignet sich zur ersten Gewöhnung an das Trampolin. Als Or
 
 - Gehen über das Trampolin; vorwärts, seitwärts, rückwärts
 - **schwebendes Gehen** („auf dem Mond...“) mit betonter „Flugphase“ Aufsetzen des ganzen Fußes
-- **"Nähmaschine"** - Kniehebelaufen mit möglichst vielen und schnellen Schritten in Längsrichtung („Skippings“)
+- **"Nähmaschine"** - Kniehebelauf mit möglichst vielen und schnellen Schritten in Längsrichtung („Skippings“)
 - Variation A: mit betontem Anheben der Knie bis zur Brust
 - Variation B: im Slalom über das Gerät
 - Variation C: Schattenlauf (2 Personen in auf anderer Seite oder diagonal auf dem gleichen Gerät)
@@ -57,8 +57,8 @@ Wie bereits erwähnt, sollte dem methodischen Erlernen des Abstoppens aus Sicher
 
 .. rubric:: Methodische Übungsreihe
 
-- **Kniehebelauf** in Vorwärtsbewegung; nur die Beine bewegen sich, der Oberkörper bleibt im Bestfall statisch auf einer Höhe
-- Variation A: Reiten auf einem Esel, Pferd oder ähnlichem
+- **Kniehebelauf** in Vorwärtsbewegung; nur die Beine bewegen sich, der Oberkörper sollte statisch auf einer Höhe bleiben
+- Variation A: Reiten auf einem Esel, Pferd oder ähnlichem; angedeutete leichte Hock-Steck-Sprünge
 - Variation B: **beidbeiniges Federn** in Vorwärtsbewegung - **Froschsprünge**
 - **„Buckelpiste fahren“** - auf dem Kreuz niedrigstehend beidbeinig federn und mit den Füßen links/rechts oder vor/zück wechseln, Oberkörper bleibt auf Position
 - in der Mitte des Tuches hochspringen und **auf Klatschsignal oder Zuruf stoppen** (Signal am höchsten Punkt der Teilnehmenden geben)
@@ -105,67 +105,4 @@ Der Gleichgewichtssinn ist eine der wichtigen Eigenschaften, die ein Trampolintu
   - Arme anliegend am Körper - etwas instabiler
   - Arme in Hochhalte ("gestellt", siehe Folgeabschnitt)
 
-
-.. _Armeinsatz:
-
-Strecksprung mit Armeinsatz
----------------------------
-
-Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen Korrekturen für das Gleichgewicht. Sie ermöglichen insbesondere bei komplizierteren Bewegungen einen betont nach oben gerichteten Absprung und richten den Oberkörper auf. Aus diesem Grund sollte der Armeinsatz geübt und immer wieder verbessert und korrigiert werden - und das nicht nur in den ersten Trainingsstunden. In dieser Zeit sollte den Aktiven verdeutlicht werden, dass die Sprunghöhe hauptsächlich durch Abdruck der Fußballen vom Tuch und zusätzlich durch den Armschwung zustande kommt.
-
-.. rubric:: Bewegungsbeschreibung
-
-- aufrecht stehend im Tuch - Ausgangslage sind am Körper angelegte Arme, Hände seitlich vorne auf dem Oberschenkel ruhend
-- die Arme werden über die Vorderseite gestreckt nach oben neben den Kopf geführt - eine kraftvolle beschleunigende Bewegung die aber noch vor dem Bewegungsmaximum (Anschlag) abgebremst wird
-
-  - alternativ ist ein Armzug über die Seite möglich - gerade bei fehlender Kontrolle über die Mittelkörperspannung kann diese Bewegung leichter sein
-  - in Vereinen sieht man oft eine reduzierte Bewegung mit Ähnlichkeit zum Brustschwimmen bei der die Arme im gebeugten Zustand dicht vorm Körper nach Oben geführt werden - krumme Arme bedeuten im Wettkampf i.d.R. Punktabzug
-  - die Intensität des Armschwungs ermöglicht einen Wechsel zwischen Höhe gewinnen und halten
-
-- die gestreckten Arme bleiben oben für einen kurzen Moment gestellt, bzw. können sie noch etwas weiter aufgezogen werden - zeitlich etwa bis zum höchsten Punkt des Sprungs
-- anschließend werden die Arme seitlich am Körper heruntergeführt - dies kann langsam erfolgen - Vollendung spätestens bei der Landung
-- Arme sorgen trotz der Bewegung für Gleichgewicht mittels kleiner Auslenkungen
-- **Achtung**: die Arme sollten sich besonders beim Herunterführen weiterhin im Sichtfeld befinden - zum einen um eine Rücklage zu verhindern und zum anderen, da sich Arme im Falle eines Sturzes nicht hinter dem Aktiven befinden sollten
-
-.. rubric:: Fehler und Korrekturen
-
-- Landung mit Rücklage: Hohlkreuz? Armschwung nach oben zu stark? Alternativ Arme über Seite ziehen, bzw. Sprunghöhe reduzieren
-- Wandern und Armrudern: Armeinsatz üben, bzw. Höhe reduzieren
-- Beine arbeiten mit oder Knie sind krumm: erklären, dass Beine nicht zum Höhengewinn oder zum Halten des Gleichgewichts benutzt werden. Durchgängig (annähernd) gestreckte Knie während des Strecksprungs!
-- Arme hinter dem Körper: Bewegung erneut erklären oder Arme erstmal statisch halten
-
-Stellen der Arme
------------------
-
-Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung zur Decke getreckt neben dem Kopf befinden und im Bestfall die Ohren einklemmen. In der Trampolin-Sprache sind die **„Arme gestellt“**. Das erfordert neben einer gewissen Beweglichkeit des Schulterbereichs auch Kraft, gerade bei den Jüngeren. Diese Eigenschaften können und sollen bereits bei der Gymnastik vorbereitet werden. Aber auch auf dem Trampolin selbst gibt es einige Übungen für den Armeinsatz.
-
-.. rubric:: Methodische Übungsreihe
-
-- **Demonstration** auf dem Boden (langsam) um den eigentlichen Bewegungsablauf deutlich zu machen
-- Sprünge (auf Kommando) auf einer Turnmatte. Die Sprünge erfolgen aus einer leichten Hock-Position heraus.
-- Prellsprünge (reaktiv mit dem Fußballen abdrücken) auf einem Weichboden mit gestellten Armen
-- Strecksprünge. Hierbei werden die Arme konsequent die ganze Zeit durchgedrückt aus den Schultern heraus zur Decke gestreckt. Jeweils im Wechsel dazu Strecksprünge, bei denen die Arme gestreckt eng am Körper angelegt werden.
-- Variation A: 10 x oben - 10 x unten, 3 x unten - 3 x oben
-- Variation B: kleine (Plastik-) Flaschen oder Keulen in den Händen halten
-- Bewegungsablauf „Arme stellen“ vor einem Sprung, Vorschlag
-
-  - „und“ Arme sind gestreckt am Körper angelegt
-  - „eins“ Arme gestreckt zur Decke ziehen
-  - „zwei“ Arme wieder gestreckt am Körper angelegt
-  - „drei“ Absprung mit gestreckt zur Decke gestellten Armen
-  - alternativ können die Arme erst im dritten Absprung gestellt sein (manchen Neulingen hilft ein früheres Stellen bei zwei)
-
-- Die Arme müssen jeweils schon kurz vor der Landung in die gewünschte Position gebracht werden. Auf kontrollierte und ruhige (Arm-) Bewegungen achten
-
-.. tip::
-
-    Bei fehlender Schulterbeweglichkeit bzw. Haltekraft, kann es helfen die Handflächen beim Stellen der Arme nach außen zu drehen. Ebenso kann ein sehr spätes und schnelles Stellen (fast im Moment der Landung) helfen.
-
-    Aufrechtes Abspringen lässt sich unterstützen, indem der Aktive sich nach "drei" mit gestellten Armen vornimmt Höhe zu gewinnen. Dies gibt in dem kritischen Moment des Absprungs extra Körperspannung und wird besonders bei Saltorotationen wichtig um ein Wandern auf dem Tuch zu verhindern.
-
-Blickrichtung
--------------
-
-Ein früher Fokus auf die Kopfhaltung kann späteres zeitaufwendiges Umlernen verhindern. Manche Aktive neigen dazu nicht nur mit gesenktem Kopf, sondern auch leicht vorgebeugt aufs Tuch zu schauen um ihre Landung zu überwachen. Diese Vorlage erzeugt eine Wanderbewegung auf dem Tuch und verhindert meist ein korrektes Stellen der Arme. Gleichzeitig kann es passieren, dass die Wanderbewegung mit einem Herausstrecken des Gesäßes kompensiert wird.
-
-Sprungtechnisch optimal ist ein ruhiger Blick geradeaus zur Wand bzw. eine neutrale Kopfhaltung. Im Bestfall findet man einen Fixpunkt. Das Tuch kann weiterhin im peripheren Sichtfeld wahrgenommen werden. Falls der Aktive plant an Wettkämpfen teilzunehmen gibt es die Empfehlung den **Blickpunkt ans Ende des Trampolins** bzw. die vordere Mattenkante zu legen. So spart man sich die Eingewöhnung in einer neuen Halle.
+Nach dieser methodischen Vorbereitung können die Aktiven mit diesen neuen Fertigkeiten nahtlos zu den Grundsprüngen übergehen.

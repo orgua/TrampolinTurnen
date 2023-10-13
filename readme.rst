@@ -124,6 +124,14 @@ TODO
 - switch to markdown / myst-parser
 - neutrale Anrede konsequenter umsetzen
 - Einsatz von Klammern reduzieren -> Nebensätze
+- Jeder Sprung mit festem Schema
+
+  - Einleitung
+  - Bewegungsbeschreibung
+  - Leistungsvoraussetzungen
+  - Methodik
+  - Fehler und Korrekturen
+
 - Texte in kleinere Abschnitte teilen - um später kompakte Übersichten zu generieren (Aufbau, Hilfestellungen, Fehlerbilder, )
 - add videos
 

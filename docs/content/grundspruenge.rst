@@ -1,7 +1,7 @@
 Grundsprünge und Landungsarten
 ==============================
 
-Im Folgenden sollen die Basissprünge auf dem Trampolin vorgestellt werden. Nachdem der Strecksprung bereits im Kapitel :doc:`tuchgewoehnung` eingeführt wurde, ist die Zeit gekommen das Repertoire zu erweitern. Nach einer kurzen **Bewegungsbeschreibung** erfolgt eine Übersicht über die Schritte, die ein **methodischen Erlernen** des Sprunges ermöglichen. Normalerweise sollte die Reihenfolge der Schritte eingehalten werden. Es ist jedoch möglich und sinnvoll, einzelne Schritte, je nach Können und Lernfortschritt des Aktiven, auszulassen.
+Im Folgenden sollen die Basissprünge sowie die zulässigen Landungsarten auf dem Trampolin vorgestellt werden. Zunächst wird der Strecksprung mit Armeinsatz und das Stellen der Arme erklärt. Anschließend ist die Zeit gekommen das Repertoire zu erweitern. Nach einer kurzen **Bewegungsbeschreibung** erfolgt jeweils eine Übersicht über die Schritte, die ein **methodischen Erlernen** des Sprunges ermöglichen. Normalerweise sollte die Reihenfolge der Schritte eingehalten werden. Es ist jedoch möglich und sinnvoll, einzelne Schritte, je nach Können und Lernfortschritt des Aktiven, auszulassen.
 
 Die Sprünge werden hier in fünf Kategorien aufgeteilt. Zuerst die Fußsprünge Hocksprung (**Hocke**), Bücksprung (**Bücke**) und Grätschwinkelsprung (**Grätsche**). Weiter geht es mit Sprüngen in denen eine Schraubenbewegung ausgeführt wird: Standsprungschraube (**½ Schraube**, **ganze Schraube**). Danach folgen die drei weiteren Landungsarten, die möglich sind: Sitzlandung, Rückenlandung und Bauchlandung (aka. **Sitz**, **Rücken**, **Bauch**). Im Folgekapitel :doc:`sprungverbindung` geht es um die Verbindungen der Landungsarten mit Schrauben wie z.B. **½ Schraube zum Sitz**. Für die Benennung werden anstatt der langen formalen Namen, wie im Training, die Trivialnamen verwendet.
 
@@ -10,7 +10,7 @@ Falls der Sport vom Aktiven länger betrieben werden will, ist es wichtig früh 
 
 .. rubric:: Ausführungsformen
 
-Zur Variation der Schwierigkeit lassen sich die Grundsprünge hinsichtlich der Komplexität und Qualität abstufen nach grober Ausführung, fein- und Feinstform. Die **grobe Ausführung** deutet Bewegungen mindestens (erkennbar) an und lässt die Arme unbeachtet. Diese können entweder gestellt oder am Körper angelegt bleiben. Am Beispiel des Hocksprungs werden demnach nur die Beine leicht angehockt und der Oberkörper zum Ausgleich vorgelagert. Bei der **Feinform** gibt es einen vereinfachten Armeinsatz. Ausgehend von den gestellten oder angelegten Armen tippen die Hände im Beispiel der Hock kurz die Knie an und gehen danach zurück in ihre Ausgangsposition. Die **Feinstform** hat vollen Arm- und Körpereinsatz und erfordert eine gewisse Sprunghöhe, Geschwindigkeit und Übung. Die Beschreibung der Feinstform für die Hocke befindet sich im nächsten Abschnitt.
+Zur Variation der Schwierigkeit lassen sich die Grundsprünge hinsichtlich der Komplexität und Qualität abstufen nach grober Ausführung, fein- und Feinstform. Die **grobe Ausführung** deutet Bewegungen mindestens (erkennbar) an und lässt die Arme unbeachtet. Diese können entweder gestellt oder am Körper angelegt bleiben. Am Beispiel des Hocksprungs werden demnach nur die Beine leicht angehockt und der Oberkörper zum Ausgleich vorgelagert. Bei der **Feinform** gibt es einen vereinfachten Armeinsatz. Ausgehend von den gestellten oder angelegten Armen tippen die Hände im Beispiel der Hocke kurz die Knie an und gehen danach zurück in ihre Ausgangsposition. Die **Feinstform** hat vollen Arm- und Körpereinsatz und erfordert eine gewisse Sprunghöhe, Geschwindigkeit und Übung. Die Beschreibung der Feinstform für die Hocke befindet sich im nächsten Abschnitt.
 
 .. tip::
     Wie bei der :doc:`tuchgewoehnung` eingeführt, sind im Folgenden **dick** gedruckte Punkte für ein Mindestmaß der Grobform angedeutet.
@@ -18,8 +18,74 @@ Zur Variation der Schwierigkeit lassen sich die Grundsprünge hinsichtlich der K
 ..
     TODO bilder der phasen finden
 
-Fußsprünge
------------
+.. _Armeinsatz:
+
+Strecksprung mit Armeinsatz
+---------------------------
+
+Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen Korrekturen für das Gleichgewicht. Sie ermöglichen insbesondere bei komplizierteren Bewegungen einen betont nach oben gerichteten Absprung und richten den Oberkörper auf. Aus diesem Grund sollte der Armeinsatz geübt und immer wieder verbessert und korrigiert werden - und das nicht nur in den ersten Trainingsstunden. In dieser Zeit sollte den Aktiven verdeutlicht werden, dass die Sprunghöhe hauptsächlich durch Abdruck der Fußballen vom Tuch und zusätzlich durch den Armschwung zustande kommt.
+
+.. rubric:: Bewegungsbeschreibung
+
+- aufrecht stehend im Tuch - Ausgangslage sind am Körper angelegte Arme, Hände seitlich vorne auf dem Oberschenkel ruhend
+- die Arme werden über die Vorderseite gestreckt nach oben neben den Kopf geführt - eine kraftvolle beschleunigende Bewegung bis ca 10° vor der Vertikalen. Danach langsames Aufziehen bis zur Hochhalte.
+
+  - alternativ ist ein Armzug über die Seite möglich - gerade bei fehlender Kontrolle über die Mittelkörperspannung kann diese Bewegung leichter sein
+  - in Vereinen sieht man oft eine reduzierte Bewegung mit Ähnlichkeit zum Brustschwimmen bei der die Arme im gebeugten Zustand dicht vorm Körper nach Oben geführt werden - krumme Arme bedeuten im Wettkampf i.d.R. Punktabzug
+  - die Intensität des Armschwungs ermöglicht einen Wechsel zwischen Höhe gewinnen und halten
+
+- die gestreckten Arme bleiben oben für einen kurzen Moment gestellt, bzw. können sie noch etwas weiter aufgezogen werden - zeitlich etwa bis zum höchsten Punkt des Sprungs
+- anschließend werden die Arme seitlich am Körper heruntergeführt - dies kann langsam erfolgen - Vollendung spätestens bei der Landung
+- Arme sorgen trotz der Bewegung für Gleichgewicht mittels kleiner Auslenkungen
+- **Achtung**: die Arme sollten sich besonders beim Herunterführen weiterhin im Sichtfeld befinden - zum einen um eine Rücklage zu verhindern und zum anderen, da sich Arme im Falle eines Sturzes nicht hinter dem Aktiven befinden sollten
+
+.. rubric:: Fehler und Korrekturen
+
+- Landung mit Rücklage: Armschwung nach oben zu weit? Spannungsverlust im Absprung? Beides kann sich durch ein Hohlkreuz zeigen. -> Armzug besser dosieren, alternativ Arme über Seite ziehen, bzw. Sprunghöhe reduzieren
+- Wandern und Armrudern: Trockenübung Armeinsatz, bzw. Höhe reduzieren
+- Beine arbeiten mit oder Knie sind krumm: erklären, dass Beine nicht zum Höhengewinn oder zum Halten des Gleichgewichts benutzt werden. Durchgängig (annähernd) gestreckte Knie während des Strecksprungs!
+- Arme hinter dem Körper: Bewegung erneut erklären oder Arme erstmal statisch halten
+
+Stellen der Arme
+-----------------
+
+Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung zur Decke getreckt neben dem Kopf befinden und im Bestfall die Ohren einklemmen. In der Trampolin-Sprache sind die **„Arme gestellt“**. Das erfordert neben einer gewissen Beweglichkeit des Schulterbereichs auch Kraft, gerade bei den Jüngeren. Diese Eigenschaften können und sollen bereits bei der Gymnastik vorbereitet werden. Aber auch auf dem Trampolin selbst gibt es einige Übungen für den Armeinsatz.
+
+.. rubric:: Methodische Übungsreihe
+
+- **Demonstration** als Trockenübung, zusätzlich langsam um den eigentlichen Bewegungsablauf deutlich zu machen
+- Sprünge (auf Kommando) auf einer Turnmatte. Die Sprünge erfolgen aus einer leichten Hock-Position heraus.
+- Prellsprünge (reaktiv mit dem Fußballen abdrücken) auf einem Weichboden mit gestellten Armen
+- Strecksprünge. Hierbei werden die Arme konsequent die ganze Zeit durchgedrückt aus den Schultern heraus zur Decke gestreckt. Jeweils im Wechsel dazu Strecksprünge, bei denen die Arme gestreckt eng am Körper angelegt werden.
+- Variation A: 10 x oben - 10 x unten, 3 x unten - 3 x oben
+- Variation B: kleine (Plastik-) Flaschen oder Keulen in den Händen halten
+- unterstützte Handstände, mit seitlich haltender Person oder mit Bauch zur Wand
+- Bewegungsablauf „Arme stellen“ vor einem Sprung, Vorschlag
+
+  - „und“ Arme sind gestreckt am Körper angelegt
+  - „eins“ Arme gestreckt zur Decke ziehen
+  - „zwei“ Arme wieder gestreckt am Körper angelegt
+  - „drei“ Absprung mit gestreckt zur Decke gestellten Armen
+  - alternativ können die Arme erst im dritten Absprung gestellt sein (manchen Neulingen hilft ein früheres Stellen bei zwei)
+
+- Die Arme müssen jeweils schon kurz vor der Landung in die gewünschte Position gebracht werden. Auf kontrollierte und ruhige (Arm-) Bewegungen achten
+
+.. tip::
+
+    Bei fehlender Schulterbeweglichkeit bzw. Haltekraft, kann es helfen die Handflächen beim Stellen der Arme nach außen zu drehen. Ebenso kann ein sehr spätes und schnelles Stellen (fast im Moment der Landung) helfen.
+
+    Aufrechtes Abspringen lässt sich unterstützen, indem der Aktive sich nach "drei" mit gestellten Armen vornimmt Höhe zu gewinnen. Dies gibt in dem kritischen Moment des Absprungs extra Körperspannung und wird besonders bei Saltorotationen wichtig um ein Wandern auf dem Tuch zu verhindern.
+
+Blickrichtung
+-------------
+
+Ein früher Fokus auf die Kopfhaltung kann späteres zeitaufwendiges Umlernen verhindern. Manche Aktive neigen dazu nicht nur mit gesenktem Kopf, sondern auch leicht vorgebeugt aufs Tuch zu schauen um ihre Landung zu überwachen. Diese Vorlage erzeugt eine Wanderbewegung auf dem Tuch und verhindert meist ein korrektes Stellen der Arme. Gleichzeitig kann es passieren, dass die Wanderbewegung mit einem Herausstrecken des Gesäßes kompensiert wird.
+
+Sprungtechnisch optimal ist ein ruhiger Blick geradeaus zur Wand bzw. eine neutrale Kopfhaltung. Im Bestfall findet man einen Fixpunkt. Das Tuch kann weiterhin im peripheren Sichtfeld wahrgenommen werden. Falls der Aktive plant an Wettkämpfen teilzunehmen gibt es die Empfehlung den **Blickpunkt ans Ende des Trampolins** bzw. die vordere Mattenkante zu legen. So spart man sich die Eingewöhnung in einer neuen Halle.
+
+
+Hock-, Grätschwinkel- & Bücksprung
+-------------------------------------
 
 Bei allen Landungen auf den Füßen sind die Beine im Tuch etwa schulterweit geöffnet, um eine bessere Standfähigkeit zu ermöglichen. Der Abdruck aus dem Tuch erfolgt hauptsächlich mit den Fußballen, mit Unterstützung der Arme. Die Arme sind beim Absprung grundsätzlich **gestellt**. Direkt nach dem Absprung werden die **Beine geschlossen**. Alle Fußsprünge beginnen mit einem gestreckten Sprung in die Höhe. Die eigentliche Bewegung wird erst **nach dem Absprung** ausgeführt, wenn die Füße das Trampolin verlassen haben. Das ermöglicht ein Springen auf der Stelle. Die Füße und Zehen sind in der Luft möglichst getreckt ("pointy toes"). Mit Ausnahme von Sprüngen mit Hocken sind die Knie ebenfalls immer gestreckt in der Luft.
 
@@ -256,7 +322,7 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 
 
 Bauchlandung / Bauch
---------------------
+----------------------
 
 Das Erlernen der Bauchlandung ist oft mit weniger Angst seitens des Aktiven verbunden als dies beim Rücken der Fall ist. Das vor allem dadurch, dass der Absprung vorwärts erfolgt, man also jederzeit das Trampolintuch im Blick hat. Umso **gefährlicher** ist jedoch der Sprung, da zu viel Rotation in der Luft schlecht ausgeglichen werden kann und er sehr viel häufiger von Anfängern „einfach“ mal ausprobiert wird.
 

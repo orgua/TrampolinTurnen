@@ -33,7 +33,7 @@ Mit Material
 --------------
 
 - Ein Seil schlangenartig über das Trampolin legen und darüber balancieren
-- **Seilspringen** auf dem Trampolin: Umgewöhnung erforderlich, aber dafür 3fach-Durchschläge möglich
+- **Seilspringen** auf dem Trampolin: erfordert Umgewöhnung, aber dafür Mehrfachdurchschläge möglich
 - Variation: Zwei Personen stehen auf den Weichböden an der Stirnseite und schlagen ein langes Seil, eine dritte Person versucht dabei in der Mitte zu springen. Die Person in der Mitte kann dabei ein zusätzlich mit einem eigenem Seil springen.
 - Ein Seil längs und drei Seile quer über das Trampolin legen (acht Felder), von Feld zu Feld springen (auch zu zweit möglich)
 - Variation: die Seilenden werden von anderen Personen gehalten und die Feldgrößen werden während des Springens verändert
@@ -63,8 +63,8 @@ Mit einem Partner
 
 - Zu dritt nebeneinander über das Trampolin hüpfen, hierzu in den Armen einhaken; der Springer in der Mitte macht die Augen zu. Achtung! Möglichst gleichzeitig springen und ansagen, wann die Mattenkante kommt
 - Zu zweit oder zu dritt auf dem Gerät, wobei sich eine Person in die Mitte setzt (Schneidersitz mit abstützen der Hände oder normale Sitzposition), die anderen Springen vorsichtig um die sitzende Person, so dass sie ins Wanken gerät. Die Person in der Mitte kann dabei die Augen schließen.
-- „Eiserne Jungfrau“: eine Person legt sich in die Mitte (wichtig: Körper ganz gestreckt und angespannt), zwei oder vier Person stehen sich an den langen Seiten gegenüber und treten auf ein Signal gemeinsam fest ins Trampolin, so dass die Person in der Mitte hochgeschossen wird
-- Einen Partner, der auf Trampolin sitzt oder einen Medizinball hochschießen (Achtung Gefahr)
+- „Eiserne Jungfrau“: eine Person legt sich in die Mitte (wichtig: Körper ganz gestreckt und angespannt), zwei oder vier Person stehen sich an den langen Seiten gegenüber und treten auf ein Signal gemeinsam fest ins Trampolin, so dass die Person in der Mitte hochgeschossen  und aufgefangen wird
+- Einen Partner, der auf Trampolin sitzt oder einen Medizinball hochschießen (Achtung Gefahr!)
 - Paarsalto (fortgeschritten) - nebeneinanderstehend, Blickrichtung entgegengesetzt, mit verschränkten Armen macht eine Person einen Vorwärts- und die andere einen Rückwärtssalto
 
 Spiele auf dem Trampolin
@@ -86,6 +86,10 @@ Koffer-Packen
 - Variation C: Ausschließen von Sprungkategorien (kein Bauch) oder Erfinden von Regeln (mind. 90° Saltorotation)
 - Variation D: zusätzliche Nachahmung der Ausführung inklusive möglicher Fehler und Geräusche
 - Variation E: Erfinden von neuen Sprüngen (Dreifachhocke, Gegrätschter Salto, Hocke ¼ Schraube)
+
+.. note::
+    Da das Ziel des Spiels darin besteht, Sprungfolgen zu turnen, die der oder die Mitspieler nicht schaffen oder sich nur bedingt merken können, leidet oft die korrekte Ausführung der Elemente. Kürzlich Erlerntes sowie Elemente im Lernprozess sollten beim Spielen weggelassen werden, um das Erlernen technischer Fehler zu vermeiden.
+
 
 Sitz-Jonglage
 ~~~~~~~~~~~~~~
