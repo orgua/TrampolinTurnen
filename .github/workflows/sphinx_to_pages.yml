@@ -27,5 +27,5 @@ jobs:
         with:
           python_version: 3.11
           sphinx_version: 6.2.1
-          publish: ${{ (github.event_name != 'push') && (github.event_name != 'pull_request') }}
+          # publish: ${{ (github.event_name != 'push') && (github.event_name != 'pull_request') }}
           # TODO: determine if our event is "release" or workflow_call
