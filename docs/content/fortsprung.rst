@@ -4,9 +4,9 @@ Fortgeschrittene Sprünge
 .. warning::
     Kapitel unfertig - wildes Durcheinander
 
-Nach den Grundsprüngen und Sprungverbindungen widmet sich dieses Kapitel den Saltis. Die Saltobewegungen spielen beim Trampolinturnen eine große Rolle, insbesondere bei der Zusammenstellung von der Kürübung. Nirgendwo abseits des Trampolins ist es so „einfach“ Saltorotationen zu erleben. Als erster Sprung in dieser Reihe soll der Salto rückwärts gehockt vorgestellt werden. Das dann vorhandene Sprungrepertoire ermöglicht ein Erlernen der P5, der ersten Pflichtübung im Anfängerbereich (siehe :doc:`pflichten`).
+Nach den Grundsprüngen und Sprungverbindungen widmet sich dieses Kapitel den Saltis. Die Saltobewegungen spielen beim Trampolinturnen eine große Rolle, insbesondere bei der Zusammenstellung von der Kürübung. Nirgendwo abseits des Trampolins ist es so „einfach“ Saltorotationen zu erleben. Als erster Sprung in dieser Reihe soll der gehockte Rückwärtssalto vorgestellt werden. Das dann vorhandene Sprungrepertoire ermöglicht ein Erlernen der P5, der ersten Pflichtübung im Anfängerbereich (siehe :doc:`pflichten`).
 
- In der Regel wird beim Trampolinturnen zunächst der Salto rückwärts (gehockt, später dann gebückt) und dann erst der Salto vorwärts gelernt. Bei vorwärts gesprungenen Salto ist eine Landung auf den Füßen aus Orientierungsgründen unsicherer. In der Regel werden Vorwärtssalti mit Schrauben-Bewegungen kombiniert um die Sicht zu verbessern.
+ In der Regel wird beim Trampolinturnen zunächst der Salto rückwärts (gehockt, später dann gebückt) und dann erst der Salto vorwärts gelernt. Beim vorwärts gesprungenen Salto ist eine Landung auf den Füßen aus Orientierungsgründen unsicherer. In der Regel werden Vorwärtssalti mit Schrauben-Bewegungen kombiniert um die Sicht zu verbessern.
 
 .. rubric:: Ausführungsformen ++
 
