@@ -39,7 +39,7 @@ Ein grober Fahrplan, wie unten aufgelistet, lässt sich in einem Anfängerkurs i
 - Salto rückwärts
 - Salto vorwärts und Barani (für ganz schnelle)
 
-.. _Pflichten:
+.. _pflichtuebungen:
 
 Pflichtübungen
 --------------
@@ -86,7 +86,7 @@ Die ersten beiden Übungen P1 und P2 sind Vorstufen um sich an Sprungfolgen zu g
     10, Salto rw. c,    Salto rw. b,    Barani c,       Barani c/b
 
 
-Weitere Pflichtteile findet man im `Internet <https://www.nsv-trampolin.de/index.php/de/infos-regeln/pflichtuebungen-ab-01-01-2017>`_
+Weitere Pflichtteile finden sich im `Internet <https://www.nsv-trampolin.de/index.php/de/infos-regeln/pflichtuebungen-ab-01-01-2017>`_
 
 
 Einführung in Wettkampfbestimmungen

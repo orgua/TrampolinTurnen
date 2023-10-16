@@ -50,7 +50,9 @@ Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen 
 Stellen der Arme
 -----------------
 
-Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor jedem Absprung zur Decke getreckt neben dem Kopf befinden und im Bestfall die Ohren einklemmen. In der Trampolin-Sprache sind die **„Arme gestellt“**. Das erfordert neben einer gewissen Beweglichkeit des Schulterbereichs auch Kraft, gerade bei den Jüngeren. Diese Eigenschaften können und sollen bereits bei der Gymnastik vorbereitet werden. Aber auch auf dem Trampolin selbst gibt es einige Übungen für den Armeinsatz.
+Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor einem Aktionssprung aus dem Stand in Hochhalte befinden. In der Trampolin-Sprache sind die **„Arme gestellt“**. Das erfordert neben einer gewissen Beweglichkeit des Schulterbereichs auch Kraft, gerade bei den Jüngeren. Diese Eigenschaften können und sollen bereits bei der Gymnastik vorbereitet werden. Aber auch auf dem Trampolin selbst gibt es einige Übungen für den Armeinsatz.
+
+.. TODO: Arme nicht nur neben dem Kopf, sondern Schultergürtel aktivieren und "ohren einklemmen"
 
 .. rubric:: Methodische Übungsreihe
 
@@ -144,6 +146,8 @@ Es gibt verschiedene Techniken eine Schraubenbewegungen in der Luft auszuführen
 
 Ski- und Wasserspringer verwenden noch weitere Schraubentechniken. Skispringer schrauben etwa mit Einsatz des gesamten Oberkörpers. Dies findet beim Trampolinturnen keine Verwendung. Die Wasserspringer führen eine **Hula-Hoop-Bewegung** in der Luft aus - zusätzlich kann eine Scherenbewegung der Beine weitere Rotation erzeugen. Als aufmerksamer Trampolintrainer entdeckt man die Hula-Hoop-Bewegung unter Umständen bei Sitz ½-Schraube Sitz oder bei Baranis häufig als Fehlerbild.
 
+Beim Trampolinturnen sollte prinzipiell **eine Drehrichtung** vom Aktiven **eingehalten** werden. In welche Richtung der Turner sich dreht, ist egal; empfehlenswert ist, dass er eine einmal „ausgesuchte“ Drehrichtung bei allen später gelernten Schraubensprüngen beibehält. Zur Förderung der koordinativen Fähigkeiten können Standsprungschrauben bis ca, 540° in beide Richtungen geübt werden. Bei Demonstrationen sollte man gerade bei kleinen Kindern darauf achten, deren eigene Drehrichtung zu verwenden, um nicht durch einen „Nachmach-Effekt“ eine falsche Drehrichtung des Aktiven zu bewirken.
+
 .. figure:: ../media/sprung_halbe_schraube.jpg
     :width: 200px
     :name: fig:halbe_schraube
@@ -151,26 +155,33 @@ Ski- und Wasserspringer verwenden noch weitere Schraubentechniken. Skispringer s
 
     Halbe Schraube in Phasendarstellung
 
-.. rubric:: Fußsprungschraube aus dem Tuch
+Fußsprungschraube aus dem Tuch
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. TODO: gehört eigentlich in ein eigenes unterkapitel, da auch methodische Übungsreihe dabei ist
+Bei den Sprüngen des Anfängerbereichs handelt es sich meist um **im Tuch eingeleitete Schraubenbewegungen**.
 
-Bei den Sprüngen des Anfängerbereichs handelt es sich meist um **im Tuch eingeleitete Schraubenbewegungen**. Folgende Hinweise sind hilfreich, um mit Aktiven das Schrauben auf dem Trampolin zu üben:
-
-- im Tuch (in der Steigphase) eingeleitete Schrauben müssen so dosiert sein, dass im höchsten Punkt des Sprungs die Hälfte der gewünschten Schraubenmenge erreicht ist, somit muss die Schraube für jede Sprunghöhe anders dosiert werden
-- je mehr der Körper gestreckt ist, desto schneller erfolgt die Schraubendrehung (wichtig: Arme dicht am Körper); Übung: Standsprungschraube mit zur Seite gehaltenen Armen springen, in der Luft die Arme an den Körper heranziehen: die Schraube wird schneller
+Übung: Standsprungschraube mit zur Seite gehaltenen Armen springen, in der Luft die Arme an den Körper heranziehen: die Schraube wird schneller
 - erst auf genügendes Steigen aus dem Tuch achten; eventuelle Saltorotationen werden ebenfalls noch vor der Schraubenbewegung eingeleitet
-- Vorsicht! Je mehr Schraubenimpuls „mitgegeben“ wird, desto mehr ist davon im Tuch noch vorhanden; Spannung halten und die Beine zusammendrücken, damit sich die Knie nicht verdrehen.
+
+.. rubric:: Bewegungsbeschreibung
+
+- beim Absprung zum Strecksprung erfolgt eine Einleitung der Schraube mit den Füßen durch seitlichen Abdruck vom Tuch
+- eingeleitete Schrauben müssen so dosiert sein, dass im höchsten Punkt des Sprungs die Hälfte der gewünschten Schraubenmenge erreicht ist, somit muss die Schraube für jede Sprunghöhe anders dosiert, bzw. neu gelernt, werden
+- je mehr der Körper gestreckt ist, desto schneller erfolgt die Schraubendrehung
+- Arme nahe der Rotationsachse, im Bestfall die Körpermitte, beschleunigen die Schraubendrehung
+- Vorsicht! Je mehr Schraubenimpuls beim Absprung mitgegeben wird, desto mehr ist davon bei der Landung im Tuch noch vorhanden; Der Aktive sollte Spannung halten und die Beine zusammendrücken, damit sich die Knie nicht verdrehen.
 
 .. rubric:: Methodische Übungsreihe
 
 - Sprung mit seitlich ausgestreckten Armen (T-Form), halbe Schrauben vor und zurück
-- sobald das stabil funktioniert, nach einer viertel Schraube die Arme an den Körper nehmen (der eine Arm im Bogen, der andere dicht an den Körper) und damit die Schraube beschleunigen, zum Verlangsamen / Stoppen die Arme wieder ausstrecken
-- Übung mit gestellten Armen wiederholen - die Schraube ist direkt schneller und kann nur verlangsamt werden
+- sobald das stabil funktioniert, nach einer viertel Schraube die Arme impulsiv an die Brust nehmen und damit die Schraube beschleunigen, zum Verlangsamen btw. beim Abstoppen die Arme wieder ausstrecken
+- die Aktiven können bereits hier mit dem Einfluss der Schulter experimentieren, indem der vorauseilende Arm in direkter Bewegung und der nacheilende Arm in einem Bogen in Schraubrichtung angezogen wird
+- Übung mit gestellten Armen wiederholen - die Schraube ist bei gleichem Krafteinsatz direkt schneller und kann nur verlangsamt werden
 
-Beim Trampolinturnen sollte prinzipiell **eine Drehrichtung** vom Aktiven **eingehalten** werden. In welche Richtung der Turner sich dreht, ist egal; empfehlenswert ist, dass er eine einmal „ausgesuchte“ Drehrichtung bei allen Schrauben später beibehält. Zur Förderung der koordinativen Fähigkeiten können Standsprungschrauben bis ca, 540° in beide Richtungen geübt werden. Bei Demonstrationen sollte man gerade bei kleinen Kindern darauf achten, deren eigene Drehrichtung zu verwenden, um nicht durch einen „Nachmach-Effekt“ eine falsche Drehrichtung des Aktiven zu bewirken.
+Fußsprungschraube mit Schultereinsatz
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. rubric:: Schraube in der Luft - Bewegungsbeschreibung
+.. rubric:: Bewegungsbeschreibung
 
 - Absprung zum Strecksprung
 - eine Schulter-Seite wird entsprechend der Drehrichtung schnellkräftig nach hinten ausgehoben, die andere Schulter kann nach vorne bewegt und impulsiv abgebremst werden
@@ -257,7 +268,7 @@ Der Rückensprung kostet die Aktiven beim Erlenen häufig Überwindung, da das r
 
 .. TODO: position im Ablauf nach Absprung zu sehr überstreckt
 
-.. _TechnikSalto:
+.. _TechnikSaltoRW:
 
 .. rubric:: Hinweise zur Rückwärtsrotation
 
@@ -267,8 +278,10 @@ Das Aufbauen der Saltorotation beginnt nach dem Absprung mit einer **Vorspannung
 
 .. TODO eigentlich bereits Bewegungsbeschreibung textuell
 
+.. _mattenkick::
+
 Als Vorübung eignet sich der **Mattenkick**:
-Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte sich nicht bewegen bei der Übung), springt mit gestellten Armen ab, spannt den Körper und benutzt den Kick um die Matte mit dem Fußspann zu treten. Abschluss ist eine Landung auf den Füßen. Bei richtiger Ausführung gerät der Aktive nach dem Abprallen des Kicks deutlich in Vorlage. Ziel ist sowohl ein lauter Kick als auch eine starke Vorwärtsrotation nach dem Abprall.
+Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte sich bei der Übung nicht bewegen), springt mit gestellten Armen ab, spannt den Körper und benutzt den Kick um die Matte mit dem Fußspann zu treten. Abschluss ist eine Landung auf den Füßen. Bei richtiger Ausführung gerät der Aktive nach dem Abprallen des Kicks deutlich in Vorlage. Ziel ist sowohl ein lauter Kick als auch eine starke Vorwärtsrotation nach dem Abprall.
 
 .. TODO gehört zur methodik
 
@@ -295,7 +308,7 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 .. TODO: mattenkick wird verschoben
 
 - Rückwärtsrollen bei Erwärmung üben
-- Mattenkick siehe :ref:`Technik-Abschnitt <TechnikSalto>`
+- Mattenkick siehe :ref:`Technik-Abschnitt <TechnikSaltoRW>`
 - Demonstration; Insbesondere auf die Position der Beine und Arme bei der Landung im Rücken sollte eingegangen werden
 - Rücken-Langunsposition statisch auf dem Tuch einnehmen
 - **Stempelgriff-Vorübung** zum Kennenlernen der Landephase: Trainer greift die Füße aus der Trockenposition und federt den Aktiven mit einem Kick ins Tuch. Dieser versucht mit dem Oberkörper in der Luft waagerecht zu bleiben
@@ -316,12 +329,18 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 .. rubric:: Fehler und Korrekturen
 
 - **Wichtig**: die Teilnehmer sollten niemals zum Selbstschutz die Arme hinter ihren Körper  bringen um sich abzufangen - stattdessen sollen sie sich klein machen (Päckchen) und durch die Schiebematte gebremst werden
-- der Absprung erfolgt nach hinten gelehnt / gebeugt: auf aufrechten und bewusst nach oben gerichteten Absprung achten („Schultern/Arme zur Decke“), Landung auf Kreuz, Beweglichkeit verbessern?
+- Zum Rückensprung deutliches Wandern nach hinten - der Absprung erfolgt nach hinten gelehnt / gebeugt bzw. dynamisch nach hinten gezogener Schulter
+
+  - auf aufrechten, vorgespannte Position und bewusst nach oben gerichteten Absprung achten
+  - Aufgabe: Landung auf Kreuz
+  - Körperbeugung kann Zeichen von mangelnder Schulterbeweglichkeit sein
+  - rückwärtiges Wandern wird häufig maskiert mit nach vorne geschobenem Bauch, Hüfte oder Knie
+
 - der Kopf wird im Absprung nach hinten gerissen für extra Schwung - potentiell gefährlich!
 - zu wenig Schwung, infolge dessen die Hüfte zu früh angewinkelt wird, um noch auf dem Rücken zu landen -> erst kräftiger Absprung nach oben, dann deutlicher Kick
 - die Beine sind in der Landung nicht optimal gestellt; Folgen:
 
-  - zu tief -> die Beine fallen auf das Tuch
+  - zu tief -> die Beine fallen auf das Tuch und das Aufstehen ist geschleudert und unkontrolliert
   - zu hoch / über der Senkrechten -> die Beine kippen nach hinten, der Aktive macht eine gefährliche Bewegung oder Rotation nach hinten
   - seitliches Ausweichen -> der Springer kippt nach der Landung zur Seite
 
@@ -330,9 +349,9 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
   - zu früh: das Aufstehen erfolgt zu flach und zu weit nach vorne (Stehauf-Männchen)
   - zu spät: nicht genügend Rotation zum Aufstehen, die Landung erfolgt im Sitz
 
-- zu wenig Körperspannung in der Landung: der Körper klappt regelrecht zusammen -> Arme und Beine mehr rechtwinklig zum Körper halten
+- zu wenig Körperspannung in der Landung: der Körper klappt regelrecht auseinander bzw. zusammen -> Arme und Beine mehr rechtwinklig zum Körper halten
 - der Kopf wird auf die Brust genommen und fällt bei der Landung nach hinten -> Kopf lieber ablegen oder Stempel-Übung mit Schaumstoff am Kinn eingeklemmt durchführen
-- Stehaufmännchen, Vornüberfallen beim Aufstehen: die Beine nach der Landung nicht gleich fallen lassen um aufzustehen
+- Stehaufmännchen bzw. Vornüberfallen beim Aufstehen: die Beine werden in der Landung als Hebel zum Aufstehen benutzt bzw. sind nach der Rückenlandung zu flach oder abgesunken
 
 .. rubric:: Hilfestellung
 
@@ -343,7 +362,7 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 Bauchlandung / Bauch
 ----------------------
 
-Das Erlernen der Bauchlandung ist oft mit weniger Angst seitens des Aktiven verbunden als dies beim Rücken der Fall ist. Das vor allem dadurch, dass der Absprung vorwärts erfolgt, man also jederzeit das Trampolintuch im Blick hat. Umso **gefährlicher** ist jedoch der Sprung, da zu viel Rotation in der Luft schlecht ausgeglichen werden kann und er sehr viel häufiger von Anfängern „einfach“ mal ausprobiert wird.
+Das Erlernen der Bauchlandung ist oft mit weniger Angst seitens des Aktiven verbunden, als dies beim Rücken der Fall ist. Das vor allem dadurch, dass der Absprung vorwärts erfolgt, man also jederzeit das Trampolintuch im Blick hat. Umso **gefährlicher** ist jedoch der Sprung, da zu viel Rotation in der Luft schlecht ausgeglichen werden kann und er sehr viel häufiger von Anfängern „einfach“ mal ausprobiert wird. Eine unkontrollierte und inkorrekte Landung kann schnell zu Verletzungen führen!
 
 Dieser Sprung kann als **Vorstufe zu vorwärts** abgesprungenen **Salti** gesehen werden, so dass sich
 ein gründliches Erlernen der Bauchlandung im Hinblick auf die weitere Entwicklung des Aktiven immer lohnt
@@ -352,31 +371,32 @@ und angebracht ist.
 .. rubric:: Bewegungsbeschreibung
 
 - Ziel: Stand - Bauchlandung - Aufstehen zum Stand
-- Absprung mit Blick auf vordere Matten- oder Trampolinkante
+- Absprung mit Blick auf vordere Matten- oder Trampolinkante, Kopf neutral
 - die Arme unterstützen den Absprung nach oben (sind gestellt)
-- im Absprung den Körper spannen (keine Vorspannung wie bei Rückwärtsbewegung) und Beine gestreckt leicht nach hinten kicken (siehe :ref:`Technik vom Sitzsprung <TechnikSalto>`) um die Vorwärtsrotation einzuleiten
+- im Absprung den Körper spannen (keine Vorspannung wie bei Rückwärtsbewegung)
+- nach Absprung in der Luft die gestreckten Beine impulsiv nach hinten bewegen und in einer leichten C-Minus Postion stoppen (siehe :ref:`Salto-Technik<TechnikSaltoRW>`) um die Vorwärtsrotation einzuleiten
 - Eine Nachjustierung der Rotation ist wie beim Rückensprung durch leichtes Abbücken oder Aufstrecken möglich (auch wenn die Form darunter leidet ist dies einer möglichen Verletzung vorzuziehen)
-- für die Feinstform können die Arme während der Flugphase an den Körper angelegt werden
+- zur optimalen Ausführung werden die Arme während der Flugphase an den Körper angelegt
 - **Bauchlage**:
 
   - die Arme befinden sich bereits kurz vor der Landung leicht gebeugt vor dem Gesicht auf dem Tuch -> Hände können flach auf dem Tuch aufliegen
   - Schulterblätter sind zusammengezogen und Ellenbogen nach vorne/oben gezogen (damit diese nicht aufliegen bzw. aufreiben)
-  - der Kopf wird auf dem Trampolin etwas angehoben - der Blick ist weiterhin zur Trampolinkante gerichtet
+  - der Kopf wird auf dem Trampolin etwas angehoben, aber nicht in den Nacken gelegt - der Blick ist weiterhin zur Trampolinkante gerichtet
   - die Beine sind bei der Landung gestreckt und geschlossen
 
 - im Moment des erneuten Abhebens drücken die Arme den gestreckten Körper aus dem Tuch (Schulterblätter voran, leichter Katzenbuckel)
-- eine zweite Technik um Rotation aufzubauen ist es im Tuch eine Vorspannung aufzubauen, d.h. die Knie ins Tuch zu drücken (die Hüfte bringt weniger Gewicht ins Tuch)
-- die Arme werden beim Aufstehen gestreckt an den Körper gelegt und erst kurz vor dem Landen vorne hoch geführt
-- Der Bauchnabel ist (wie beim Rückensprung) ein guter Fixpunkt - er sollte dort landen wo vorher die Füße standen - auf dem Kreuz
+- eine zweite Technik um Rotation aufzubauen ist es, im Tuch eine Vorspannung aufzubauen, d.h. die Knie ins Tuch zu drücken (die Hüfte bringt weniger Gewicht ins Tuch)
+- die Arme werden beim Aufstehen gestreckt an den Körper gelegt und erst kurz vor der Landung in die Hochhalte geführt
+- Der Bauchnabel ist (wie beim Rückensprung) ein guter Fixpunkt - er sollte dort auf dem Tuch landen wo vorher die Füße standen - auf dem Kreuz
 
 .. rubric:: Methodische Übungsreihe
 
-- umgedrehter Mattenkick (siehe :ref:`Technik zum Salto <TechnikSalto>`), achtet auf eine extra Matte vor euch
+- umgedrehter Mattenkick (siehe :ref:`Salto-Technik<TechnikSaltoRW>`), achtet auf eine extra Matte vor euch
 - **Demonstration der Landeposition**; insbesondere der Arme und Beine
 - **Trockenposition auf dem Tuch einnehmen** (testen Spannung der geschlossenen Beine, abgehobene Ellenbogen, ...)
-- **Demonstration des Sprung** durch jemanden, der den Sprung in der Feinform beherrscht
+- **Demonstration des Sprung** durch jemanden, der den Sprung sicher und korrekt beherrscht
 - Übungen auf derselben Bank-Matte-Konstruktion wie bei der Rückenlandung
-- **Bankstellung auf dem Tuch** - aus dem leichten Wippen die Füße nach hinten strecken (nicht fliegen lassen, sondern gefühlt unter die Abdeckung der Federn schieben), der Oberkörper sollte gerade herunterfallen (Bauchnabel über Kreuz als Test)
+- **Bankstellung auf dem Tuch** - aus dem leichten Wippen die Füße nach hinten strecken. Darauf achten, dass die Beine nicht wegfliegen und nachschlagen, sondern direkt in Richtung der Federn geschoben werden. Der Oberkörper sollte gerade herunterfallen. Für den Aktiven eignen sich die Tuchmarkierungen als Indikator fürs Wandern
 - Liegestützposition (mit immer spitzer werdendem Winkel zwischen Ober- und Unterkörper): leichtes Wippen, Körper strecken und auf dem Bauch landen
 - vorgebeugt wippen und in die Bauchlage springen
 - mit der Schiebematte auf der Gerätemitte leicht wippend den Bauchsprung ausführen
@@ -384,13 +404,16 @@ und angebracht ist.
 
 .. rubric:: Fehler und Korrekturen
 
-- der Oberkörper wird im Absprung oder schon im Tuch nach vorne gekippt bzw. der Po rausgestreckt: erzeugt Vorwärtsbewegung; Auf aufrechten Absprung mit gestellten Armen achten („an Strecksprung denken“), außerdem auf Fußtechnik bestehen
+- der Oberkörper wird im Absprung oder schon im Tuch nach vorne gekippt bzw. der gesamte Körper ist vorgelehnt: erzeugt Vorwärtsbewegung; Auf aufrechten Absprung mit gestellten Armen achten („an Strecksprung denken“), außerdem auf Fußtechnik bestehen
+- zur Kompensation einer Vorwärtsbewegung durch falsche Technik wird zusätzlich der Po rausgestreckt
 - die Hüfte knickt in der Luft zu sehr ab: der „Beinschub“ muss genau dosiert sein
-- keinen Liegestütz versuchen um sich abzufangen
+- keinen Liegestütz versuchen, um sich abzufangen
 - die Beine sind bei der Landung angewinkelt
 - zu wenig Spannung in der Landung; der Turner bleibt quasi auf dem Tuch liegen
 - die Arme wirbeln beim Aufstehen unkontrolliert durch die Luft: Arme ruhig an den Körper anlegen
 
-.. rubric:: Hilfestellung - Kontrollieren der Füße
+.. TODO: Punkt "zu wenig Spannung" wirkt falsch
 
-Kann wie bei der Rückenlandung durch ein Ausrichten des Körpers in der Luft erfolgen. Der Trainer steht dazu schräg hinter dem Aktiven und greift nach dem Absprung die Knöchel bzw. Fersen. Das ermöglicht neben der Ausrichtung in die Waagerechte zusätzlich das Stoppen einer Vorwärtsbewegung. Kurz vor der Tuchberührung die Füße loslassen, sonst droht Verletzungsgefahr für den Trainer. Diese Technik funktioniert auch mit Reinlaufen vom Rand.
+.. rubric:: Hilfestellung
+
+Wie bei der Rückenlandung auch, kann durch ein Ausrichten des Körpers in der Luft die Landeposition korrigiert werden. Der Trainer steht dazu schräg hinter dem Aktiven und greift nach dem Absprung die Knöchel bzw. Fersen. Das ermöglicht neben der Ausrichtung in die Waagerechte zusätzlich das Stoppen einer Vorwärtsbewegung. Sowohl zu wenig, als auch zu viel Rotation müssen vom Trainer direkt nach dem Absprung erkannt und korrigiert werden. Nach der Korrektur, bzw kurz vor der Tuchberührung wird der Kontakt gelöst, sonst droht Verletzungsgefahr für den Trainer. Diese Technik funktioniert auch mit Reinlaufen vom Rand.

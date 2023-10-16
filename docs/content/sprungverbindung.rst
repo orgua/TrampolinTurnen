@@ -3,7 +3,7 @@ Verbindung von Sprüngen
 
 In diesem Kapitel wird eine Auswahl an Sprüngen erläutert, die aus den bisherig vorgestellten Bewegungen auf dem Trampolin zusammengesetzt sind und sich im Anschluss an das Erlernen der Grundsprünge anbieten. Das sind anfangs Verbindungen der einzelnen Landungsarten mit Schrauben. Die Aktiven sind hier erstmals mit einer Sprungfolge konfrontiert und müssen lernen den **Fokus auf den aktuellen Sprung** zu legen und nicht bereits an Folgesprünge zu denken. Zusätzlich werden Fehler in der Technik schnell deutlich, da sich die Effekte verschleppen und addieren können.
 
-Hilfestellungen sind in dieser Phase wenig bis kaum nötig und können aus den bereits bekannten Techniken abgeleitet werden. Besonders bei Bauchladungen sollte die Landephase abgesichert sein. Eventuelle Schrauben, inklusive der Richtung, müssen vorher besprochen und beim Sichern bedacht werden.
+Hilfestellungen sollten in dieser Phase wenig bis kaum nötig sein und können aus den bereits bekannten Techniken abgeleitet werden. Besonders bei Bauchladungen sollte die Landephase abgesichert sein. Eventuelle Schrauben, inklusive der Richtung, müssen vorher besprochen und beim Sichern bedacht werden.
 
 .. _SitzHalbeStand:
 
@@ -23,7 +23,7 @@ Dieser Klassiker ist vermutlich die am unkompliziertesten zu erlernende Verbindu
 
 - zum Aufstehen im Sitz drücken sich die Hände vom Tuch ab
 - nach der Sitzlandung werden die Arme über die Vorderseite nach oben geführt und die Hüfte getreckt, allerdings:
-- um die Schraube einzuleiten **führt der Arme in Schraubenrichtung die Bewegung an** (linker Arm für Schraube linksherum)
+- um die Schraube einzuleiten, **führt der Arme in Schraubenrichtung die Bewegung an** (linker Arm für Schraube linksherum)
 - die Schulter des führenden Arms wird bei der Bewegung etwas ausgehoben
 - ein schnelles Öffnen des Hüftwinkels ermöglicht eine saubere Schraube in der Hauptachse
 - die im :ref:`Abschnitt zu Schrauben <Schrauben>` erwähnte **Hula-Hoop-Bewegung** für leichteres Schrauben lässt sich hier anwenden indem die Hüfte beim Öffnen leicht in Schraubenrichtung gekippt wird
@@ -37,7 +37,7 @@ Dieser Klassiker ist vermutlich die am unkompliziertesten zu erlernende Verbindu
 
 .. rubric:: Fehler und Korrekturen
 
-- der Hüftwinkel wird nicht oder zu wenig getreckt; Folge: die Schraube hat zu wenig Rotation oder der Aktive wandert zur Seite
+- der Hüftwinkel wird nicht oder zu wenig geöffnet; Folge: die Schraube hat zu wenig Rotation oder der Aktive wandert zur Seite
 - anstatt die Arme mitzunehmen in Richtung der Drehbewegung, wird versucht sich in der Luft abzudrücken (entgegen der Drehrichtung) und die Schraube bleibt schwach
 - Landung in Vorlage -> Hände im Sitz weiter hinten aufsetzen um sich etwas stärker nach vorne abzudrücken
 

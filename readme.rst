@@ -135,10 +135,11 @@ TODO
 - Jeder Sprung mit festem Schema
 
   - Einleitung
-  - Bewegungsbeschreibung
   - Leistungsvoraussetzungen
+  - Bewegungsbeschreibung
   - Methodik
   - Fehler und Korrekturen
+  - [Hilfestellung]
 
 - Texte in kleinere Abschnitte teilen - um später kompakte Übersichten zu generieren (Aufbau, Hilfestellungen, Fehlerbilder, )
 - add videos
