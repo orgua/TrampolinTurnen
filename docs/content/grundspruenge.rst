@@ -278,7 +278,7 @@ Das Aufbauen der Saltorotation beginnt nach dem Absprung mit einer **Vorspannung
 
 .. TODO eigentlich bereits Bewegungsbeschreibung textuell
 
-.. _mattenkick::
+.. _mattenkick:
 
 Als Vorübung eignet sich der **Mattenkick**:
 Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte sich bei der Übung nicht bewegen), springt mit gestellten Armen ab, spannt den Körper und benutzt den Kick um die Matte mit dem Fußspann zu treten. Abschluss ist eine Landung auf den Füßen. Bei richtiger Ausführung gerät der Aktive nach dem Abprallen des Kicks deutlich in Vorlage. Ziel ist sowohl ein lauter Kick als auch eine starke Vorwärtsrotation nach dem Abprall.
