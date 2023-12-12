@@ -24,6 +24,5 @@ jobs:
 
       - name: Build and Push Pages 🧱
         uses: sphinx-notes/pages@v3
-        with:
-          # publish: ${{ (github.event_name != 'push') && (github.event_name != 'pull_request') }}
-          # TODO: determine if our event is "release" or workflow_call
+        # publish: ${{ (github.event_name != 'push') && (github.event_name != 'pull_request') }}
+        # TODO: determine if our event is "release" or workflow_call
