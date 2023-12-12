@@ -17,10 +17,16 @@ Links
 Latest Changes
 ---------------
 
-- 0.8.6
+- 0.8.11
 
-  - update sphinx v7 und awesometheme v5
+  - update sphinx v7 and awesometheme v5
   - darkmode!
+  - fix release by tagging
+
+    - adding a tag to a commit (v*.*.*) triggers release
+    - webpage gets updated
+    - pdf is automatically added to release
+    - last step: add title & changelog
 
 
 - 0.8.5
