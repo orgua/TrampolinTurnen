@@ -4,8 +4,8 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [packages]
-sphinx = "<7" # awesometheme <v5 needs it
-sphinxawesome-theme = "<5"
+sphinx = ">7"
+sphinxawesome-theme = "*"
 sphinx-sitemap = "*"
 myst-parser = "*"
 # sphinx-design = "*"
