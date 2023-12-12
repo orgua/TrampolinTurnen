@@ -17,6 +17,7 @@ Latest Changes:
 
 - 0.8.5
 
+  - update sphinx v7 und awesometheme v5
   - Anpassungen am build-system
   - kleinere Details am Skript überarbeitet
   - externer Review

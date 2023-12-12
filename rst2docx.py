@@ -23,8 +23,8 @@ Things to also try with pandoc:
 import os
 from pathlib import Path
 
-file_path = Path("./docs/content").absolute()
-temp_path = Path("./docs/_build").absolute()
+file_path = Path(__file__) / "docs/content"
+temp_path = Path(__file__) / "docs/_build"
 
 files = [
     "einleitung",
@@ -39,18 +39,20 @@ files = [
 ]
 
 content = []
-with open(temp_path / "content.rst", "w", encoding="utf-8") as fw:
+with (temp_path / "content.rst").open("w", encoding="utf-8") as fw:
     fw.seek(0)
     fw.truncate()
 
     for file in files:
         fw.write("\n\n")
-        with open(file_path / (file + ".rst"), encoding="utf-8") as fd:
+        with (file_path / (file + ".rst")).open(encoding="utf-8") as fd:
             content = fd.read()
             fw.write(content)
 
 
 os.chdir(temp_path)
-os.system(f"pandoc -o content_pandoc.docx content.rst")
+os.system("pandoc -o content_pandoc.docx content.rst")
 # os.system(f"rstdoc content.rst content_rstdoc.docx docx")
 # os.system(f"rstdcx content.rst content_rstdcx.docx docx")
+# more secure:
+# subprocess.run(["/path/pandoc", "-o", "content.docx", "content.rst"], timeout=60, check=False)

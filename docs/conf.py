@@ -42,7 +42,7 @@ html_theme = "sphinxawesome_theme"
 html_theme_options = {
     "show_scrolltop": True,
     "show_prev_next": True,
-    "extra_header_links": {
+    "main_nav_links": {
         "PDF-Version": "https://github.com/orgua/TrampolinTurnen/releases",
         "Quelldateien": "https://github.com/orgua/TrampolinTurnen/tree/main/docs/content",
     },
