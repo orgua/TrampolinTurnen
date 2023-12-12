@@ -9,8 +9,8 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
+  pages: write  # TODO: probably not needed
+  id-token: write # TODO: probably not needed
 
 jobs:
   build-pages:
