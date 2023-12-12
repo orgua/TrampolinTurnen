@@ -1,5 +1,5 @@
-sphinx<7
-sphinxawesome-theme<5
+sphinx
+sphinxawesome-theme
 sphinx-sitemap
 myst-parser
 rstdoc
