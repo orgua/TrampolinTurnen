@@ -29,8 +29,15 @@ jobs:
 
       - name: Download Artifact PDF
         uses: actions/download-artifact@v3
-        with:
-          name: "Trampolinturnen"
+#        with:
+#          name: "Trampolinturnen" # TODO: now all artifacts should be loaded and file is hopefully there
+
+      # TODO: debug
+      - name: Display structure of downloaded files
+        run: ls -R
+      - name: Display structure of downloaded files
+        run: ls -R
+        working-directory: "./TrampolinTurnen"
 
       - name: Release
         uses: softprops/action-gh-release@v1
