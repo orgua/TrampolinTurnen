@@ -5,7 +5,8 @@ Einführung ins TrampolinTurnen
     :target: https://github.com/orgua/TrampolinTurnen/actions/workflows/pages/pages-build-deployment
     :name: pages-deployment
 
-Links:
+Links
+------
 
 - `Inhalt als Webseite 📱 <https://orgua.github.io/TrampolinTurnen/>`_
 
@@ -13,11 +14,17 @@ Links:
 
 - `Inhalt als reStructuredText 💻 <https://github.com/orgua/TrampolinTurnen/tree/main/docs/content>`_
 
-Latest Changes:
+Latest Changes
+---------------
+
+- 0.8.6
+
+  - update sphinx v7 und awesometheme v5
+  - darkmode!
+
 
 - 0.8.5
 
-  - update sphinx v7 und awesometheme v5
   - Anpassungen am build-system
   - kleinere Details am Skript überarbeitet
   - externer Review
