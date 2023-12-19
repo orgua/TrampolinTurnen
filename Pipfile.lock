@@ -24,11 +24,11 @@
         },
         "babel": {
             "hashes": [
-                "sha256:33e0952d7dd6374af8dbf6768cc4ddf3ccfefc244f9986d4074704f2fbd18900",
-                "sha256:7077a4984b02b6727ac10f1f7294484f737443d7e2e66c5e4380e41a3ae0b4ed"
+                "sha256:6919867db036398ba21eb5c7a0f6b28ab8cbc3ae7a73a44ebe34ae74a4e7d363",
+                "sha256:efb1a25b7118e67ce3a259bed20545c29cb68be8ad2c784c83689981b7a57287"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.13.1"
+            "version": "==2.14.0"
         },
         "beautifulsoup4": {
             "hashes": [
@@ -1006,6 +1006,7 @@
                 "sha256:9a5160e1ea90688d5963ba09a2dcd8bdd526620edbb65c328728f1b2228d5ab5"
             ],
             "index": "pypi",
+            "markers": "python_version >= '3.9'",
             "version": "==7.2.6"
         },
         "sphinx-bootstrap-theme": {
@@ -1025,11 +1026,12 @@
         },
         "sphinxawesome-theme": {
             "hashes": [
-                "sha256:42b6da58cad93e5c32934b91da3d3090b7305d6c81f742b88b951a8d02caa866",
-                "sha256:c777ab1fffbc1928bf73978e31b785bc9e34fead5f4aa8341d56bc8c0fd01358"
+                "sha256:4638a0060fe4c282436cbbac5f1c9a94d961d34a8b47bc6f820604ae69763054",
+                "sha256:8d4f3560be607f1d9c55aab3f4a4462cf06271b0707ebc1b76b379346e37829a"
             ],
             "index": "pypi",
-            "version": "==5.0.0"
+            "markers": "python_version >= '3.8' and python_version < '4.0'",
+            "version": "==5.0.1"
         },
         "sphinxcontrib-applehelp": {
             "hashes": [
