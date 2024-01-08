@@ -11,7 +11,7 @@ project = "Trampolinturnen"
 project_full = "Einführung ins Trampolinturnen"
 copyright = "2022-2024, Ingmar Splitt"
 author = "Ingmar Splitt, Jan Voigt"
-release = "0.8.11"
+release = "0.8.12"
 builder = "html latexpdf"
 
 # -- General configuration ---------------------------------------------------
@@ -20,7 +20,7 @@ builder = "html latexpdf"
 extensions = [
     "sphinxawesome_theme",
     "sphinx_sitemap",
-    "myst_parser",
+#    "myst_parser", # if used enable line below
 ]
 
 templates_path = ["_templates"]
@@ -28,7 +28,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 language = "de"
 
-myst_enable_extensions = ["colon_fence"]
+# myst_enable_extensions = ["colon_fence"]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
