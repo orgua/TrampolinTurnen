@@ -20,7 +20,7 @@ builder = "html latexpdf"
 extensions = [
     "sphinxawesome_theme",
     "sphinx_sitemap",
-#    "myst_parser", # if used enable line below
+    #    "myst_parser", # if used enable line below
 ]
 
 templates_path = ["_templates"]
