@@ -1,3 +1,4 @@
+# needed by sphinx-notes/pages@v3
 sphinx
 sphinxawesome-theme
 sphinx-sitemap

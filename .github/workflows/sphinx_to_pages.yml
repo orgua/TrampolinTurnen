@@ -21,7 +21,7 @@ jobs:
       pages: write
       id-token: write
     steps:
-
+      # TODO: it should be possible to ditch req.txt by using "pipenv install --system"
       - name: Build and Push Pages 🧱
         uses: sphinx-notes/pages@v3
         with:
