@@ -17,6 +17,11 @@ Links
 Latest Changes
 ---------------
 
+- 0.8.12
+
+  - Belehrung erweitert (endokrine störung)
+  - awesome 5.11, sphinx 7.2.6
+
 - 0.8.11
 
   - update sphinx v7 and awesometheme v5
