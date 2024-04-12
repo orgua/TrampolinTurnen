@@ -48,6 +48,7 @@ ignore = [
     "A001", # shadowing
     "ERA001", # commented-out code
     "S605", "S607", # allow os.system
+    "COM812", # conflict with formatter
 ]
 
 exclude= [  # external projects

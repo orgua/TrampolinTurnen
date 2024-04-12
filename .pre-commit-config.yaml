@@ -7,7 +7,7 @@
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.5.0
+    rev: v4.6.0
     hooks:
       - id: check-yaml
       - id: end-of-file-fixer
@@ -47,7 +47,7 @@ repos:
         args: ["--report-level=WARNING"]  # otherwise there is too much chatter
 
   - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: 'v0.1.11'
+    rev: 'v0.3.7'
     hooks:
       - id: ruff-format
       - id: ruff
