@@ -124,7 +124,7 @@ Auch während der Trainingsstunde sind einige Regeln vom Trainer und den Aktiven
 
 - der Auf- und Abbau darf **nur unter Aufsicht** erfahrener Lehrkräfte erfolgen
 - das Training beginnt mit einer Erwärmung. Verspätete Teilnehmer holen diese selbstständig nach
-- Erkrankungen der Aktiven, besonders Herz-Lungen-Kreislauf-Probleme oder Anfallsleiden, sollten dem Trainer bekannt sein (Vertrauensbasis wahren) und mit externem Fachpersonal abgeklärt sein.
+- Erkrankungen der Aktiven, besonders Herz-Lungen-Kreislauf-Probleme, endokrine Störungen (z.B. Diabetis) oder Anfallsleiden, sollten dem Trainer bekannt sein (Vertrauensbasis wahren) und mit externem Fachpersonal abgeklärt sein
 
 
 .. rubric:: Umgang mit dem Trampolin
