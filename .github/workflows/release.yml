@@ -37,10 +37,10 @@ jobs:
         run: ls -R
       - name: Display structure of downloaded files
         run: ls -R
-        working-directory: "./TrampolinTurnen"
+        working-directory: "./Trampolinturnen"
 
       - name: Release
         uses: softprops/action-gh-release@v2
         with:
-          files: TrampolinTurnen/trampolinturnen.pdf
+          files: Trampolinturnen/trampolinturnen.pdf
         if: startsWith(github.ref, 'refs/tags/')
