@@ -22,8 +22,11 @@ jobs:
       id-token: write
     steps:
       # TODO: it should be possible to ditch req.txt by using "pipenv install --system"
+      - name: debug
+        run: echo ${{ github.event_name }}
+
       - name: Build and Push Pages 🧱
         uses: sphinx-notes/pages@v3
         with:
-          publish: ${{ (github.event_name == 'workflow_call') || (github.event_name == 'release') }}
+          publish: true # ${{ (github.event_name == 'workflow_call') || (github.event_name == 'release') }}
         # determine if our event is "release" or workflow_call
