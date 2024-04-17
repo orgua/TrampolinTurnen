@@ -8,7 +8,8 @@ Nach den Grundsprüngen und Sprungverbindungen widmet sich dieses Kapitel den Sa
 
  In der Regel wird beim Trampolinturnen zunächst der Salto rückwärts (gehockt, später dann gebückt) und dann erst der Salto vorwärts gelernt. Beim vorwärts gesprungenen Salto ist eine Landung auf den Füßen aus Orientierungsgründen unsicherer. In der Regel werden Vorwärtssalti mit Schrauben-Bewegungen kombiniert um die Sicht zu verbessern.
 
-.. rubric:: Ausführungsformen ++
+Ausführungsformen ++
+---------------------
 
 Eine andere Variation der Ausführungsform betrifft das Timing. Ab einer gewissen Sprunghöhe und Koordinationsfähigkeit lässt sich die Symmetrie des Sprungs verändern. Viele Sprünge gewinnen an Qualität sobald im Absprung länger gewartet wird vor dem eigentlichen Start des Sprungs (Schraube im Schraubensalto). Am Beispiel Hocke lohnt es sich ein Gefühl dafür zu vermitteln. Die Teilnehmer können probieren die Symmetrie während des Sprungs herzustellen, d.h. am gleichen Punkt im Raum die Hocke beim Steigen anzufangen und beim Fallen zu beenden. Auch ein Austesten der Extreme kann hilfreich sein - beispielsweise im Versuch die Hocke komplett in der Steigphase oder Fallphase zu absolvieren.
 
@@ -16,7 +17,8 @@ Eine andere Variation der Ausführungsform betrifft das Timing. Ab einer gewisse
 
 .. _Klammergriff:
 
-.. rubric:: Hilfestellung - Klammergriff
+Hilfestellung - Klammergriff
+----------------------------
 
 Zur **Stabilisierung eines Saltos in der Landungen** sollte der **Klammergriff** gut beherrscht werden, da er sowohl Über- als auch Unterrotation bewältigen kann. Der Sichernde steht dazu seitlich zum Aktiven. Eine Hand des Trainers zielt vor den Bauch des Aktiven und die andere Hand stabilisiert in Richtung des oberen Rückens. Um **größere Kräfte** zu beherrschen, sollte der **Kontakt intensiviert** werden. Dabei nähert sich der Trainer und peilt an bei der Landung mit einem Arm den unteren Bauch zu umschließen und mit der Hand des anderen Arms die untere Wirbelsäule zu stützen. Der Kopf befindet sich seitlich hinter dem Aktiven, dicht am Rücken. Die eigene Schulter befindet sich etwa auf Bauchhöhe. Dies funktioniert in leichter Variation sowohl für Vorwärts- als auch Rückwärtssalti in den Stand.
 
@@ -31,7 +33,8 @@ Zur **Stabilisierung eines Saltos in der Landungen** sollte der **Klammergriff**
 Salto Rückwärts - gehockt
 --------------------------
 
-.. rubric:: Bewegungsbeschreibung
+Bewegungsbeschreibung
+~~~~~~~~~~~~~~~~~~~~~
 
 - der Absprung erfolgt aufrecht, gestreckt, mit gestellten Armen
 - der **Mittelkörper ist bzw. wird vorgespannt** (Kippen der Hüfte, siehe :ref:`TechnikSaltoRW`)
@@ -48,7 +51,8 @@ Salto Rückwärts - gehockt
 - die übrige Rotation bis zur Landung erfolgt gestreckt - für eine Nachjustierung kann nach "3 Uhr" beispielsweise abgebückt werden
 - die Landung erfolgt mit gestellten Armen
 
-.. rubric:: Methodische Übungsreihe
+Methodische Übungsreihe
+~~~~~~~~~~~~~~~~~~~~~~~
 
 - Technik der Vorspannung und dem Wechsel ins C-Plus erklären, demonstrieren
 - auf dem **Gymnastikboden** beginnend in der vorgespannten Rückenlage mit gestellten Armen - der Po kann leicht abgehoben sein.
@@ -64,7 +68,8 @@ Salto Rückwärts - gehockt
 
 - Zwei Helfer auf dem Trampolin - Die Helfer fassen den Aktiven mit einer Hand den hinteren Oberschenkel, mit der anderen an der Schulter. Der Aktive macht einen Salto; die Helfer unterstützen die Bewegung in der Luft. Wichtig für die Helfer: stehen bleiben und mit Klammergriff fangen & sichern
 
-.. rubric:: Fehler und Korrekturen
+Fehler und Korrekturen
+~~~~~~~~~~~~~~~~~~~~~~
 
 .. TODO - ausbauen
 
@@ -75,7 +80,8 @@ Salto Rückwärts - gehockt
 - Arme nicht korrekt gestellt im Absprung
 - Oberkörper im Absprung nach hinten gelehnt oder Schulter nach Hinten gezogen -
 
-.. rubric:: Ausführung
+Ausführung
+~~~~~~~~~~~~~~~~~~~~~
 
 - Beim Absprung sind die Arme gestellt (nicht überstrecken) und der Körper angespannt
 - indem die Hüfte vorgeschoben wird (mit Baucheinziehen vergleichbar), geht man ins leichte C-Minus (Gegenteil von Schiffchen, Banane), dieses wird durch den kurzen, aber schnellen Kick mit den Beinen ausgeglichen (Übergang zu einem C-Plus)
@@ -83,13 +89,15 @@ Salto Rückwärts - gehockt
 - Kopfüberstehend öffnen die Beine genau nach oben. Die Arme bewegen sich anliegend am Oberschenkel mit
 - Anschließend bewegt man sich gestreckt weiter und stellt kurz vor der Landung die Arme
 
-.. rubric:: Tipp / Oft gesehene Fehler
+Tipp / Oft gesehene Fehler
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Beim Absprung werden die Knie vorgeschoben oder die Schulter/Kopf nach hinten gerissen oder die Aktiven springen auf „3“ in Rücklage und lassen das Trampolin die Rotation einleiten
 - Beim Anhocken darf kein Oberkörpereinsatz nach vorn stattfinden (normale Hocke)
 - Öffnung erfolgt anfangs oft Richtung Tuch bzw. in die Bücke
 
-.. rubric:: Vorübung
+Vorübung
+~~~~~~~~~
 
 - Erste Phase Boden: Kick gegen eine dicke Matte bei der Erwärmung üben
 - Zweite Phase Matte: In Rückenlage aus der Überstreckung (Becken abgehoben) die Beine schnell anhocken, sodass eine Rückwärtsrolle entsteht, Arme kommen von oben, Rotation kann mit dem Kopf gestoppt werden
@@ -99,11 +107,13 @@ Salto Rückwärts - gehockt
 - Auf dem Trampolin, Schulterblätter des Aktiven halten, Arme sind gestellt, Aktiver soll auf „3“ NUR die Beckenbewegung mit Beinkick machen, danach wie ein Brett in die Waagerechte kommen, der Trainer steht im Telemarkstand dabei hinter / unter ihm -> vorsichtig anfangen
 - Für schwierige Fälle: geführter Salto an den Oberarmen. Zwei Trainer halten den Aktiven an den Oberarmen (Daumen zeigen jeweils Richtung Hand des Aktiven) und lassen ihn einen Salto springen
 
-.. rubric:: Nächste Schritte
+Nächste Schritte
+~~~~~~~~~~~~~~~~~~~~~
 
 - Pflichtübungen zum Verbinden des Saltos, Salto in Sitz, B-Salto
 
-.. rubric:: Hilfestellung
+Hilfestellung
+~~~~~~~~~~~~~~~~~~~~~
 
 - Klammergriff am Mittelkörper mit Vordrehen der Arme entgegen der Rotationsrichtung. Erlaubt gerade bei Kinder eine Bewegungsführung von Absprung bis Landung
 - zum ersten Kennenlernen der Saltobewegung eignet sich eine Positionierung der Hände an Schulter und unterem Rücken
@@ -135,7 +145,8 @@ Salto vorwärts
 
 .. TODO: die meiste technik ins neue kapitel schieben
 
-.. rubric:: Ausführung (C gehockt, B gebückt)
+Ausführung (C gehockt, B gebückt)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Absprung - aufrecht, gerade und mit stehenden Armen
 - Blick normalerweise auf Mattenkante, wenn der Aktive dazu neigt nach vorne zu springen, dann auf die neutrale Kopfhaltung achten - notfalls mit Blick nach schräg-oben an die Decke experimentieren
@@ -145,7 +156,8 @@ Salto vorwärts
 - Öffnung so früh wie möglich (zwischen 12 bis 3 Uhr) und körperlich nach unten, nicht Richtung Trampolin. Anschließend gestreckt bis zur Landung
 - Der A-Salto kann im letzten Viertel wenn nötig etwas abgebückt werden um zu korrigieren
 
-.. rubric:: Vorübung
+Vorübung
+~~~~~~~~~
 
 - Sprungrolle auf Trampolin & Sicherungsmatte mit Sprung über „Zauberschnur“ direkt vor seinem Kopf -> TN soll lange steigen und Blick halten
 - Bauchsprung aus dem Wippen mit überkorrektem geradem Absprung und leichtem Ziehen der Beine
@@ -153,7 +165,8 @@ Salto vorwärts
 - Sprungrolle mit Minitramp über Erhöhung bzw. auf Mattenberg
 - Beineinsatz auf Kasten in Bauchlage mit impulsivem Abbremsen der Beine im leichten C-Minus
 
-.. rubric:: Tipp / oft gesehen Fehler
+Tipp / oft gesehen Fehler
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Fehler: Ganzer Körper vorgelehnt, da letzter Sprung nach hinten geht -> Sprung bewegt sich nach vorn
 - Fehler: Oberkörper oder Kopf knickt ab und sorgt für einen Sprung nach vorn.
@@ -161,12 +174,14 @@ Salto vorwärts
 - Fehler: Öffnung ins Hohlkreuz bzw. Füße Richtung Trampolin
 - Oberkörper wird zu stark zu den Beinen gebracht ohne vorher einen Beineinsatz auszuführen
 
-.. rubric:: Nächste Schritte
+Nächste Schritte
+~~~~~~~~~~~~~~~~~~~~~
 
 - Öffnungsphase mit betont zeitigem Öffnen
 - Barani möglich, sobald Salto sicher und Öffnung vor 3 Uhr möglich
 
-.. rubric:: Hilfestellungen
+Hilfestellungen
+~~~~~~~~~~~~~~~~~~~~~
 
 .. TODO: neu vom WE
 

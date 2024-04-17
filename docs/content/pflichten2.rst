@@ -1,7 +1,8 @@
 Fahrlässigkeit und Haftung
 ---------------------------
 
-.. rubric:: Grade der Fahrlässigkeit
+Grade der Fahrlässigkeit
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 unbewusst fahrlässig:
     ÜL weiß infolge Sorgfaltspflichtsverletzung nicht, dass er durch seine Handlung oder Anweisung die Kinder gefährdet
@@ -15,7 +16,8 @@ vorsätzlich
 Haftung bei Verletzung der Aufsichtspflicht
     zivilrechtlich und strafrechtlich
 
-.. rubric:: Haftung nach Altersstufen
+Haftung nach Altersstufen
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Kind
     bis zum vollendeten 14. Lebensjahr
