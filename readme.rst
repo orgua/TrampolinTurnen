@@ -17,10 +17,11 @@ Links
 Latest Changes
 ---------------
 
-- 0.8.12
+- 0.8.13
 
   - Belehrung erweitert (endokrine störung)
   - awesome 5.11, sphinx 7.2.6
+  - fix automatic release of pdf
 
 - 0.8.11
 
