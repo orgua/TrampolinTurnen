@@ -170,12 +170,12 @@ Zu den Hilfsmitteln beim Trampolinturnen zählt auch die aktive Arbeit des Train
 Fehlgeschlagene „Versuche“ können durch spezielle Techniken und entsprechendes Reagieren des Trainers korrigiert und zu einem „glücklichen“ Ende geführt werden. Diese Techniken (z.B. das Fangen, Unterstützung bei Salto- und Schraubenrotationen u.a.) können nur schwer mit Worten beschrieben werden und sind größtenteils Erfahrungswerte, die ein umfassendes Training erfordern. Empfehlenswert ist hierbei insbesondere für diesen Bereich **erfahrene Trainer** beim Training zu **beobachten** und vor allem die Hilfestellung intensiv an eigenen sprungsicheren Sportlern zu üben. Auch hier sollte, um das Prinzip der graduellen Annäherung einzuhalten, mit einfachen Sprüngen begonnen werden.
 
 Üben der Grundlagen
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^
 
 Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu behindern. Dies zeigt sich durch Abstoppen oder „hochschießen“ der Person. Höhere Sprünge erfordern ein vorheriges Mitspringen. Im Absprung selbst, auf "drei", muss der Trainer auf jeden Fall sicher im Tuch stehen bleiben. Dazu ein paar Übungsformen:
 
 Den Einfluss kontrollieren
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""
 
 - zwei Personen stehen jeweils in ihrer Hälfte des Trampolins
 - Tipp: für den Anfang eignet sich ein etwa gleich schwerer Partner
@@ -190,7 +190,7 @@ Den Einfluss kontrollieren
 - Variation: 3x leicht Höhe mitgeben, 1x stark Höhe nehmen
 
 Den Störeinfluss minimieren
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""
 
 - nun ist neutrales Mitspringen (gleichzeitige Landung) bzw. leichtes Mitgeben von Höhe gefordert
 - zwei Personen stehen sich gegenüber, fassen sich an den Händen und versuchen Strecksprünge gleichzeitig auf dem Trampolin auszuführen.
@@ -199,7 +199,7 @@ Den Störeinfluss minimieren
 - auf Kommando - in der Regel „und, eins, zwei, drei“ - führt der vorne Stehende einen einfachen Sprung aus, z.B. eine Hocke; der Helfende bleibt dabei mit beiden Füßen fest auf dem Trampolin stehen und verfolgt die Bewegung mit den Armen. Anschließend bei der Landung nicht vergessen einen Teil der Energie aufzunehmen!
 
 Die Technik perfektionieren
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""
 
 - sobald diese oben genannten Techniken mit einer Person verlässlich funktionieren, kann und sollte mit anderen Gewichtsklassen experimentiert werden
 - neutrales Mitspringen ist essentiell damit sich der aktive Springer auf den durchzuführenden Sprung konzentrieren kann
@@ -219,7 +219,7 @@ Weitere hilfreiche Hilfestellungen werden passend zu den jeweiligen Sprüngen im
 - Einsatz der Longe
 
 Umgang mit Hilfestellungen
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Nach der aktiven Hilfe auf dem Gerät erfolgt in der Regel ein stufenweiser Abbau der Hilfestellung nach eigenem Ermessen, natürlich in Absprache mit dem Aktiven. Ein bewährtes Indiz sind fünf sichere aufeinanderfolgende Sprungwiederholungen. Bitte nicht scheuen einen Schritt zurück zu gehen bei Verschlechterungen. Ein stufenweiser **Abbau der Hilfestellung** kann wie folgt aussehen:
 
