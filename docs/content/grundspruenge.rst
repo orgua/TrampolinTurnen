@@ -10,8 +10,7 @@ Falls der Sport vom Aktiven länger betrieben werden will, ist es wichtig von Be
 .. note::
     Um einen Bewegungsablauf gezielt zu reproduzieren, benötigt man bei neu Erlerntem ca. 7 Wiederholungen der korrekten Bewegung. Im Gegensatz dazu werden ca. 35 Wiederholungen benötigt, um einen Bewegungsablauf umzulernen. Bei diesen Kennzahlen handelt es sich um gemittelte Erfahrungswerte, die individuell stark abweichen können.
 
-Ausführungsformen
-------------------
+.. rubric:: Ausführungsformen
 
 Zur Abmilderung der Anforderung während des Erlernens lassen sich Sprünge hinsichtlich der Komplexität und Qualität methodisch abstufen nach grober Ausführung, fein- und Feinstform. Die **grobe Ausführung** deutet Bewegungen mindestens (erkennbar) an und lässt die Arme unbeachtet. Diese können entweder gestellt oder am Körper angelegt bleiben. Am Beispiel des Hocksprungs werden demnach nur die Beine leicht angehockt und der Oberkörper zum Ausgleich vorgelagert. Bei der **Feinform** gibt es einen vereinfachten Armeinsatz. Ausgehend von den gestellten oder angelegten Armen tippen die Hände im Beispiel der Hocke kurz die Knie an und gehen danach zurück in ihre Ausgangsposition. Die **Feinstform** hat vollen Arm- und Körpereinsatz und erfordert eine gewisse Sprunghöhe, Geschwindigkeit und Übung. Ziel sollte immer die Feinstform sein.
 
@@ -25,8 +24,7 @@ Strecksprung mit Armeinsatz
 
 Die Arme unterstützen alle Bewegungen auf dem Trampolin und sorgen mit kleinen Korrekturen für das Gleichgewicht. Sie ermöglichen insbesondere bei komplizierteren Bewegungen einen betont nach oben gerichteten Absprung und richten den Oberkörper auf. Aus diesem Grund sollte der Armeinsatz, bzw. der Strecksprung, ausgiebig geübt und immer wieder verbessert und korrigiert werden - und das nicht nur in den ersten Trainingsstunden. Besonders in der Anfangszeit sollte den Aktiven verdeutlicht werden, dass die Sprunghöhe hauptsächlich durch Abdruck der Fußballen vom Tuch und zusätzlich durch den Armschwung zustande kommt.
 
-Bewegungsbeschreibung
-~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Bewegungsbeschreibung
 
 - aufrecht stehend im Tuch - Ausgangslage sind am Körper angelegte Arme, Hände seitlich vorne auf dem Oberschenkel ruhend
 - die Arme werden über die Vorderseite gestreckt nach oben neben den Kopf geführt - eine kraftvolle beschleunigende Bewegung bis ca 10° vor der Vertikalen. Danach langsames Aufziehen bis zur Hochhalte.
@@ -42,8 +40,7 @@ Bewegungsbeschreibung
 .. caution::
     Die Arme sollten sich besonders beim Herunterführen weiterhin im Sichtfeld befinden - zum einen um eine Rücklage zu verhindern und zum anderen, da sich Arme im Falle eines Sturzes nicht hinter dem Aktiven befinden sollten
 
-Fehler und Korrekturen
-~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Fehler und Korrekturen
 
 - Landung mit Rücklage: Armschwung nach oben zu weit? Spannungsverlust im Absprung? Beides kann sich durch ein Hohlkreuz zeigen. -> Armzug besser dosieren, alternativ Arme über Seite ziehen, bzw. Sprunghöhe reduzieren
 - Wandern und Armrudern: Trockenübung Armeinsatz, bzw. Höhe reduzieren
@@ -57,8 +54,7 @@ Grundsätzlich gilt beim Trampolinturnen, dass sich die Arme vor einem Aktionssp
 
 .. TODO: Arme nicht nur neben dem Kopf, sondern Schultergürtel aktivieren und "ohren einklemmen"
 
-Methodische Übungsreihe
-~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Methodische Übungsreihe
 
 - **Demonstration** als Trockenübung, zusätzlich langsam um den eigentlichen Bewegungsablauf deutlich zu machen
 - Sprünge (auf Kommando) auf einer Turnmatte. Die Sprünge erfolgen aus einer leichten Hock-Position heraus.
@@ -106,16 +102,14 @@ Bei allen Landungen auf den Füßen können die Beine im Tuch etwa schulterweit 
 .. TODO: hocke und grätsche sind rückwärts dargestellt?!?
 .. TODO: grätsche und bücke auch einzeln komplett auflisten
 
-Bewegungsbeschreibung
-~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Bewegungsbeschreibung
 
 - Bei der **Hocke** werden die Beine gehockt nach vorne zum Oberkörper geführt. Die Hände fassen dabei die Knie knapp unterhalb der Kniescheibe an. Der Oberkörper ist leicht nach vorne gebeugt.
 - Bei der **Bücke** werden die Beine gestreckt nach oben in die Waagerechte geführt. Die Hände fassen hierbei von oben auf den Fußspann. Alternativ kann der Fuß oder Knöchel gegriffen werden. Der Oberkörper befindet sich möglichst nahe an den Oberschenkeln. Gefordert ist ein Winkel von deutlich weniger als 90 Grad zwischen Oberkörper und Oberschenkel.
 - Die **Grätsche** verläuft wie die Bücke. Bloß werden hierbei die gestreckten Beine in der Luft mindestens 90 Grad weit gespreizt.
 - Die Landung erfolgt jeweils mit gestellten Armen.
 
-Hocksprung
-~~~~~~~~~~~
+.. rubric:: Hocksprung
 
 - Absprung, Arme starten in gestellter Haltung
 - **In der Steigphase wird die Hocke eingeleitet**, Beine sind bereits geschlossen, Knie bleiben parallel zueinander
@@ -126,8 +120,7 @@ Hocksprung
 - nach der Öffnung liegen die Arme eng am Körper, Hände leicht seitlich auf dem Oberschenkel
 - kurz vor dem Tuchkontakt bewegen sich die Arme wieder in die gestellte Haltung
 
-Fehler und Korrekturen
-~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Fehler und Korrekturen
 
 - Anfersen statt Anhocken (Hocke): Knie bewegen sich zum Bauch (und andersrum)
 - Beine / Knie auseinander (Hocke, Bücke): Schaumstoff oder Tuch zwischen die Knie, bzw Umfassen der Unterschenkel üben
@@ -163,15 +156,14 @@ Beim Trampolinturnen sollte prinzipiell **eine Drehrichtung** vom Aktiven **eing
     Halbe Schraube in Phasendarstellung
 
 Fußsprungschraube aus dem Tuch
--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Bei den Sprüngen des Anfängerbereichs handelt es sich meist um **im Tuch eingeleitete Schraubenbewegungen**.
 
 Übung: Standsprungschraube mit zur Seite gehaltenen Armen springen, in der Luft die Arme an den Körper heranziehen: die Schraube wird schneller
 - erst auf genügendes Steigen aus dem Tuch achten; eventuelle Saltorotationen werden ebenfalls noch vor der Schraubenbewegung eingeleitet
 
-Bewegungsbeschreibung
-~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Bewegungsbeschreibung
 
 - beim Absprung zum Strecksprung erfolgt eine Einleitung der Schraube mit den Füßen durch seitlichen Abdruck vom Tuch
 - eingeleitete Schrauben müssen so dosiert sein, dass im höchsten Punkt des Sprungs die Hälfte der gewünschten Schraubenmenge erreicht ist, somit muss die Schraube für jede Sprunghöhe anders dosiert, bzw. neu gelernt, werden
@@ -179,8 +171,7 @@ Bewegungsbeschreibung
 - Arme nahe der Rotationsachse, im Bestfall die Körpermitte, beschleunigen die Schraubendrehung
 - Vorsicht! Je mehr Schraubenimpuls beim Absprung mitgegeben wird, desto mehr ist davon bei der Landung im Tuch noch vorhanden; Der Aktive sollte Spannung halten und die Beine zusammendrücken, damit sich die Knie nicht verdrehen.
 
-Methodische Übungsreihe
-~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Methodische Übungsreihe
 
 - Sprung mit seitlich ausgestreckten Armen (T-Form), halbe Schrauben vor und zurück
 - sobald das stabil funktioniert, nach einer viertel Schraube die Arme impulsiv an die Brust nehmen und damit die Schraube beschleunigen, zum Verlangsamen btw. beim Abstoppen die Arme wieder ausstrecken
@@ -188,10 +179,9 @@ Methodische Übungsreihe
 - Übung mit gestellten Armen wiederholen - die Schraube ist bei gleichem Krafteinsatz direkt schneller und kann nur verlangsamt werden
 
 Fußsprungschraube mit Schultereinsatz
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Bewegungsbeschreibung
-~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Bewegungsbeschreibung
 
 - Absprung zum Strecksprung
 - eine Schulter-Seite wird entsprechend der Drehrichtung schnellkräftig nach hinten ausgehoben, die andere Schulter kann nach vorne bewegt und impulsiv abgebremst werden
@@ -202,8 +192,7 @@ Bewegungsbeschreibung
   - der Arm in Schraubenrichtung unterstützt das Ausheben der Schulter durch ein Nach-oben-strecken und wird anschließend nach hinten herunterführt - Ziel ist das Gesäß - allerdings bleibt der Arm relativ durch die Schraube seitlich vom Springer
   - der andere Arm wird über die Vorderseite heruntergeführt - Ziel ist der diagonale Hüftknochen
 
-Fehler und Korrekturen
-~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Fehler und Korrekturen
 
 - unbewusstes Abdrücken der Hände in der Luft: stattdessen beide Arme in Drehrichtung mitnehmen
 - Beine nicht geschlossen: darauf Aufmerksam machen, bzw. Schaumstoffblock zwischen die Füße klemmen
@@ -224,8 +213,7 @@ Die erste wichtige Landungsform nach den Fußsprüngen ist der Sitz. Der Name wi
     Stand-Sitz-Stand in Phasendarstellung
 
 
-Bewegungsbeschreibung
-~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Bewegungsbeschreibung
 
 - Ziel: Stand - Sitzlandung - Aufstehen in den Stand
 - im Absprung den Körper über ein Kippen der **Hüfte spannen** und diese Spannung explosiv auflösen durch einen Kick mit den Beinen (siehe Rückensprung), so dass eine leichte Rücklage des gestreckten Körpers im höchsten Punkt erreicht wird, Beine sind geschlossen
@@ -240,16 +228,14 @@ Bewegungsbeschreibung
   - Arme getreckt und schwungvoll über Vorderseite hochführen
   - die Hüfte nach vorne oben schieben (Öffnung des Hüftwinkels)
 
-Methodische Übungsreihe
-~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Methodische Übungsreihe
 
 - Demonstration; besonders die Landeposition verdeutlichen
 - Sitzposition statisch auf dem Tuch einnehmen
 - im Stand aus dem Wippen heraus den Körper vorspannen und Beine nach vorne schieben um im Sitz zu landen
 - Sprunghöhe immer weiter steigern
 
-Fehler und Korrekturen
-~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Fehler und Korrekturen
 
 - Rotation wird durch die Schulter eingeleitet inklusive Bewegung nach hinten: Hinweis auf Vorspannung im Mittelkörper & deutlich machen, dass Po auf dem Kreuz landen soll
 - Po führt die Bewegung an, gefolgt von einem Sprung nach hinten -> auf Strecksprung mit Vorspannung hinweisen
@@ -262,8 +248,7 @@ Fehler und Korrekturen
 - Umkippen im Sitz bzw die Hände stützen den Oberkörper in der Landung nicht ab (staucht den Rücken) -> Armbewegung trocken üben
 - Arme werden nicht hochgeführt beim Aufstehen (Aktive kommen in Vorlage zum Stehen) -> Unterschied vorzeigen bzw. darauf hinweisen
 
-Hilfestellung
-~~~~~~~~~~~~~~
+.. rubric:: Hilfestellung
 
 - seitlich leicht vor dem Aktiven stehen während des Anspringens, so lässt das Gesicht im Blick behalten
 - eine Hand befindet sich nahe der Wirbelsäule auf Höhe der Schulterblätter um ein Überdrehen zu verhindern
@@ -285,8 +270,7 @@ Der Rückensprung kostet die Aktiven beim Erlenen häufig Überwindung, da das r
 
 .. _TechnikSaltoRW:
 
-Hinweise zur Rückwärtsrotation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Hinweise zur Rückwärtsrotation
 
 Stärker als der Sitzsprung fordert die Ausführung des Rückensprungs bereits die technischen Abläufe, die auch zum Turnen eines Salto rückwärts benötigt werden. Immerhin muss eine 1/4 Saltorotation erfolgen, damit man den Rückensprung durchführen kann.
 
@@ -301,8 +285,7 @@ Der Aktive stellt sich 1cm vor eine relativ hohe und schwere Matte (sie sollte s
 
 .. TODO gehört zur methodik
 
-Bewegungsbeschreibung
-~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Bewegungsbeschreibung
 
 - Ziel: Stand - Rückenlandung - Aufstehen in den Stand
 - im Absprung den **Körper spannen und gemäßigten Kick ausführen** (siehe oben), sodass der gestreckte Körper sich während des Sprungs bis annähernd in die Waagerechte bewegt
@@ -320,8 +303,7 @@ Bewegungsbeschreibung
   - bei richtiger Ausführung gelingt eine Landung auf der Stelle (zurück aufs Kreuz)
 
 
-Methodische Übungsreihe
-~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Methodische Übungsreihe
 
 .. TODO: mattenkick wird verschoben
 
@@ -344,8 +326,7 @@ Methodische Übungsreihe
 - zum Verinnerlichen und Verbessern der Aufstehbewegung kann gefordert werden **zwei Rückenlandungen in Folge** durchzuführen und erst danach aufzustehen (besonders Fehler der Beine werden offensichtlich)
 - **Maikäfer** - aus Ruheposition in Rückenlage selbstständig Höhe gewinnen, Hüftwinkel variiert in verschiedenen Höhen um im Rücken zu bleiben, Arme halten Gleichgewicht
 
-Fehler und Korrekturen
-~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Fehler und Korrekturen
 
 - **Wichtig**: die Teilnehmer sollten niemals zum Selbstschutz die Arme hinter ihren Körper  bringen um sich abzufangen - stattdessen sollen sie sich klein machen (Päckchen) und durch die Schiebematte gebremst werden
 - Zum Rückensprung deutliches Wandern nach hinten - der Absprung erfolgt nach hinten gelehnt / gebeugt bzw. dynamisch nach hinten gezogener Schulter
@@ -372,8 +353,7 @@ Fehler und Korrekturen
 - der Kopf wird auf die Brust genommen und fällt bei der Landung nach hinten -> Kopf lieber ablegen oder Stempel-Übung mit Schaumstoff am Kinn eingeklemmt durchführen
 - Stehaufmännchen bzw. Vornüberfallen beim Aufstehen: die Beine werden in der Landung als Hebel zum Aufstehen benutzt bzw. sind nach der Rückenlandung zu flach oder abgesunken
 
-Hilfestellung
-~~~~~~~~~~~~~~
+.. rubric:: Hilfestellung
 
 - Stempelgriff-Hilfestellung: Trainer steht seitlich vor dem Teilnehmer, greift nach dem Absprung die Knöchel und stabilisiert den Teilnehmer in der Rückenlandung
 - nur Korrektur in der Luft: im Tuch oder Reinlaufen vom Rahmen - eine Hand fasst unter den Oberkörper des Aktiven, die andere unter die Oberschenkel; in der Luft kann der Aktive genau in der Waagerechten ausgerichtet werden
@@ -388,8 +368,7 @@ Dieser Sprung kann als **Vorstufe zu vorwärts** abgesprungenen **Salti** gesehe
 ein gründliches Erlernen der Bauchlandung im Hinblick auf die weitere Entwicklung des Aktiven immer lohnt
 und angebracht ist.
 
-Bewegungsbeschreibung
-~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Bewegungsbeschreibung
 
 - Ziel: Stand - Bauchlandung - Aufstehen zum Stand
 - Absprung mit Blick auf vordere Matten- oder Trampolinkante, Kopf neutral
@@ -410,8 +389,7 @@ Bewegungsbeschreibung
 - die Arme werden beim Aufstehen gestreckt an den Körper gelegt und erst kurz vor der Landung in die Hochhalte geführt
 - Der Bauchnabel ist (wie beim Rückensprung) ein guter Fixpunkt - er sollte dort auf dem Tuch landen wo vorher die Füße standen - auf dem Kreuz
 
-Methodische Übungsreihe
-~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Methodische Übungsreihe
 
 - umgedrehter Mattenkick (siehe :ref:`Salto-Technik<TechnikSaltoRW>`), achtet auf eine extra Matte vor euch
 - **Demonstration der Landeposition**; insbesondere der Arme und Beine
@@ -424,8 +402,7 @@ Methodische Übungsreihe
 - mit der Schiebematte auf der Gerätemitte leicht wippend den Bauchsprung ausführen
 - **Bauchsprung aus dem Stand mit Hilfestellung**, mitunter Schiebematte vom Rand aus schieben
 
-Fehler und Korrekturen
-~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Fehler und Korrekturen
 
 - der Oberkörper wird im Absprung oder schon im Tuch nach vorne gekippt bzw. der gesamte Körper ist vorgelehnt: erzeugt Vorwärtsbewegung; Auf aufrechten Absprung mit gestellten Armen achten („an Strecksprung denken“), außerdem auf Fußtechnik bestehen
 - zur Kompensation einer Vorwärtsbewegung durch falsche Technik wird zusätzlich der Po rausgestreckt
@@ -437,7 +414,6 @@ Fehler und Korrekturen
 
 .. TODO: Punkt "zu wenig Spannung" wirkt falsch
 
-Hilfestellung
-~~~~~~~~~~~~~~
+.. rubric:: Hilfestellung
 
 Wie bei der Rückenlandung auch, kann durch ein Ausrichten des Körpers in der Luft die Landeposition korrigiert werden. Der Trainer steht dazu schräg hinter dem Aktiven und greift nach dem Absprung die Knöchel bzw. Fersen. Das ermöglicht neben der Ausrichtung in die Waagerechte zusätzlich das Stoppen einer Vorwärtsbewegung. Sowohl zu wenig, als auch zu viel Rotation müssen vom Trainer direkt nach dem Absprung erkannt und korrigiert werden. Nach der Korrektur, bzw kurz vor der Tuchberührung wird der Kontakt gelöst, sonst droht Verletzungsgefahr für den Trainer. Diese Technik funktioniert auch mit Reinlaufen vom Rand.

@@ -77,8 +77,7 @@ Koffer-Packen
 
 **Materialien**: keine
 
-Spielbeschreibung
-""""""""""""""""""
+.. rubric:: Spielbeschreibung
 
 - ebenfalls bekannt als Anbauen, Anhängen, Sechs-Tage-Rennen
 - ein Turner macht ein Übungsteil vor, der Nächste wiederholt dieses und hängt einen eigenen Sprung dahinter usw.; dies übt vor allem die Verbindung von Sprüngen
@@ -99,8 +98,7 @@ Sitz-Jonglage
 
 **Materialien**: keine
 
-Spielbeschreibung
-""""""""""""""""""
+.. rubric:: Spielbeschreibung
 
 - die Gruppe wird aufgeteilt auf die Stirnseiten, die Seite mit mehr Teilnehmern beginnt
 - Jonglage ist Programm - das Trampolin wird hierfür in 4 Quadranten geteilt.
@@ -114,8 +112,7 @@ Domino
 
 **Materialien**: keine
 
-Spielbeschreibung
-""""""""""""""""""
+.. rubric:: Spielbeschreibung
 
 - die Teilnehmer starten verteilt vom Rand
 - reih-um erfolgt Sprungfolge, etwa Sitz-Stand oder Rücken-Stand
@@ -131,8 +128,7 @@ Fangen um die Matte
 
 **Materialien**: 1 Turnmatte
 
-Spielbeschreibung
-""""""""""""""""""
+.. rubric:: Spielbeschreibung
 
 - 2 Teilnehmer halten eine Turnmatte senkrecht in der Mitte des Trampolins (auf der Längs-Linie)
 - auf jede Seite der Matte stellt sich ein weiterer Teilnehmer auf, beide gucken in entgegengesetzte Richtungen
@@ -151,8 +147,7 @@ Pferderennen
 
 **Materialien**: keine
 
-Spielbeschreibung
-""""""""""""""""""""""""
+.. rubric:: Spielbeschreibung
 
 - 1 Teilnehmer oder der Trainer stellen sich neben dem Trampolin auf den Boden = „Vorreiter“
 - Alle anderen Teilnehmer stellen sich nebeneinander mit Blick zur untenstehenden Person auf das Trampolin
@@ -172,8 +167,7 @@ Fallschirmspringen
 
 **Materialien**: Fallschirm oder Schwungtuch
 
-Spielbeschreibung
-""""""""""""""""""
+.. rubric:: Spielbeschreibung
 
 - Der Fallschirm wird über das Trampolin gelegt
 - Ein Teilnehmer stellt sich auf das Trampolin und hüpft auf dem Fallschirm

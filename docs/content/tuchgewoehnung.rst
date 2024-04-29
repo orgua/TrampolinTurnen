@@ -30,8 +30,7 @@ Erste Tuchfühlung
 
 Folgende Übungsfolge eignet sich zur ersten Gewöhnung an das Trampolin. Als Orientierung für einen **Parkour** können die roten Linien auf dem Tuch dienen. Das **äußere rote Rechteck** kann als Laufstrecke dienen. Diese Strecke kann beispielsweise jeweils pro Übung zuerst mit Rotation in den Ecken und anschließend **mit fester Blickrichtung geradeaus** abgearbeitet werden.
 
-Methodische Übungsreihe
-~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Methodische Übungsreihe
 
 - Gehen über das Trampolin; vorwärts, seitwärts, rückwärts
 - **schwebendes Gehen** („auf dem Mond...“) mit betonter „Flugphase“ Aufsetzen des ganzen Fußes
@@ -48,8 +47,7 @@ Abstoppen
 
 Wie bereits erwähnt, sollte dem methodischen Erlernen des Abstoppens aus Sicherheitsgründen bewusst viel Zeit gewidmet werden. In der Erwärmung können bereits **Kniebeuge** als Bewegungsanalogie durchgeführt werden - siehe nachfolgende Bewegungsbeschreibung. Die anschließend beschriebenen Übungen eignen sich im direkten Anschluss an die erste Tuchgewöhnung.
 
-Bewegungsbeschreibung
-~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Bewegungsbeschreibung
 
 - die Bewegung gleicht einer Kniebeuge
 - der Körper behält den Schwerpunkt über der Standposition, während die Knie gebeugt werden
@@ -57,8 +55,7 @@ Bewegungsbeschreibung
 - die Beinmuskeln nehmen die meiste Energie auf
 - wichtig für spätere Wettkämpfe: Abstoppen aus Arbeitshöhe ohne nochmal mit den Füßen abzuheben
 
-Methodische Übungsreihe
-~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Methodische Übungsreihe
 
 - **Kniehebelauf** in Vorwärtsbewegung; nur die Beine bewegen sich, der Oberkörper sollte statisch auf einer Höhe bleiben
 - Variation A: Reiten auf einem Esel, Pferd oder ähnlichem; angedeutete leichte Hock-Steck-Sprünge
@@ -77,8 +74,7 @@ Dosiertes Springen
 
 Die nun folgenden Übungen erarbeiten das dosierte Wippen auf dem Trampolin. Das heißt, der Krafteinsatz wird ganz genau den jeweils gestellten Anforderungen angepasst. Diese Übungsformen sind besonders zum Springen im Strom geeignet.
 
-Methodische Übungsreihe
-~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Methodische Übungsreihe
 
 - Überqueren des Geräts von Stirnseite zu Stirnseite mit einer vorgegeben Anzahl von Sprüngen, die Arme bleiben jeweils angelegt am Körper
 - Variation: möglichst niedrig springen
@@ -94,8 +90,7 @@ Gleichgewichtsübungen
 
 Der Gleichgewichtssinn ist eine der wichtigen Eigenschaften, die ein Trampolinturner besitzen muss. Dies kann mit einigen Übungen am Anfang geübt werden.
 
-Methodische Übungsreihe
-~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Methodische Übungsreihe
 
 - vor- und zurückspringen
 - Variation: über eine Zauberschnur springen

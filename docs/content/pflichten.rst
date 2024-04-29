@@ -40,8 +40,7 @@ zu (2)
 Im Verein sind Vertragspartner der Verein und die Erziehungsberechtigten. Die Verantwortung wird dann vom Verein auf die Trainer, Übungsleiter und teilweise auf die Gruppenhelfer übertragen, wenn er sicher ist, dass diese ausreichend ausgebildet wurden.
 Wenn der Verein die sorgfältige Auswahl der Trainer, Übungsleiter und Gruppenhelfer bei Verletzungen der Aufsichtspflicht nachweisen kann, wird der Trainer, Übungsleiter und Gruppenhelfer zur Haftung herangezogen.
 
-Aufsichtspflicht im Detail
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Aufsichtspflicht im Detail
 
 - Das Maß der gebotenen Aufsichtspflicht bestimmt sich nach Alter, Eigenart und Charakter des Kindes sowie nach der Voraussehbarkeit schädigenden Verhaltens.
 - Ein Aufsichtspflichtiger hat sich daher auch darum zu kümmern, womit sich die Kinder in der Freizeit beschäftigen. Danach bestimmen sich das Maß der Überwachungs- und Belehrungspflichten und die Notwendigkeit von Kontrollen.
@@ -52,8 +51,7 @@ Aufsichtspflicht im Detail
 - Im Allgemeinen unterliegt der Weg zum Training nicht der Aufsichtspflicht. Das ist Sache der Eltern. Aber man sollte darauf hinweisen, dass die Kinder nicht zu früh zum Training oder anderen Veranstaltungen kommen und sich auch direkt auf den Heimweg begeben.
 - Aufsicht bei besonderen Veranstaltungen (z.B. Ferienlager): Aufsicht über die gesamte Dauer, Tag und Nacht, besonders im Straßenverkehr (links laufen), Baden, Natur- und Umweltschutz, Briefgeheimnis, Sexualität
 
-Besonderheiten bei Gruppen
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Besonderheiten bei Gruppen
 
 -	Persönlichkeit der Kinder: Alter, Entwicklung, Auffälligkeiten
 -	Gruppenverhalten: Größe, Zeit des Bestehens, gruppendynamische Gesetzmäßigkeiten
@@ -63,8 +61,7 @@ Besonderheiten bei Gruppen
 -	Verhältnis zwischen ÜLs und den Kindern/ Jugendlichen
 -	Gruppenziel/ -auftrag
 
-Besonderheiten beim Trampolinturnen
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Besonderheiten beim Trampolinturnen
 
 - der Überblick über die Gruppe sollte jederzeit gewahrt werden - in der Regel benötigt man eine zweite Aufsichtsperson, beispielsweise Eltern, während man Übungen anleitet
 - Für den Fall, dass man die Gruppe kurz verlassen muss,

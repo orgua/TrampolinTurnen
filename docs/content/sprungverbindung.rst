@@ -19,8 +19,7 @@ Dieser Klassiker ist vermutlich die am unkompliziertesten zu erlernende Verbindu
 
     Halbe Schraube in den Sitz & halbe Stand in Phasendarstellung
 
-Bewegungsbeschreibung
-~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Bewegungsbeschreibung
 
 - zum Aufstehen im Sitz drücken sich die Hände vom Tuch ab
 - nach der Sitzlandung werden die Arme über die Vorderseite nach oben geführt und die Hüfte getreckt, allerdings:
@@ -30,15 +29,13 @@ Bewegungsbeschreibung
 - die im :ref:`Abschnitt zu Schrauben <Schrauben>` erwähnte **Hula-Hoop-Bewegung** für leichteres Schrauben lässt sich hier anwenden indem die Hüfte beim Öffnen leicht in Schraubenrichtung gekippt wird
 - der Körper bleibt mit gestellten Armen gestreckt bis die halbe Schraube vollendet und die Landung erfolgt
 
-Methodische Übungsreihe
-~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Methodische Übungsreihe
 
 - die Armbewegung (inklusive Schraube) am Boden demonstrieren und nachahmen lassen
 - Demonstration des Sprungs
 - Sprung durchführen - erwähnen, dass eine saubere Ausführung wichtiger ist als eine vollendete (halbe) Schraube
 
-Fehler und Korrekturen
-~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Fehler und Korrekturen
 
 - der Hüftwinkel wird nicht oder zu wenig geöffnet; Folge: die Schraube hat zu wenig Rotation oder der Aktive wandert zur Seite
 - anstatt die Arme mitzunehmen in Richtung der Drehbewegung, wird versucht sich in der Luft abzudrücken (entgegen der Drehrichtung) und die Schraube bleibt schwach
@@ -47,8 +44,7 @@ Fehler und Korrekturen
 Stand - ½ Schraube zum Sitz
 ----------------------------
 
-Bewegungsbeschreibung
-~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Bewegungsbeschreibung
 
 - im Absprung Beine (gestreckt) nach **hinten** schieben (analog zum Bauchsprung, aber schwächer), so dass eine leichte Vorlage des gestreckten Körpers im höchsten Punkt erreicht wird
 - mit der Schulter eine Drehung in die gewünschte Richtung einleiten
@@ -57,8 +53,7 @@ Bewegungsbeschreibung
 - kurz vor Tuchkontakt die Sitzposition einnehmen
 - siehe Phasendarstellung beim vorherigen Sprung
 
-Methodische Übungsreihe
-~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Methodische Übungsreihe
 
 - Demonstration des Trainers
 - im Stand das Bein auf der Seite der gewünschten Drehrichtung getreckt nach hinten stellen: das andere Bein als Standbein unter dem Körper leicht beugen; Oberkörper vorbeugen, die Arme befinden sich gestreckt neben den Ohren (der Körper ist nun komplett gestreckt); drehen und sich in den Sitz fallen lassen
@@ -66,16 +61,14 @@ Methodische Übungsreihe
 - aus dem Wippen Beine nach hinten schieben, drehen und im Sitz landen
 - Sprunghöhe weiter steigern
 
-Fehler und Korrekturen
-~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Fehler und Korrekturen
 
 - Beine werden nicht genug oder zu sehr nach hinten geschoben
 - die Schraube wird zu früh eingeleitet: erst die Beine schieben
 - die Hüfte wird zu früh angewinkelt: schräge Landung durch taumelnde Schraube
 - der Kopf bleibt zu lange stehen: Kopf soll sich mit dem gesamten Körper in die gewünschte Drehrichtung bewegen; möglichst früh wieder die Orientierung zum Tuch finden
 
-Hilfestellung
-~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Hilfestellung
 
 - der Trainer/Helfende steht auf der Drehrichtung entgegengesetzten Seite des Aktiven und fasst von hinten die Hüften; in der Luft wird die Drehung an der Hüfte unterstützt
 
@@ -92,24 +85,21 @@ Technisch ist der Sprung eng verwandt mit der :ref:`½ Schraube zum Stand <SitzH
     Sitz - halbe Schraube in den Sitz in Phasendarstellung, Quelle: http://heiny.info/uni/sport/phasentrampolin.html
 
 
-Bewegungsbeschreibung
-~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Bewegungsbeschreibung
 
 - nach der bekannten Sitzlandung drückt sich der Springer kräftig mit den Händen ab
 - die Hüfte wird gestreckt und die Beine nach hinten geschoben (analog zu ½ Schraube zum Sitz)
 - die Arme bewegen sich wie bei "Sitz, ½ Schraube Stand" versetzt (hier etwas schneller) nach oben um eine Schraube einzuleiten, diesmal stoppen sie allerdings nicht oben, sondern werden wie bei einem Armkreis weitergeführt (für den Springer sind die Arme allerdings Vorne - Oben - Vorne - wie bei einer La-Ola-Welle, nur mit Schraube)
 - die Landung erfolgt wie beim Sitzsprung (leicht zurückgelehnt)
 
-Methodische Übungsreihe
-~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Methodische Übungsreihe
 
 - Armbewegung trocken im Stand üben
 - Bewegung in zwei Sprünge teilen: halbe Stand (mit kurzem flüchtigen Stand), halbe Sitz
 - Sitz ½ Schraube zum Stand bewusst beschleunigen und etwas mehr Vorlage in der ersten Phase verpassen um den anschließenden Sitz leicht zurückgelehnt zu ermöglichen, dann
 - wenn die halbe Schraube in den Stand schnell genug ist, kommt der anschließende Sitz oft von allein
 
-Fehler und Korrekturen
-~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Fehler und Korrekturen
 
 - der Oberkörper kippt zu früh nach vorne: flacher Sprung und zu schwache Schraube
 - der Oberkörper kippt nicht nach vorne; die Beine können nicht nach hinten geschoben werden: auch hier leidet die Schraubenrotation darunter und der folgende Sitz ist vorgelehnt, eventuell die Arme weiter hinten aufsetzen
