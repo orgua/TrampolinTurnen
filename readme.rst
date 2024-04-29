@@ -17,6 +17,10 @@ Links
 Latest Changes
 ---------------
 
+- 0.8.14
+
+  - fix web-layout
+
 - 0.8.13
 
   - Belehrung erweitert (endokrine störung)
