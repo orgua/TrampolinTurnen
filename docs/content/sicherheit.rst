@@ -23,15 +23,13 @@ Folgende Hinweise müssen unbedingt beachtet werden:
 
 Wichtig ist es, den Auf- und Abbau mit den Aktiven zu üben und immer wieder richtige **organisatorische Hinweise** zu geben. So ist es zum Beispiel sinnvoll, die jüngeren Kinder mit dem „Entsorgen“ der Rollständer oder dem Auslegen der Matten zu beauftragen. Sie können auch die nötigen Kästen oder Barren besorgen. Das Aufklappen sollte den Aktiven überlassen werden, die dazu kräftemäßig in der Lage und auch groß genug sind. Ist dies, beispielsweise bei einer Kindergruppe, nicht möglich, so sollte sich der verantwortliche Übungsleiter nicht scheuen, eventuell anwesende Eltern um Hilfe zu bitten.
 
-Transport des Trampolins
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: Transport des Trampolins
 
 - beim Transport durch die Halle muss auf eventuell herumliegende Gegenstände oder Bodenfeatures geachtet und ein Überfahren vermieden werden
 - um ein Umkippen zu vermeiden, wird das Trampolin längs bewegt, am besten an beiden Seiten von jeweils einer Person gezogen und geschoben
 - am Aufstellort des Trampolins dürfen sich keine von der Hallendecke hängenden Hindernisse befinden. Beispiele sind Turn-Ringe, Lampen und lose Seillongen.
 
-Heberollständer benutzen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: Heberollständer benutzen
 
 - manche Geräteräume erfordern ein Ablassen des Trampolins - daher muss das Gerät vor dem Aufbau wieder hochgehebelt werden
 - beim Benutzen der Heberollständer immer frontal zu diesen stehen - nicht seitlich dazu.
@@ -39,8 +37,7 @@ Heberollständer benutzen
 - Zunächst den unteren Sicherheitsbügel entfernen, danach den T-Griff greifen und erst anschließend den Sicherungsknopf herausziehen
 - **Synchron an beiden Heberollständern arbeiten**
 
-Ausklappen der Standfüße
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: Ausklappen der Standfüße
 
 - beim Kippen des Geräts darauf achten, dass die Ketten frei beweglich sind und nirgendwo hängenbleiben
 - darauf achten, dass der **innen liegende Standfuß** beim Kippen nicht **unkontrolliert auf den Boden oder Füße der Helfer fällt**. Der Aufprall verbiegt mitunter sehr schnell die Aufnahme für die Quergestänge üblicher Eurotramp-Geräte
@@ -49,8 +46,7 @@ Ausklappen der Standfüße
 - nun T-Griff greifen, Sicherungsknopf bedienen und dem Hebel kontrolliert nachgeben bis die Ketten gespannt sind
 - die Heberollständer sollten in sicherer Entfernung zum Trainingsbereich gelagert werden – am besten im Geräteraum
 
-Aufklappen der Trampolinflügel
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: Aufklappen der Trampolinflügel
 
 - beim Aufklappen des Trampolins beide Seitenflügel festhalten und nicht fallen lassen
 - der zweite Seitenflügel muss kräftig aufgezogen werden, da sich das Trampolintuch beim Aufklappen spannt; auf den letzten Zentimetern ist trotzdem ein Stützen des Flügels notwendig.
@@ -59,15 +55,13 @@ Aufklappen der Trampolinflügel
 - Abschließend die Rahmenpolster komplettieren
 - eine im Trampolin gelagerte Schiebematte bleibt bis zum vollständigen Aufbau auf dem Tuch liegen. Dies ist gleichzeitig Signalwirkung und aktive Sprungblockade.
 
-Absicherung der vier Seiten
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: Absicherung der vier Seiten
 
 - die Stirnseiten des Trampolins müssen mit Weichböden bzw. Trampolintischen abgesichert werden; darauf achten, dass die Kästen, Pferde oder Barren in etwa die Höhe des Trampolins haben; eventuelle Höhenunterschiede können mit kleinen Turnmatten ausgeglichen werden
 - die Längsseiten des Trampolins mit Bodenmatten und/oder Turnmatten sichern
 - vor Benutzen des Trampolins erst den korrekten Aufbau überprüfen; die Fußstützen sollen eingerastet, die Federn mit dem Haken nach unten montiert und die Ketten gespannt sein
 
-Abbau
-^^^^^^^^^^^
+.. rubric:: Abbau
 
 Der Abbau ist in vielen Punkten ähnlich zum Aufbau - Unterschiede werden nachfolgend erläutert.
 
@@ -117,8 +111,7 @@ Organisatorische Maßnahmen beim Training
 
 Auch während der Trainingsstunde sind einige Regeln vom Trainer und den Aktiven zu beachten.
 
-Hauptregeln
-^^^^^^^^^^^
+.. rubric:: Hauptregeln
 
 - den **Anweisungen des Trainers** sind Folge zu leisten
 - **nichts und niemand befindet sich unter dem Trampolin** oder den Mattentischen, außer es wird abweichendes angeordnet
@@ -127,16 +120,14 @@ Hauptregeln
 - **neue Sprungelemente** sind vorher **mit dem Trainer abzusprechen**. Dies gilt insbesondere für Sprünge mit Saltorotation sowie Landungen in Bauch- oder Rückenlage.
 - **kein Springen vom Trampolin auf den Boden** - vom Trampolin sollte heruntergeklettert werden (Muskeln passen sich der langsamen Bewegung an, es drohen Zerrung oder Faserriss)
 
-Zum Training
-^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: Zum Training
 
 - der Auf- und Abbau darf **nur unter Aufsicht** erfahrener Lehrkräfte erfolgen
 - das Training beginnt mit einer Erwärmung. Verspätete Teilnehmer holen diese selbstständig nach
 - Erkrankungen der Aktiven, besonders Herz-Lungen-Kreislauf-Probleme, endokrine Störungen (z.B. Diabetis) oder Anfallsleiden, sollten dem Trainer bekannt sein (Vertrauensbasis wahren) und mit externem Fachpersonal abgeklärt sein
 
 
-Umgang mit dem Trampolin
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: Umgang mit dem Trampolin
 
 - die Längsseiten sollten während des Trainings immer von den jeweils nicht aktiven Sportlern abgesichert werden. Diese sollen entsprechend aufmerksam sein. Im Falle eines Sturzes wird der Aktive nicht aufgefangen, sondern zurück aufs Trampolin befördert / gedrückt
 - unter und neben dem Trampolin befinden sich keine Gegenstände wie Flaschen o.ä.
@@ -147,8 +138,7 @@ Umgang mit dem Trampolin
 - im Falle eines Sturzes des Aktiven nicht mit den Händen abfangen, sondern versuchen auf den Rücken zu drehen
 - Knie sind im Tuch gestreckt. Ansonsten droht Gefahr ab gewissen Sprunghöhen
 
-Kleidung
-^^^^^^^^^^^
+.. rubric:: Kleidung
 
 - gesprungen wird **mit Strümpfen oder Turnschläppchen**, nicht barfuß oder in Turnschuhen
 - keine Ketten, Uhren, Festivalbändchen, offene Piercings oder lange Ohrringe beim Training tragen. Das gilt ebenfalls für die Übungsleiter/Trainer
@@ -174,8 +164,7 @@ Fehlgeschlagene „Versuche“ können durch spezielle Techniken und entsprechen
 
 Der Helfende muss sich dem Rhythmus des Aktiven anpassen können, ohne diesen zu behindern. Dies zeigt sich durch Abstoppen oder „hochschießen“ der Person. Höhere Sprünge erfordern ein vorheriges Mitspringen. Im Absprung selbst, auf "drei", muss der Trainer auf jeden Fall sicher im Tuch stehen bleiben. Dazu ein paar Übungsformen:
 
-Den Einfluss kontrollieren
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: Den Einfluss kontrollieren
 
 - zwei Personen stehen jeweils in ihrer Hälfte des Trampolins
 - Tipp: für den Anfang eignet sich ein etwa gleich schwerer Partner
@@ -189,8 +178,7 @@ Den Einfluss kontrollieren
 
 - Variation: 3x leicht Höhe mitgeben, 1x stark Höhe nehmen
 
-Den Störeinfluss minimieren
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: Den Störeinfluss minimieren
 
 - nun ist neutrales Mitspringen (gleichzeitige Landung) bzw. leichtes Mitgeben von Höhe gefordert
 - zwei Personen stehen sich gegenüber, fassen sich an den Händen und versuchen Strecksprünge gleichzeitig auf dem Trampolin auszuführen.
@@ -198,8 +186,7 @@ Den Störeinfluss minimieren
 - Variation B: Sprünge mit Drehungen
 - auf Kommando - in der Regel „und, eins, zwei, drei“ - führt der vorne Stehende einen einfachen Sprung aus, z.B. eine Hocke; der Helfende bleibt dabei mit beiden Füßen fest auf dem Trampolin stehen und verfolgt die Bewegung mit den Armen. Anschließend bei der Landung nicht vergessen einen Teil der Energie aufzunehmen!
 
-Die Technik perfektionieren
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. rubric:: Die Technik perfektionieren
 
 - sobald diese oben genannten Techniken mit einer Person verlässlich funktionieren, kann und sollte mit anderen Gewichtsklassen experimentiert werden
 - neutrales Mitspringen ist essentiell damit sich der aktive Springer auf den durchzuführenden Sprung konzentrieren kann
