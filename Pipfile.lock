@@ -674,11 +674,12 @@
         },
         "myst-parser": {
             "hashes": [
-                "sha256:7c36344ae39c8e740dad7fdabf5aa6fc4897a813083c6cc9990044eb93656b14",
-                "sha256:ea929a67a6a0b1683cdbe19b8d2e724cd7643f8aa3e7bb18dd65beac3483bead"
+                "sha256:6457aaa33a5d474aca678b8ead9b3dc298e89c68e67012e73146ea6fd54babf1",
+                "sha256:88f0cb406cb363b077d176b51c476f62d60604d68a8dcdf4832e080441301a87"
             ],
             "index": "pypi",
-            "version": "==2.0.0"
+            "markers": "python_version >= '3.8'",
+            "version": "==3.0.1"
         },
         "nodeenv": {
             "hashes": [
