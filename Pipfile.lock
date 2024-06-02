@@ -1043,11 +1043,12 @@
         },
         "sphinxawesome-theme": {
             "hashes": [
-                "sha256:3b08a4b8a26b3e8e2f35ab9dffd253a1860978f57a29ec3c8b361baffa8a4ed4",
-                "sha256:470f82e9a492b23abced404876d85726b42d0f86996dccf782a73c00fbad3595"
+                "sha256:56f1462f4ec4a5d66017819de6b7965a394d4157117bf12f029e7818d6789525",
+                "sha256:c24f1e5c0b9e475380d16fc5f1f3bfd84955817da0905d95f7e20809d7cd3c5d"
             ],
             "index": "pypi",
-            "version": "==5.1.4"
+            "markers": "python_version >= '3.8' and python_version < '4.0'",
+            "version": "==5.2.0"
         },
         "sphinxcontrib-applehelp": {
             "hashes": [
