@@ -40,14 +40,14 @@ repos:
 #    - id: rst-linter
 
   - repo: https://github.com/rstcheck/rstcheck
-    rev: v6.2.0
+    rev: v6.2.4
     hooks:
       - id: rstcheck
         additional_dependencies: ["rstcheck[sphinx,toml]"]
         args: ["--report-level=WARNING"]  # otherwise there is too much chatter
 
   - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: 'v0.4.2'
+    rev: 'v0.6.3'
     hooks:
       - id: ruff-format
       - id: ruff
