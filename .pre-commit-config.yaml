@@ -47,7 +47,7 @@ repos:
         args: ["--report-level=WARNING"]  # otherwise there is too much chatter
 
   - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: 'v0.9.10'
+    rev: 'v0.11.2'
     hooks:
       - id: ruff-format
       - id: ruff
