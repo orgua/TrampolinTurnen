@@ -1,0 +1,25 @@
+# virtual project for a dev-environment, usable via:
+# uv venv
+# uv pip install .
+[project]
+name = "Trampolinturnen"
+version = "0.8.14"
+description = "Einführung ins Trampolinturnen"
+readme = "README.md"
+
+dependencies = [
+    "sphinx>=7",
+    "sphinxawesome-theme",
+    "sphinx-sitemap",
+    "myst-parser",
+    # "sphinx-design",
+    "rstdoc",
+    # dev
+    "pre-commit",
+    "pre-commit-uv", # check with `pre-commit --version`
+    "bump2version",
+]
+requires-python = ">=3.13"
+
+[tool.uv]
+package = false
