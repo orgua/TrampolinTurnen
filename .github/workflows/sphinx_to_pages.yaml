@@ -22,7 +22,7 @@ jobs:
       pages: write
       id-token: write
     steps:
-      # TODO: it should be possible to ditch req.txt by using "pipenv install --system"
+
       - name: debug
         run: echo ${{ github.event_name }}
 
@@ -30,4 +30,5 @@ jobs:
         uses: sphinx-notes/pages@v3
         with:
           publish: true # ${{ (github.event_name == 'workflow_call') || (github.event_name == 'release') }}
-        # determine if our event is "release" or workflow_call
+          # determine if our event is "release" or workflow_call
+          requirements_path: './'  # installs pyproject.toml
