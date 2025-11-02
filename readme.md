@@ -57,7 +57,7 @@ cd _build/html
 python3 -m http.server
 ```
 
-In browser go to [](localhost:8000) to view the documentation.
+In browser go to [localhost:8000](localhost:8000) to view the documentation.
 
 ## Generating a PDF (+Install)
 
