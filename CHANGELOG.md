@@ -2,6 +2,9 @@
 
 ## 0.8.15
 
+- fix html theme
+  - remove TOC on right side
+  - make TOC on left side deeper
 - migrate to sphinx 8.2.3
 - update deps
 - update tooling and many libs

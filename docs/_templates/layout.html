@@ -1,0 +1,10 @@
+{%- extends "!layout.html" %}
+
+{{ super() }}
+
+{%- block main %}
+<!-- fill space, previously occupied by right toc-bar -->
+<main class="relative py-6">
+{%- block body %}{%- endblock %}
+</main>
+{%- endblock main %}

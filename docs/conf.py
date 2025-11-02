@@ -9,7 +9,7 @@ https://www.sphinx-doc.org/en/master/usage/configuration.html#project-informatio
 
 project = "Trampolinturnen"
 project_full = "Einführung ins Trampolinturnen"
-copyright = "2022-2024, Ingmar Splitt"
+copyright = "2022-2025, Ingmar Splitt"
 author = "Ingmar Splitt, Jan Voigt"
 release = "0.8.15"
 builder = "html latexpdf"
@@ -18,7 +18,6 @@ builder = "html latexpdf"
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    "sphinxawesome_theme",
     "sphinx_sitemap",
     #    "myst_parser", # if used enable line below
 ]
@@ -37,11 +36,12 @@ html_title = project_full
 html_collapsible_definitions = True
 html_copy_source = True
 
-html_permalinks_icon = "<span>#</span>"
 html_theme = "sphinxawesome_theme"
 html_theme_options = {
     "show_scrolltop": True,
+    "show_breadcrumbs": True,
     "show_prev_next": True,
+    "awesome_external_links": True,
     "main_nav_links": {
         "PDF-Version": "https://github.com/orgua/TrampolinTurnen/releases",
         "Quelldateien": "https://github.com/orgua/TrampolinTurnen/tree/main/docs/content",
@@ -49,8 +49,11 @@ html_theme_options = {
 }
 # TODO: https://sphinxawesome.xyz/how-to/options/
 html_baseurl = "https://orgua.github.io/TrampolinTurnen/"
+html_permalinks_icon = "<span>#</span>"
 html_extra_path = ["robots.txt"]
 html_static_path = ["_static"]
+
+pygments_style = "friendly"
 
 sitemap_url_scheme = "{link}"
 
