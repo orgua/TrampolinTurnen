@@ -18,20 +18,24 @@ jobs:
       var_test: ${{ github.event_name }}
     steps:
 
-      - name: Set up Python 🐍
-        uses: actions/setup-python@v6
-        with:
-          python-version: 3.14
       - name: Checkout 🛎️
         uses: actions/checkout@v5
         with:
           fetch-depth: 0 # otherwise, you will fail to push refs to dest repo
 
-      - name: Install dependencies 🔧
-        run: |
-          sudo apt install texlive-latex-recommended texlive-fonts-recommended
-          sudo apt install texlive-latex-extra tex-gyre latexmk texlive-lang-german
-          pip install -r docs/requirements.txt
+      - name: Install uv 🔧 & set up Python 🐍
+        uses: astral-sh/setup-uv@v7
+        with:
+          python-version: 3.14
+          enable-cache: true
+          activate-environment: true
+
+      - name: Install dependencies A 🔧
+        run: sudo apt install texlive-latex-recommended texlive-fonts-recommended
+      - name: Install dependencies B 🔧
+        run: sudo apt install texlive-latex-extra tex-gyre latexmk texlive-lang-german
+      - name: Install dependencies C 🔧
+        run: uv pip install .
 
       - name: Build PDF 🧱
         run: make latexpdf
