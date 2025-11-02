@@ -11,7 +11,7 @@ project = "Trampolinturnen"
 project_full = "Einführung ins Trampolinturnen"
 copyright = "2022-2024, Ingmar Splitt"
 author = "Ingmar Splitt, Jan Voigt"
-release = "0.8.14"
+release = "0.8.15"
 builder = "html latexpdf"
 
 # -- General configuration ---------------------------------------------------

@@ -3,7 +3,7 @@
 # uv pip install .
 [project]
 name = "Trampolinturnen"
-version = "0.8.14"
+version = "0.8.15"
 description = "Einführung ins Trampolinturnen"
 readme = "README.md"
 
