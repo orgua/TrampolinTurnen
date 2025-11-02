@@ -39,6 +39,15 @@ repos:
 #    hooks:
 #    - id: rst-linter
 
+  - repo: https://github.com/sirosen/texthooks
+    rev: 0.7.1
+    hooks:
+      #- id: fix-smartquotes
+      - id: fix-ligatures
+      - id: fix-spaces
+      #- id: fix-unicode-dashes
+      - id: forbid-bidi-controls
+
   - repo: https://github.com/rstcheck/rstcheck
     rev: v6.2.5
     hooks:
