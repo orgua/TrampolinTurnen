@@ -1,4 +1,4 @@
-name: Test for QualityAssurance
+name: QualityAssurance
 on:
   push:
     branches: [main]

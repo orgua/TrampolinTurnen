@@ -17,9 +17,9 @@ jobs:
     permissions:
       pages: write
       id-token: write
-    uses: ./.github/workflows/sphinx_to_pages.yml
+    uses: sphinx_to_pages.yaml
   build-pdf:
-    uses: ./.github/workflows/sphinx_to_pdf.yml
+    uses: sphinx_to_pdf.yaml
   release:
     runs-on: ubuntu-latest
     needs:
