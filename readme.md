@@ -1,14 +1,18 @@
 # Einführung ins TrampolinTurnen
 
-[![pages-deployment](https://github.com/orgua/TrampolinTurnen/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/orgua/TrampolinTurnen/actions/workflows/pages/pages-build-deployment)
+[![Pages-Deployment](https://github.com/orgua/TrampolinTurnen/actions/workflows/sphinx_to_pages.yaml/badge.svg)](https://github.com/orgua/TrampolinTurnen/actions/workflows/sphinx_to_pages.yaml)
 
-## Links
+**Inhalt als Webseite 📱**: <https://orgua.github.io/TrampolinTurnen/>
 
-**Inhalt als Webseite 📱** <https://orgua.github.io/TrampolinTurnen/>
+**Inhalt als PDF 📄**: <https://github.com/orgua/TrampolinTurnen/releases>
 
-**Inhalt als PDF 📄** <https://github.com/orgua/TrampolinTurnen/releases>
+**Inhalt als reStructuredText 💻**: <https://github.com/orgua/TrampolinTurnen/tree/main/docs/content>
 
-**Inhalt als reStructuredText 💻** <https://github.com/orgua/TrampolinTurnen/tree/main/docs/content>
+---
+
+Dieses Repository enthält die Quellen zum Leitfaden für Trainer,Kursleiter, Lehrer und Gruppenhelfer.
+Es wird daran gearbeitet die Basisscheine I und II, sowie Teile von der Trainer C Ausbildung abzudecken.
+Die Inhalte werden sowohl als PDFBroschüre, als auch als Webseite veröffentlicht.
 
 ## Wie kann ich beitragen?
 
