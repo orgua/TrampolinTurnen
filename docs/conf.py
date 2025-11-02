@@ -83,7 +83,7 @@ latex_elements = {
     "transition": "\\bigskip",
     # passoptionstopackages
     "preamble": r"\input{style.tex.txt}",
-    # MTB
+    # MTB-Design
     "sphinxsetup": """
         InnerLinkColor = {rgb}{0.6,0,0}, % red
         OuterLinkColor = {rgb}{0.6,0,0},
