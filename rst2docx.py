@@ -1,5 +1,4 @@
-"""
-A script that feeds the sphinx-rst-content into pandoc and generates a complete DocX
+"""Feed the sphinx-rst-content into pandoc and generates a complete DocX-file.
 
 Note: pandoc must be installed via apt
 
