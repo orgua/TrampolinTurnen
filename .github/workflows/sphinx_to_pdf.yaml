@@ -42,7 +42,7 @@ jobs:
         working-directory: "./docs"
 
       - name: Upload artifacts to GitHub 🔼
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: "Trampolinturnen"
           path: "docs/_build/latex/trampolinturnen.pdf"
