@@ -15,8 +15,7 @@ dependencies = [
     # "sphinx-design",
     "rstdoc",
     # dev
-    "pre-commit",
-    "pre-commit-uv", # check with `pre-commit --version`
+    "prek",
     "bump2version",
 ]
 requires-python = ">=3.12"
