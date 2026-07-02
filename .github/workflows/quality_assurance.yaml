@@ -17,7 +17,7 @@ jobs:
           python-version: 3.14
 
       - name: Checkout 🛎️
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: Run Pre-Commit Tests 🧪
         uses: pre-commit/action@v3.0.1
